@@ -1,4 +1,12 @@
-
+- title: "Analysis of gravity-driven infiltration with the development of a saturated region"
+  authors: "M.A. Shadab and M.A. Hesse"
+  url: shadab_infiltration_analytics2022
+  image: 
+  journal: "Water Resources Research, AGU"
+  info: 
+  year: 2022
+  doi: https://doi.org/10.1029/2022WR032963
+  abstract: "Understanding the controls on the infiltration of precipitation into soil is an important problem in hydrology and its representation in heterogeneous media is still challenging. Here we investigate the reduction of gravity-driven infiltration by the development of a saturated region due to the downward decrease in porosity and/or hydraulic conductivity. The formation of a saturated region chokes the flow and leads to a rising perched water table that causes ponding even when rainfall intensity is lower than the surface infiltration capacity. Mathematically this problem is interesting, because its governing partial differential equation switches from hyperbolic in the unsaturated region to elliptic in the saturated region. To analyze this coupled unsaturated-saturated flow we develop an extended kinematic wave analysis in the limit of no capillary forces. This theory provides a general framework to solve gravity-dominated infiltration problems for arbitrary downward decrease in porosity and/or conductivity. We apply the framework to three soil profiles (two-layer, exponential and power-law decay with depth) and develop (semi-) analytic solutions for evolution of the water saturation. For the case of a two-layer soil the saturated flux, and therefore the front speeds, are constant which allows explicit analytic solutions that agree well with Hydrus-1D. All solutions show excellent agreement with our numerical solutions of the governing equations in the limit of no capillary forces. Similarly, our solutions compare well with experimental data for infiltration into a multi-layer soil with declining hydraulic conductivity."
 
 - title: "Investigating Steady Unconfined Groundwater Flow using Physics Informed Neural Networks"
   authors: "M.A. Shadab and D. Luo and Y. Shen and E. Hiatt and M.A. Hesse"
