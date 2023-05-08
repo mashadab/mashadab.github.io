@@ -1,3 +1,15 @@
+- title: "Investigating steady unconfined groundwater flow using Physics Informed Neural Networks,
+Advances in Water Resources"
+  authors: "Mohammad Afzal Shadab, Dingcheng Luo, Eric Hiatt, Yiran Shen, Marc Andre Hesse"
+  url: shadab_infiltration_analytics2022
+  image: 
+  journal: "Advances in Water Resources, Elsevier"
+  info: 
+  year: 2023
+  doi: https://doi.org/10.1016/j.advwatres.2023.104445
+  abstract: "A deep learning technique called Physics Informed Neural Networks (PINNs) is adapted to study steady groundwater flow in unconfined aquifers. This technique utilizes information from underlying physics represented in the form of partial differential equations (PDEs) alongside data obtained from physical observations. In this work, we consider the Dupuit-Boussinesq equation, which is based on the Dupuit-Forchheimer approximation, as well as a recent, more complete model derived by Di Nucci (2018) as underlying models. We then train PINNs on data obtained from steady-state analytical solutions and laboratory based experiments. Using PINNs, we predict phreatic surface profiles given different input flow conditions and recover estimates for the hydraulic conductivity from the experimental observations. We show that PINNs can eliminate the inherent inability of the Dupuit-Boussinesq equation to predict flows with seepage faces. Moreover, the inclusion of physics information from the Di Nucci and Dupuit-Boussinesq models constrains the solution space and produces better predictions than training on data alone. PINNs based predictions are robust and show a little effect from added noise in the training data. Furthermore, we compare the PINNs solutions obtained via the Di Nucci and Dupuit-Boussinesq flow models to examine the effects of higher order flow terms that are included in the Di Nucci formulation but are neglected by the Dupuit-Boussinesq approximation. Lastly, we discuss the effectiveness of using PINNs for examining groundwater flow."
+
+
 - title: "Analysis of gravity-driven infiltration with the development of a saturated region"
   authors: "M.A. Shadab and M.A. Hesse"
   url: shadab_infiltration_analytics2022
