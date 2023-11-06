@@ -1,3 +1,13 @@
+- title: "PKgui: A GUI software for Polubarinova-Kochina’s solutions of steady unconfined groundwater flow"
+  authors: "Mohammad Afzal Shadab, Eric Hiatt, Marc Andre Hesse"
+  url: shadab_PKgui_2023
+  image: 
+  journal: "SoftwareX, Elsevier"
+  info: 
+  year: 2023
+  doi: https://doi.org/10.1016/j.softx.2023.101573
+  abstract: "A Python program and standalone executables with a graphical user interface (PKgui) have been developed to solve the classical semi-analytic solutions derived by Polubarinova-Kochina for a steady unconfined aquifer across a rectangular dam/aquifer. Although considered very useful in geotechnical and groundwater communities, these solutions have not been widely used in the literature due to their mathematical and computational complexities. Using nonlinear least squares optimization toolbox, this program solves a set of coupled nonlinear integral equations directly, efficiently, and accurately. Lastly, a theoretical limit to applicability of Polubarinova-Kochina’s results and therefore the software outputs are also discussed."
+
 - title: "Limited recharge of the southern highlands aquifer on early Mars"
   authors: "Eric Hiatt, Mohammad Afzal Shadab, Timothy Goudge, Sean P.S. Gulick, Marc Andre Hesse"
   url: hiatt_MarsIcarus_2023
