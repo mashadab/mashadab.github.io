@@ -1,0 +1,70 @@
+Retrieving notices: ...working... done
+Collecting package metadata (current_repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /Users/afzal-admin/opt/anaconda3
+
+  added / updated specs:
+    - pyqt
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    cyrus-sasl-2.1.28          |       h3973f50_1         224 KB
+    glib-2.69.1                |       hfff2838_2         3.0 MB
+    gst-plugins-base-1.14.1    |       hcec6c5f_1         1.7 MB
+    gstreamer-1.14.1           |       h6c40b1e_1         1.7 MB
+    libclang-14.0.6            |default_hd95374b_1         138 KB
+    libclang13-14.0.6          |default_habbcc1a_1         7.1 MB
+    libdeflate-1.17            |       hb664fd8_1          67 KB
+    libpq-12.15                |       h04015c4_1         2.5 MB
+    libtiff-4.5.1              |       hcec6c5f_0         508 KB
+    libwebp-1.3.2              |       hf6ce154_0          84 KB
+    libwebp-base-1.3.2         |       h6c40b1e_0         371 KB
+    mysql-5.7.24               |       h1a8d504_2        58.4 MB
+    pyqt-5.15.7                |   py38he9d5cce_0         3.9 MB
+    pyqt5-sip-12.11.0          |   py38he9d5cce_0          75 KB
+    qt-5.15.9                  |       hecd8cb5_0          10 KB
+    qt-main-5.15.2             |       h1076e38_9        45.0 MB
+    qt-webengine-5.15.9        |       h90a370e_7        52.0 MB
+    qtwebkit-5.212             |       hbfab81c_5        10.6 MB
+    sip-6.6.2                  |   py38he9d5cce_0         419 KB
+    ------------------------------------------------------------
+                                           Total:       187.8 MB
+
+The following NEW packages will be INSTALLED:
+
+  cyrus-sasl         pkgs/main/osx-64::cyrus-sasl-2.1.28-h3973f50_1 
+  giflib             pkgs/main/osx-64::giflib-5.2.1-h6c40b1e_3 
+  glib               pkgs/main/osx-64::glib-2.69.1-hfff2838_2 
+  gst-plugins-base   pkgs/main/osx-64::gst-plugins-base-1.14.1-hcec6c5f_1 
+  gstreamer          pkgs/main/osx-64::gstreamer-1.14.1-h6c40b1e_1 
+  lerc               pkgs/main/osx-64::lerc-3.0-he9d5cce_0 
+  libclang           pkgs/main/osx-64::libclang-14.0.6-default_hd95374b_1 
+  libclang13         pkgs/main/osx-64::libclang13-14.0.6-default_habbcc1a_1 
+  libdeflate         pkgs/main/osx-64::libdeflate-1.17-hb664fd8_1 
+  libpq              pkgs/main/osx-64::libpq-12.15-h04015c4_1 
+  libtiff            pkgs/main/osx-64::libtiff-4.5.1-hcec6c5f_0 
+  libwebp            pkgs/main/osx-64::libwebp-1.3.2-hf6ce154_0 
+  libwebp-base       pkgs/main/osx-64::libwebp-base-1.3.2-h6c40b1e_0 
+  mysql              pkgs/main/osx-64::mysql-5.7.24-h1a8d504_2 
+  pcre               pkgs/main/osx-64::pcre-8.45-h23ab428_0 
+  ply                pkgs/main/osx-64::ply-3.11-py38_0 
+  pyqt               pkgs/main/osx-64::pyqt-5.15.7-py38he9d5cce_0 
+  pyqt5-sip          pkgs/main/osx-64::pyqt5-sip-12.11.0-py38he9d5cce_0 
+  qt-main            pkgs/main/osx-64::qt-main-5.15.2-h1076e38_9 
+  qt-webengine       pkgs/main/osx-64::qt-webengine-5.15.9-h90a370e_7 
+  qtwebkit           pkgs/main/osx-64::qtwebkit-5.212-hbfab81c_5 
+  sip                pkgs/main/osx-64::sip-6.6.2-py38he9d5cce_0 
+  toml               pkgs/main/noarch::toml-0.10.2-pyhd3eb1b0_0 
+
+The following packages will be UPDATED:
+
+  qt                                       5.9.7-h468cd18_1 --> 5.15.9-hecd8cb5_0 
+
+
+Proceed ([y]/n)? 
