@@ -1,3 +1,15 @@
+- title: "A hyperbolic–elliptic PDE model and conservative numerical method for gravity-dominated variably-saturated groundwater flow"
+  authors: "Mohammad Afzal Shadab, Marc Andre Hesse"
+  url: shadab_varsatflow_2024
+  image: 
+  journal: "Advances in water resources, Elsevier"
+  info: ISSN 0309-1708
+  year: 2024
+  doi: https://doi.org/10.1016/j.advwatres.2024.104736.
+(https://www.sciencedirect.com/science/article/pii/S0309170824001234)
+  abstract: "Richards equation is often used to represent two-phase fluid flow in an unsaturated porous medium when one phase is much heavier and more viscous than the other. However, it cannot describe the fully saturated flow for some capillary functions without specialized treatment due to degeneracy in the capillary pressure term. Mathematically, gravity-dominated variably saturated flows are interesting because their governing partial differential equation switches from hyperbolic in the unsaturated region to elliptic in the saturated region. Moreover, the presence of wetting fronts introduces strong spatial gradients often leading to numerical instability. In this work, we develop a robust, multidimensional mathematical model and implement a well-known efficient and conservative numerical method for such variably saturated flow in the limit of negligible capillary forces. The elliptic problem in saturated regions is integrated efficiently into our framework by solving a reduced system corresponding only to the saturated cells using fixed head boundary conditions in the unsaturated cells. In summary, this coupled hyperbolic–elliptic PDE framework provides an efficient, physics-based extension of the hyperbolic Richards equation to simulate fully saturated regions. Finally, we provide a suite of easy-to-implement yet challenging benchmark test problems involving saturated flows in one and two dimensions. These simple problems, accompanied by their corresponding analytical solutions, can prove to be pivotal for the code verification, model validation (V&V) and performance comparison of simulators for variably saturated flow. Our numerical solutions show an excellent comparison with the analytical results for the proposed problems. The last test problem on two-dimensional infiltration in a stratified, heterogeneous soil shows the formation and evolution of multiple disconnected saturated regions."
+
+
 - title: "PKgui: A GUI software for Polubarinova-Kochina’s solutions of steady unconfined groundwater flow"
   authors: "Mohammad Afzal Shadab, Eric Hiatt, Marc Andre Hesse"
   url: shadab_PKgui_2023
