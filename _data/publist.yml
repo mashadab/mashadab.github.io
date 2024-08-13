@@ -1,4 +1,14 @@
 - title: "A hyperbolic–elliptic PDE model and conservative numerical method for gravity-dominated variably-saturated groundwater flow"
+  authors: "Mohammad Afzal Shadab, Surendra Adhikari, Anja Rutishauser, Cyril Grima, Marc Andre Hesse"
+  url: shadab_IceLayerGRL_2024
+  image: 
+  journal: "Geophysical Research Letters"
+  info:
+  year: 2024
+  doi: https://doi.org/10.1029/2024GL109893
+  abstract: "There is ample evidence for ice layers and lenses within glacial firn. The standard model for ice layer formation localizes the refreezing by perching of meltwater on pre-existing discontinuities. Here we argue that even extreme melting events provide insufficient flux for this mechanism. Using a thermomechanical model we demonstrate a different mechanism of ice layer formation. After a melting event when the drying front catches up with the wetting front and arrests melt percolation, conductive heat loss freezes the remaining melt in place to form an ice layer. This model reproduces the depth of a new ice layer at the Dye-2 site in Greenland. It provides a deeper insight into the interpretation of firn stratigraphy and past climate variability. It also improves the simulation of firn densification processes, a key source of uncertainty in assessing and attributing ice sheet mass balance based on satellite altimetry and gravimetry data."
+
+- title: "A hyperbolic–elliptic PDE model and conservative numerical method for gravity-dominated variably-saturated groundwater flow"
   authors: "Mohammad Afzal Shadab, Marc Andre Hesse"
   url: shadab_varsatflow_2024
   image: 
