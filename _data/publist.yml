@@ -1,3 +1,13 @@
+- title: "Infiltration Dynamics on Early Mars: Geomorphic, Climatic, and Water Storage Implications"
+  authors: "Mohammad Afzal Shadab et al."
+  url: Shadab2025_GRL_InfiltrationonMars
+  image: 
+  journal: "Geophysical Research Letters"
+  info:
+  year: 2025
+  doi: https://doi.org/10.1029/2024GL111939
+  abstract: "On early Mars, the integration of surface, groundwater, and climate systems into an integrated hydrological system remains poorly understood. The partitioning of precipitation, between surface and groundwater via infiltration, controls the Martian aquifer recharge rates and, subsequently, surface erosion processes. We investigate infiltration at two scales, near-surface and deep crustal. We estimate infiltration timescales, revealing that near-surface water loss enhances aeolian erosion over short periods (hours to days). Deep crustal recharge, which requires decades to centuries, affects the deep aquifer response and the water budget. Martian crustal heterogeneity influences infiltration dynamics and runoff production making them dependent on the duration of precipitation. This interaction suggests that the responses of the aquifers to recharge events and groundwater upwelling likely lag behind climate optimum conditions. The accommodation space between topography and aquifer influences Mars' water budget by transiently sequestering water, thus limiting the available water for surface evaporation and inclusion in climate dynamics."
+
 - title: "History and Habitability of the LP 890-9 Planetary System"
   authors: "Barnes, Rory et al. (including Shadab, Mohammad Afzal)"
   url: Barnes_2025_Planet._Sci._J._6_25
