@@ -1,3 +1,13 @@
+- title: "A unified kinematic wave theory for melt infiltration into firn"
+  authors: "Mohammad Afzal Shadab and Marc Hesse"
+  url: shadab2025_UKWT
+  image: 
+  journal: "Journal of Glaciology"
+  info:
+  year: 2025
+  doi: https://doi.org/10.1017/jog.2025.10055
+  abstract: "Motivated by the ponding and refreezing of meltwater in firn, we analyze the interaction of liquid water and non-reactive gas with porous ice by developing a unified kinematic wave theory. The wave theory is based on the conservation of composition and enthalpy, coupling advective heat and mass transport in firn, and encompasses cases of meltwater perching where the conventional kinematic wave approximation fails. For simple initial conditions (Riemann problems), this model allows for self-similar solutions that reveal the structure of melting/refreezing fronts, with analytical solutions provided for 12 basic cases of physical relevance encountered in the literature. These solutions offer insights into processes such as the formation of frozen fringes, the perching of meltwater on low-porosity layers, and conditions for impermeable ice layer formation. This theoretical framework can enhance our understanding of the partitioning between meltwater infiltration and surface runoff, which influences surface mass loss from ice sheets and contributes to sea level rise. Furthermore, these analytic solutions serve as benchmarks for numerical models and can aid in the improvement and comparison of firn hydrology, ice-sheet, and Earth system models."
+
 - title: "Infiltration Dynamics on Early Mars: Geomorphic, Climatic, and Water Storage Implications"
   authors: "Mohammad Afzal Shadab et al."
   url: Shadab2025_GRL_InfiltrationonMars
@@ -9,7 +19,7 @@
   abstract: "On early Mars, the integration of surface, groundwater, and climate systems into an integrated hydrological system remains poorly understood. The partitioning of precipitation, between surface and groundwater via infiltration, controls the Martian aquifer recharge rates and, subsequently, surface erosion processes. We investigate infiltration at two scales, near-surface and deep crustal. We estimate infiltration timescales, revealing that near-surface water loss enhances aeolian erosion over short periods (hours to days). Deep crustal recharge, which requires decades to centuries, affects the deep aquifer response and the water budget. Martian crustal heterogeneity influences infiltration dynamics and runoff production making them dependent on the duration of precipitation. This interaction suggests that the responses of the aquifers to recharge events and groundwater upwelling likely lag behind climate optimum conditions. The accommodation space between topography and aquifer influences Mars' water budget by transiently sequestering water, thus limiting the available water for surface evaporation and inclusion in climate dynamics."
 
 - title: "History and Habitability of the LP 890-9 Planetary System"
-  authors: "Barnes, Rory et al. (including Shadab, Mohammad Afzal)"
+  authors: "Rory Barnes et al. (including Mohammad Afzal Shadab)"
   url: Barnes_2025_Planet._Sci._J._6_25
   image: 
   journal: "The Planetary Science Journal"
