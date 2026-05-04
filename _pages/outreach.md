@@ -65,7 +65,11 @@ Hydrologic modeling activities for K–12 and high school students.
 ### Team Member, University of Texas at Austin Libraries HELIOS team  (2022-24)
 
 <p align="center">
-  <img src="/assets/outreach/helios.jpg"
+  <img src="/assets/outreach/photo12.jpg"
+       style="width:250px; height:180px; object-fit:cover; border-radius:8px;"><br><br>
+  <img src="/assets/outreach/photo13.jpg"
+       style="width:250px; height:180px; object-fit:cover; border-radius:8px;"><br><br>
+  <img src="/assets/outreach/photo14.jpg"
        style="width:250px; height:180px; object-fit:cover; border-radius:8px;"><br><br>
 
   <b>Open Science & Policy Engagement (HELIOS Initiative)</b><br>
