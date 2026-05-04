@@ -165,8 +165,11 @@ Investigating how physical process representations affect large-scale integrated
 
 </div>
 
-<div class="col-md-4 col-sm-12 project-media">
-<iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
+
+<div class="project-media">
+<video autoplay loop muted playsinline>
+  <source src="{{ '/assets/terrestrial.mp4' | relative_url }}" type="video/mp4">
+</video>
 </div>
 </div>
 </div>
