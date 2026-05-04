@@ -74,13 +74,11 @@ transport, and environmental change across Earth and planetary systems.
 <div class="project-category">
 <h3>Cryosphere Hydrology</h3>
 
-<p class="project-meta">
+<div class="project-card">
 <div class="row align-items-center">
 <div class="col-md-8 col-sm-12">
-
 <h4>Firn Densification and Meltwater Percolation</h4>
 
-<p class="project-meta">
 <b>Collaborators:</b>
 Surendra Adhikari (NASA JPL), C. Max Stevens (NASA Goddard), Asa Rennermalm (Rutgers),
 Jing Xiao (Rutgers), Marc Hesse (UT Austin), Reed Maxwell (Princeton)
