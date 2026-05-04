@@ -8,183 +8,94 @@ permalink: /outreach/
 
 I enjoy making Earth and planetary science accessible to broader communities through teaching, mentoring, public engagement, and hands-on educational activities.
 
-<style>
-.outreach-section {
-  margin: 42px 0 56px 0;
-}
+---
 
-.outreach-section h2 {
-  margin-bottom: 4px;
-}
+## Science Outreach Educator  
+*Integrated Groundwater Modeling Center, Princeton University (2024–Present)*
 
-.outreach-affiliation {
-  color: #555;
-  margin-top: 0;
-  margin-bottom: 24px;
-}
+### Spring Into Science 2026  
+**&gt;1000 participants**
 
-.outreach-event {
-  margin: 28px 0 42px 0;
-  clear: both;
-}
+<p>
+  <img src="{{ '/assets/outreach/photo9.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+  <img src="{{ '/assets/outreach/photo10.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+  <img src="{{ '/assets/outreach/photo11.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+</p>
 
-.outreach-event h3 {
-  margin-bottom: 4px;
-}
+### Earth Day 2026  
+**&gt;200 participants**
 
-.outreach-meta {
-  color: #555;
-  margin-top: 0;
-  margin-bottom: 14px;
-}
+### World Water Day 2026 Outreach  
+**&gt;100 participants**
 
-.outreach-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  justify-content: flex-start;
-  align-items: flex-start;
-  margin-top: 12px;
-}
+<p>
+  <img src="{{ '/assets/outreach/photo2.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+  <img src="{{ '/assets/outreach/photo1.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+</p>
 
-.outreach-gallery img {
-  width: 240px;
-  height: 170px;
-  object-fit: cover;
-  border-radius: 8px;
-}
+### Watershed Academy Outreach  
 
-.outreach-links {
-  margin-top: 12px;
-  text-align: left;
-}
+Instructed hydrologic modeling to 20 high school students.
 
-.outreach-links a {
-  white-space: nowrap;
-}
+<p>
+  <img src="{{ '/assets/outreach/photo4.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+  <img src="{{ '/assets/outreach/photo6.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+  <img src="{{ '/assets/outreach/photo8.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+  <img src="{{ '/assets/outreach/photo7.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+</p>
 
-.outreach-divider {
-  margin: 48px 0;
-}
-</style>
+### World Water Day 2025 Outreach  
+**&gt;200 participants**
+
+<p>
+  <img src="{{ '/assets/outreach/photo3.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+</p>
+
+Hydrologic modeling activities for K–12 and high school students.
 
 ---
 
-<div class="outreach-section">
+## Open Science & Policy Engagement  
+*UT Austin HELIOS Initiative (2023–2024)*
 
-<h2>Science Outreach Educator</h2>
-<p class="outreach-affiliation"><em>Integrated Groundwater Modeling Center, Princeton University (2024–Present)</em></p>
+Advancing open scholarship and science policy.
 
-<div class="outreach-event">
-  <h3>Spring Into Science 2026</h3>
-  <p class="outreach-meta">&gt;1000 participants</p>
+### U.S. White House Open Science Listening Sessions
 
-  <div class="outreach-gallery">
-    <img src="/assets/outreach/photo9.jpg" alt="Spring Into Science outreach activity">
-    <img src="/assets/outreach/photo10.jpg" alt="Spring Into Science outreach activity">
-    <img src="/assets/outreach/photo11.jpg" alt="Spring Into Science outreach activity">
-  </div>
-</div>
+<p>
+  <img src="{{ '/assets/outreach/photo14.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+  <img src="{{ '/assets/outreach/photo15.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+</p>
 
-<div class="outreach-event">
-  <h3>Earth Day 2026</h3>
-  <p class="outreach-meta">&gt;200 participants</p>
-</div>
+<p>
+  <a href="https://sites.utexas.edu/openaccess/2023/06/13/importance-of-affordable-open-science/" target="_blank">News</a> ·
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7069759865090424832/" target="_blank">Post</a> ·
+  <a href="https://www.youtube.com/watch?v=Rs-sPbJd2AU" target="_blank">Video</a>
+</p>
 
-<div class="outreach-event">
-  <h3>World Water Day 2026 Outreach</h3>
-  <p class="outreach-meta">&gt;100 participants</p>
+### Open Science Panel Discussions
 
-  <div class="outreach-gallery">
-    <img src="/assets/outreach/photo1.jpg" alt="World Water Day 2026 outreach activity">
-    <img src="/assets/outreach/photo2.jpg" alt="World Water Day 2026 outreach activity">
-  </div>
-</div>
+<p>
+  <img src="{{ '/assets/outreach/photo13.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+  <img src="{{ '/assets/outreach/photo12.jpg' | relative_url }}" style="width:240px; height:170px; object-fit:cover; border-radius:8px; margin:4px;">
+</p>
 
-<div class="outreach-event">
-  <h3>Watershed Academy Outreach</h3>
-  <p class="outreach-meta">Instructed hydrologic modeling to 20 high school students.</p>
+<p>
+  <a href="https://nna-co.org/past-events" target="_blank">Navigating the New Arctic</a> ·
+  <a href="https://www.lib.utexas.edu/events/texas-open-science-summit" target="_blank">Texas Open Science Summit</a> ·
+  <a href="https://www.ifla.org/events/ifla-arl-webinar-open-science-policies-and-best-practices-11-october-2023/" target="_blank">IFLA Open Science Webinar</a>
+</p>
 
-  <div class="outreach-gallery">
-    <img src="/assets/outreach/photo4.jpg" alt="Watershed Academy outreach activity">
-    <img src="/assets/outreach/photo6.jpg" alt="Watershed Academy outreach activity">
-    <img src="/assets/outreach/photo8.jpg" alt="Watershed Academy outreach activity">
-    <img src="/assets/outreach/photo7.jpg" alt="Watershed Academy outreach activity">
-  </div>
-</div>
+---
 
-<div class="outreach-event">
-  <h3>World Water Day 2025 Outreach</h3>
-  <p class="outreach-meta">&gt;200 participants</p>
+## Geoscience Ambassador  
+*The University of Texas at Austin (2023–2024)*
 
-  <div class="outreach-gallery">
-    <img src="/assets/outreach/photo3.jpg" alt="World Water Day 2025 outreach activity">
-  </div>
-</div>
+Promoting accessible and interdisciplinary geoscience education.
 
-<p>Hydrologic modeling activities for K–12 and high school students.</p>
+---
 
-</div>
+## Zonal Head Ambassador  
+*Smilyo Educational Charitable Society, Delhi, India (2014–2015)*
 
-<div class="outreach-divider"></div>
-
-<div class="outreach-section">
-
-<h2>Open Science & Policy Engagement</h2>
-<p class="outreach-affiliation"><em>UT Austin HELIOS Initiative (2023–2024)</em></p>
-
-<p>Advancing open scholarship and science policy.</p>
-
-<div class="outreach-event">
-  <h3>U.S. White House Open Science Listening Sessions</h3>
-
-  <div class="outreach-gallery">
-    <img src="/assets/outreach/photo14.jpg" alt="White House Open Science Listening Session">
-    <img src="/assets/outreach/photo15.jpg" alt="White House Open Science Listening Session">
-  </div>
-
-  <p class="outreach-links">
-    <a href="https://sites.utexas.edu/openaccess/2023/06/13/importance-of-affordable-open-science/" target="_blank">News</a> ·
-    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7069759865090424832/" target="_blank">Post</a> ·
-    <a href="https://www.youtube.com/watch?v=Rs-sPbJd2AU" target="_blank">Video</a>
-  </p>
-</div>
-
-<div class="outreach-event">
-  <h3>Open Science Panel Discussions</h3>
-
-  <div class="outreach-gallery">
-    <img src="/assets/outreach/photo13.jpg" alt="Open Science panel discussion">
-    <img src="/assets/outreach/photo12.jpg" alt="Open Science panel discussion">
-  </div>
-
-  <p class="outreach-links">
-    <a href="https://nna-co.org/past-events" target="_blank">Navigating the New Arctic</a> ·
-    <a href="https://www.lib.utexas.edu/events/texas-open-science-summit" target="_blank">Texas Open Science Summit</a> ·
-    <a href="https://www.ifla.org/events/ifla-arl-webinar-open-science-policies-and-best-practices-11-october-2023/" target="_blank">IFLA Open Science Webinar</a>
-  </p>
-</div>
-
-</div>
-
-<div class="outreach-divider"></div>
-
-<div class="outreach-section">
-
-<h2>Geoscience Ambassador</h2>
-<p class="outreach-affiliation"><em>The University of Texas at Austin (2023–2024)</em></p>
-
-<p>Promoting accessible and interdisciplinary geoscience education.</p>
-
-</div>
-
-<div class="outreach-divider"></div>
-
-<div class="outreach-section">
-
-<h2>Zonal Head Ambassador</h2>
-<p class="outreach-affiliation"><em>Smilyo Educational Charitable Society, Delhi, India (2014–2015)</em></p>
-
-<p>Led student outreach and educational resource efforts across universities and taught in underserved communities.</p>
-
-</div>
+Led student outreach and educational resource efforts across universities and taught in underserved communities.
