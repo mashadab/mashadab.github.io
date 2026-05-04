@@ -1,28 +1,30 @@
 # Site settings
 title: Mohammad Afzal Shadab
-email: mashadab@utexas.edu
+email: mashadab@princeton.edu
 description: Academic webpage of Mohammad Afzal Shadab
 baseurl: ""
-url: ""
+url: "https://mashadab.github.io"
 
-
-# Google analytics ID: Remove or use your own!
+# Google analytics ID
 google_analytics:
 
 # Footer info
 affiliation: >
     Mohammad Afzal Shadab<br/>
-    Doctoral Student <br/>
-    <a href="https://www.oden.utexas.edu/" target="_blank">Institute for Computational Engineering and Sciences </a><br/> University of Texas at Austin
+    Future Faculty in the Physical Sciences Postdoctoral Fellow<br/>
+    <a href="https://cee.princeton.edu/" target="_blank">Department of Civil and Environmental Engineering</a><br/>
+    <a href="https://geosciences.princeton.edu/" target="_blank">Department of Geosciences</a><br/>
+    <a href="https://www.princeton.edu/" target="_blank">Princeton University</a>
 
 location: >
-  <a href="https://www.jsg.utexas.edu/hesse/marc-hesse/" target="_blank">Geological Fluid Mechanics Group, UT Austin</a><br/>
-  POB 3SEo5M <br/>
-  Austin, TX 78712-1199
+  <a href="https://maxwell.princeton.edu/" target="_blank">Integrated GroundWater Modeling Center, Princeton University</a><br/>
+  Princeton, NJ
 
 contact: >
-    <a href="mailto:mashadab@utexas.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Afzal via email</a> <br/>
-    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Acknowledgements!</a>
+    <a href="mailto:mashadab@princeton.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Afzal via email</a><br/>
+    <a href="https://github.com/mashadab" target="_blank"><i class="fa fa-github fa-1x"></i> GitHub</a><br/>
+    <a href="https://orcid.org/0000-0002-0797-5017" target="_blank">ORCID: 0000-0002-0797-5017</a><br/>
+    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Acknowledgements</a>
 
 # Pages shown in navbar
 nav_pages:
@@ -30,8 +32,6 @@ nav_pages:
   - name: publications
   - name: talks
   - name: projects
-#  - name: laboratory
-#  - name: team
   - name: teaching
 
 # Do you want to group your publications by year? {true/false}
@@ -58,7 +58,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+  parse_block_html: true
 
 exclude:
   - Gemfile
