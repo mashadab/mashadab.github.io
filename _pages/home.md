@@ -7,7 +7,7 @@ permalink: /
 
 <center>
 
-<img src="/assets/logo-74_cropped.png" width="80" style="margin-top:10px;">
+<img src="/assets/logo.png" width="80" style="margin-top:10px;">
 
 </center>
 
