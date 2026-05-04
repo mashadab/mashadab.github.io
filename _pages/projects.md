@@ -17,6 +17,14 @@ permalink: /projects/
   margin: 24px 0;
 }
 
+.project-media img {
+  width: 100%;
+  max-width: 460px;
+  aspect-ratio: 16 / 9;   /* ✅ match video ratio */
+  object-fit: contain;    /* ✅ no cropping */
+  border-radius: 8px;
+}
+
 .project-media video {
   width: 100%;
   max-width: 700px;   /* bigger and nicer */
@@ -277,7 +285,7 @@ Developed models for groundwater flow, recharge, and residence times in early Ma
 
 <p class="project-meta">
 <b>Advisor:</b>
-Steven Vance (NASA JPL)
+Steven Vance (NASA JPL) and Marc Hesse (UT Austin)
 </p>
 
 <p>
@@ -307,8 +315,8 @@ Developed models for melt transport, hydrothermal circulation, and organic migra
 <h4>Reactive Transport for CO₂ Removal via Enhanced Weathering</h4>
 
 <p class="project-meta">
-<b>Collaborator:</b>
-Jacob Jordan (Mati Carbon)
+<b>Collaborators:</b>
+Jacob Jordan (Mati Carbon), Valentina Prigobbe (University of Padova), Noah 
 </p>
 
 <p>
