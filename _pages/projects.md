@@ -372,6 +372,7 @@ Developed high-order numerical schemes for solving hyperbolic partial differenti
 <a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Code</a>
 </p>
 
+
 </div>
 
 <div class="col-md-4 col-sm-12 project-media">
@@ -400,6 +401,10 @@ Built and tested scientific computing workflows for solving large-scale partial 
 <li>Integrated scientific libraries including PETSc, HDF5, MASA, and GRVY</li>
 <li>Used SLURM, Docker, Travis CI, and code-coverage tools for reproducible computation</li>
 </ul>
+
+<p>
+<a href="https://www.youtube.com/watch?v=I4WwXOMeBo4" target="_blank">Video</a>
+</p>
 
 </div>
 </div>
