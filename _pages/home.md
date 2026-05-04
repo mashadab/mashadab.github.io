@@ -9,7 +9,7 @@ permalink: /
 
 I study fluid flow across Earth and planetary environments, with a focus on developing physics-based and data-driven models to understand water movement in complex porous systems. My work spans hydrology, cryosphere science, and planetary geophysics, with applications ranging from groundwater flow in heterogeneous soils to meltwater infiltration in ice sheets and water storage on early Mars.
 
-During my Ph.D., I investigated a range of subsurface flow problems in Earth and planetary systems. In **hydrology**, I developed models for variably saturated flow in heterogeneous soils at large spatial scales. In the **cryosphere**, I study firn evolution and densification driven by meltwater percolation, supported by fellowships from the University of Texas Institute for Geophysics and the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/). 
+In **hydrology**, I developed models for variably saturated flow in heterogeneous soils at large spatial scales. In the **cryosphere**, I study firn evolution and densification driven by meltwater percolation, supported by fellowships from the University of Texas Institute for Geophysics and the [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/). 
 
 In **planetary science**, I work on infiltration and groundwater processes on early Mars in collaboration with partners at the [European Space Agency](https://www.esa.int/) and the University of Texas. This includes studying post-impact hydrothermal systems and subsurface water storage. More recently, I have investigated melt migration through the ice shells of ocean worlds, supported by NASA fellowships and collaborative research initiatives.
 
