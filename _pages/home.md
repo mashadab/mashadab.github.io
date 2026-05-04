@@ -23,8 +23,7 @@ style="border-style:solid;border-radius:5px;">
   Your browser does not support the video tag.
 </video>
 
-<br>HydroFirn simulation: multi-scale meltwater infiltration and firn evolution.<br/>
-Shadab et al. (2026)
+<br>HydroFirn simulation: multi-scale meltwater infiltration and firn evolution (Shadab et al., 2026)<br/>
 
 </center>
 </div>
@@ -36,14 +35,13 @@ Shadab et al. (2026)
 <div class="row">
 <center>
 
-<video width="500" autoplay loop muted playsinline
+<video width="450" autoplay loop muted playsinline
 style="border-style:solid;border-radius:5px;">
-  <source src="/assets/big_plus_3sidepanels_dynamic_conduction.mp4" type="video/mp4">
+  <source src="/assets/VideoS2_ColdFirnAquifer3D.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-<br>Expansion of aquifers in cold vs temperate firn.<br/>
-Shadab et al. (2026)
+<br>Expansion of aquifers in cold vs temperate firn (Shadab et al., 2026)<br/>
 
 </center>
 </div>
