@@ -76,7 +76,7 @@ iframe {
 <h4>Firn Densification and Meltwater Percolation</h4>
 
 <b>Collaborators:</b>
-<i>Surendra Adhikari (NASA JPL), C. Max Stevens (NASA Goddard), Asa Rennermalm (Rutgers), Jing Xiao (Rutgers) Marc Hesse (UT Austin), Reed Maxwell (Princeton University)</I>
+<i>Surendra Adhikari (NASA JPL), C. Max Stevens (NASA Goddard), Asa Rennermalm (Rutgers), Jing Xiao (Rutgers), Marc Hesse (UT Austin), Reed Maxwell (Princeton University)</I>
 
 Developing multi-scale model for meltwater infiltration, refreezing, and ice-layer formation in polar firn.
 
@@ -198,7 +198,7 @@ Developed theoretical models to quantify drainage dynamics in unconfined aquifer
 <li>Validated against laboratory experiments and field-relevant scenarios</li>
 </ul>
 
-
+</div>
 <div class="container">
 <div class="row">
 <center>
