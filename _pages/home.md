@@ -47,12 +47,31 @@ style="border-style:solid;border-radius:5px;">
   Your browser does not support the video tag.
 </video>
 
-<br>Expansion of aquifers in cold vs temperate firn (Shadab et al., 2026)<br/>
+<br>Expansion of aquifers in temperate vs cold firn (Shadab et al., 2026)<br/>
 
 </center>
 </div>
 </div>
 <br/>
+
+<div class="container">
+<div class="row">
+<center>
+
+<video width="450" autoplay loop muted playsinline
+style="border-style:solid;border-radius:5px;">
+  <source src="/assets/terrestrial.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br>ParFlow-Community Land Model simulation outputs at a ~30km (SMAP grid) scale showing soil moisture, ET, ground temperature and snow water equivalent<br/>
+
+</center>
+</div>
+</div>
+<br/>
+
+
 
 ### About me
 
