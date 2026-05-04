@@ -86,9 +86,12 @@ Developing multi-scale model for meltwater infiltration, refreezing, and ice-lay
 <li>Simulated ice-layer formation under repeated melt events in multidimensional</li>
 </ul>
 
-</div>
-<div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
+
+<video width="450" autoplay loop muted playsinline
+style="border-style:solid;border-radius:5px;">
+  <source src="/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 </div>
 </div>
 </div>
@@ -111,9 +114,13 @@ Developing multi-scale models for meltwater infiltration, refreezing, and ice-la
 <li>Shown that aquifer slows in colder firn</li>
 </ul>
 
-</div>
-<div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
+<video width="450" autoplay loop muted playsinline
+style="border-style:solid;border-radius:5px;">
+  <source src="/assets/VideoS2_ColdFirnAquifer3D.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 </div>
 </div>
 </div>
@@ -190,6 +197,17 @@ Developed theoretical models to quantify drainage dynamics in unconfined aquifer
 <li>Implemented finite-difference solvers for nonlinear diffusion equations</li>
 <li>Validated against laboratory experiments and field-relevant scenarios</li>
 </ul>
+
+
+<div class="container">
+<div class="row">
+<center>
+
+<video width="450" autoplay loop muted playsinline
+style="border-style:solid;border-radius:5px;">
+  <source src="/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 </div>
@@ -391,6 +409,5 @@ Developed models for reacting flows and multiphysics coupling in high-speed syst
   <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="400px" frameborder="0"></iframe>
 </div>
 
-</div>
 </div>
 </div>
