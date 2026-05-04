@@ -34,7 +34,7 @@ public engagement, and hands-on educational activities.
 
 <div class="event">
 <h3>Spring Into Science 2026</h3>
-<div class="meta">&gt;1000 participants>
+<div class="meta">&gt;1000 participants
 
 <div class="gallery">
 <img src="{{ '/assets/outreach/photo9.jpg' | relative_url }}">
@@ -45,12 +45,12 @@ public engagement, and hands-on educational activities.
 
 <div class="event">
 <h3>Earth Day 2026</h3>
-<div class="meta">&gt;200 participants</div>
+<div class="meta">&gt;200 participants
 
 
 <div class="event">
 <h3>World Water Day 2026 Outreach</h3>
-<div class="meta">&gt;100 participants>
+<div class="meta">&gt;100 participants
 
 <div class="gallery">
 <img src="{{ '/assets/outreach/photo2.jpg' | relative_url }}">
@@ -72,7 +72,7 @@ public engagement, and hands-on educational activities.
 
 <div class="event">
 <h3>World Water Day 2025 Outreach</h3>
-<div class="meta">&gt;200 participants>
+<div class="meta">&gt;200 participants
 
 <div class="gallery">
 <img src="{{ '/assets/outreach/photo3.jpg' | relative_url }}">
