@@ -2,7 +2,88 @@
 
 ---
 
+
+### Cryosphere Hydrology
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+
+<h4>Firn Densification and Meltwater Percolation</h4>
+
+<b>Collaborators:</b>
+<i>NASA JPL, Princeton University, UT Austin</i>
+
+Developing multi-scale model for meltwater infiltration, refreezing, and ice-layer formation in polar firn.
+
+<ul>
+<li>Built three-phase models (snow–water–air) from first principles in multidimensions at large scales</li>
+<li>Validated the hydrologic model against </li>
+<li>Simulated ice-layer formation under repeated melt events in multidimensional</li>
+</ul>
+
+</div>
+<div class="col-md-3 col-sm-12">
+<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
+</div>
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+
+<h4>Firn aquifers</h4>
+
+<b>Collaborators:</b>
+<i>Prof. Howard Stone, Prof. Reed Maxwell (Princeton University) </I>
+
+Developing multi-scale models for meltwater infiltration, refreezing, and ice-layer formation in polar firn.
+
+<ul>
+<li>Developed a new vertically integrated model for aquifers expanding in cold firn</li>
+<li>Validated the model and shown 20 times speedup</li>
+<li>Shown that aquifer slows in colder firn</li>
+</ul>
+
+</div>
+<div class="col-md-3 col-sm-12">
+<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
+</div>
+</div>
+</div>
+
+
+---
+
+
 ### Terrestrial Hydrology
+
+<div class="jumbotron">
+<div class="row align-items-end">
+<div class="col-md-9 col-sm-12">
+
+<h4>Large-scale integrated hydrologic modeling using ParFlow and Community Land Model</h4>
+
+<b>Collaborators:</b>
+<i>N. Jadallah, Prof. Reed Maxwell (Princeton University)</I>
+
+Investigating the terms of ParFlow and Community Land Model across spatial scales.
+
+<ul>
+<li>Studied the effect of capillary forcing across scales</li>
+<li>Improved the formulation of snow hydrology from bucket to Darcy's law</li>
+<li>Compared against remote sensing and field observations</li>
+</ul>
+
+</div>
+<div class="col-md-3 col-sm-12">
+<iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
+</div>
+</div>
+</div>
+
 
 <div class="jumbotron">
 <div class="row align-items-end">
@@ -52,55 +133,6 @@ Developed theoretical models to quantify drainage dynamics in unconfined aquifer
 
 ---
 
-### Cryosphere Hydrology
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
-
-<h4>Firn Densification and Meltwater Percolation</h4>
-
-<b>Collaborators:</b>
-<i>NASA JPL, Princeton University, UT Austin</i>
-
-Developing multi-scale models for meltwater infiltration, refreezing, and ice-layer formation in polar firn.
-
-<ul>
-<li>Built three-phase models (snow–water–air)</li>
-<li>Derived vertically integrated gravity current models</li>
-<li>Simulated ice-layer formation under repeated melt events</li>
-</ul>
-
-</div>
-<div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
-</div>
-</div>
-</div>
-
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
-
-<h4>Multiphase Flow in Deforming Porous Ice</h4>
-
-<b>Advisor:</b>
-<i>Prof. Marc Hesse (UT Austin)</i>
-
-Developed numerical frameworks for two-phase and three-phase flow in compacting porous media.
-
-<ul>
-<li>Implemented implicit finite-difference solvers for nonlinear multiphase systems</li>
-<li>Captured coupling between compaction, permeability evolution, and melt transport</li>
-<li>Applied to firn hydrology and subsurface ice dynamics</li>
-</ul>
-
-</div>
-</div>
-</div>
-
----
 
 ### Planetary Hydrology
 
