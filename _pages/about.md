@@ -108,15 +108,3 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
-
-
-{% if site.data.outreach %}
-<div class="jumbotron">
-### Outreach
-<ul>
-{% for comm_engage in site.data.outreach %}
- <li> {{ comm_engage.name }} </li>
-{% endfor %}
-</ul>
-</div>
-{% endif %}
