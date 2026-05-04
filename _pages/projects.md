@@ -19,7 +19,7 @@ permalink: /projects/
 
 .project-media img {
   width: 100%;
-  max-width: 600px;
+  max-width: 800px;
   aspect-ratio: 16 / 9;   /* ✅ match video ratio */
   object-fit: contain;    /* ✅ no cropping */
   border-radius: 8px;
