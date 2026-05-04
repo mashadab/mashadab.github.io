@@ -335,7 +335,9 @@ Developing analytical and numerical models for multicomponent reactive transport
 </ul>
 
 <div class="col-md-4 col-sm-12 project-media">
-  <img src="{{ '/assets/richards_eqns_poster.png' | relative_url }}" alt="Soil as a chromatographic column">
+  <img src="{{ '/assets/richards_eqns_poster.png' | relative_url }}"
+       alt="Soil as a chromatographic column"
+       style="max-width: 900px;">
 </div>
 </div>
 </div>
