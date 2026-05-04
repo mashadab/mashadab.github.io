@@ -8,7 +8,7 @@ permalink: /outreach/
 
 I enjoy making Earth and planetary science as well as natural sciences accessible to broader communities through teaching, mentoring, public engagement, and hands-on educational activities.
 
-### Science Outreach Educator, Integrated Groundwater Modeling Center, Princeton University
+### Science Outreach Educator, Integrated Groundwater Modeling Center, Princeton University (2024-Present)
 
 <p align="center">
   <img src="/assets/outreach/photo9.jpg"
@@ -44,9 +44,21 @@ I enjoy making Earth and planetary science as well as natural sciences accessibl
 
 Hydrologic modeling activities for K–12 and high school students.
 
+
 ---
 
-### Geoscience Ambassador, The University of Texas at Austin
+### Team Member, University of Texas at Austin Libraries HELIOS team  (2022-24)
+
+<p align="center">
+  <img src="/assets/outreach/photo2.jpg"
+       style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
+</p>
+
+To advance Higher Education Leadership Initiative for Open Scholarship (HELIOS).
+
+---
+
+### Geoscience Ambassador, The University of Texas at Austin (2023-24)
 
 
 <p align="center">
@@ -58,6 +70,6 @@ Promoting accessible and interdisciplinary geoscience education and the idea tha
 
 ---
 
-### Smilyo Educational Charitable Society (non-profit), Delhi, India
+### Smilyo Educational Charitable Society (non-profit), Delhi, India (2012-13)
 
 Led student outreach and educational resource efforts across universities and conducted teaching in not-so-privileged communities in Delhi, India.
