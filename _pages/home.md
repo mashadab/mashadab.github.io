@@ -5,6 +5,12 @@ sitemap: false
 permalink: /
 ---
 
+<center>
+
+<img src="/assets/logo-74_cropped.png" width="80" style="margin-top:10px;">
+
+</center>
+
 ### Welcome
 
 I study fluid flow across Earth and planetary environments, with a focus on developing physics-based and data-driven models to understand water movement in complex porous systems. My work spans hydrology, cryosphere science, and planetary geophysics, with applications ranging from groundwater flow in heterogeneous soils to meltwater infiltration in ice sheets and water storage on early Mars.
@@ -17,7 +23,7 @@ In **planetary science**, I work on infiltration and groundwater processes on ea
 <div class="row">
 <center>
 
-<video width="500" autoplay loop muted playsinline
+<video width="450" autoplay loop muted playsinline
 style="border-style:solid;border-radius:5px;">
   <source src="/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4" type="video/mp4">
   Your browser does not support the video tag.
