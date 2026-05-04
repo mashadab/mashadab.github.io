@@ -206,7 +206,7 @@ Developed data-driven frameworks to infer governing equations and parameters in 
 <div class="row align-items-center">
 <div class="col-md-8 col-sm-12">
 
-<h4>Analytical and Numerical Models of Groundwater Drainage</h4>
+<h4>Analytical and Numerical Models of Terrestrial Hydrology</h4>
 
 <p class="project-meta">
 <b>Advisor:</b>
@@ -214,13 +214,13 @@ Marc Hesse (UT Austin)
 </p>
 
 <p>
-Developed theoretical and numerical models to quantify drainage dynamics in unconfined aquifers.
+Developed theoretical and numerical models to quantify unsaturated and saturated flow
 </p>
 
 <ul>
 <li>Derived analytical scaling laws for drainage dynamics in unconfined groundwater systems</li>
 <li>Developed finite-difference solvers for nonlinear diffusion equations</li>
-<li>Validated theoretical predictions using laboratory-inspired and synthetic datasets</li>
+<li>Validated theoretical predictions using analytic solutions and real data</li>
 </ul>
 
 </div>
