@@ -4,73 +4,36 @@ layout: default
 permalink: /outreach/
 ---
 
-# Outreach
+<h1>Outreach</h1>
 
-I enjoy making Earth and planetary science accessible to broader communities through teaching, mentoring, public engagement, and hands-on educational activities.
+<p>
+I enjoy making Earth and planetary science accessible to broader communities through teaching, mentoring,
+public engagement, and hands-on educational activities.
+</p>
 
 <style>
-.section {
-  margin: 50px 0;
-}
-
-.section h2 {
-  margin-bottom: 6px;
-}
-
-.affil {
-  color: #555;
-  margin-bottom: 20px;
-}
-
-.event {
-  margin: 32px 0 42px 0;
-}
-
-.event h3 {
-  margin-bottom: 4px;
-}
-
-.meta {
-  color: #666;
-  margin-bottom: 10px;
-}
-
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  margin-top: 10px;
-}
-
-.gallery img {
-  width: 240px;
-  height: 170px;
-  object-fit: cover;
-  border-radius: 10px;
-}
-
-.links {
-  margin-top: 12px;
-}
-
-.links a {
-  margin-right: 10px;
-}
-
-.note {
-  margin-top: 10px;
-}
+.section { margin: 50px 0; }
+.section h2 { margin-bottom: 6px; }
+.affil { color: #555; margin-bottom: 18px; }
+.event { margin: 28px 0 40px 0; }
+.event h3 { margin-bottom: 4px; }
+.meta { color: #666; margin-bottom: 10px; }
+.gallery { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 10px; }
+.gallery img { width: 240px; height: 170px; object-fit: cover; border-radius: 10px; }
+.links { margin-top: 10px; }
+.links a { margin-right: 10px; }
+.note { margin-top: 12px; }
 </style>
 
----
+<hr>
 
 <div class="section">
 
-## Science Outreach Educator  
-<div class="affil"><em>Integrated Groundwater Modeling Center, Princeton University (2024–Present)</em></div>
+<h2>Science Outreach Educator</h2>
+<p class="affil"><em>Integrated Groundwater Modeling Center, Princeton University (2024–Present)</em></p>
 
 <div class="event">
-### Spring Into Science 2026  
+<h3>Spring Into Science 2026</h3>
 <div class="meta">&gt;1000 participants</div>
 
 <div class="gallery">
@@ -81,12 +44,12 @@ I enjoy making Earth and planetary science accessible to broader communities thr
 </div>
 
 <div class="event">
-### Earth Day 2026  
+<h3>Earth Day 2026</h3>
 <div class="meta">&gt;200 participants</div>
 </div>
 
 <div class="event">
-### World Water Day 2026 Outreach  
+<h3>World Water Day 2026 Outreach</h3>
 <div class="meta">&gt;100 participants</div>
 
 <div class="gallery">
@@ -96,8 +59,7 @@ I enjoy making Earth and planetary science accessible to broader communities thr
 </div>
 
 <div class="event">
-### Watershed Academy Outreach  
-
+<h3>Watershed Academy Outreach</h3>
 <div class="meta">Instructed hydrologic modeling to 20 high school students</div>
 
 <div class="gallery">
@@ -109,7 +71,7 @@ I enjoy making Earth and planetary science accessible to broader communities thr
 </div>
 
 <div class="event">
-### World Water Day 2025 Outreach  
+<h3>World Water Day 2025 Outreach</h3>
 <div class="meta">&gt;200 participants</div>
 
 <div class="gallery">
@@ -117,25 +79,23 @@ I enjoy making Earth and planetary science accessible to broader communities thr
 </div>
 </div>
 
-<div class="note">
+<p class="note">
 Hydrologic modeling activities for K–12 and high school students.
-</div>
+</p>
 
 </div>
 
----
+<hr>
 
 <div class="section">
 
-## Open Science & Policy Engagement  
-<div class="affil"><em>UT Austin HELIOS Initiative (2023–2024)</em></div>
+<h2>Open Science & Policy Engagement</h2>
+<p class="affil"><em>UT Austin HELIOS Initiative (2023–2024)</em></p>
 
-<div class="note">
-Advancing open scholarship and science policy.
-</div>
+<p class="note">Advancing open scholarship and science policy.</p>
 
 <div class="event">
-### U.S. White House Open Science Listening Sessions
+<h3>U.S. White House Open Science Listening Sessions</h3>
 
 <div class="gallery">
 <img src="{{ '/assets/outreach/photo14.jpg' | relative_url }}">
@@ -150,7 +110,7 @@ Advancing open scholarship and science policy.
 </div>
 
 <div class="event">
-### Open Science Panel Discussions
+<h3>Open Science Panel Discussions</h3>
 
 <div class="gallery">
 <img src="{{ '/assets/outreach/photo13.jpg' | relative_url }}">
@@ -166,24 +126,24 @@ Advancing open scholarship and science policy.
 
 </div>
 
----
+<hr>
 
 <div class="section">
 
-## Geoscience Ambassador  
-<div class="affil"><em>The University of Texas at Austin (2023–2024)</em></div>
+<h2>Geoscience Ambassador</h2>
+<p class="affil"><em>The University of Texas at Austin (2023–2024)</em></p>
 
-Promoting accessible and interdisciplinary geoscience education.
+<p>Promoting accessible and interdisciplinary geoscience education.</p>
 
 </div>
 
----
+<hr>
 
 <div class="section">
 
-## Zonal Head Ambassador  
-<div class="affil"><em>Smilyo Educational Charitable Society, Delhi, India (2014–2015)</em></div>
+<h2>Zonal Head Ambassador</h2>
+<p class="affil"><em>Smilyo Educational Charitable Society, Delhi, India (2014–2015)</em></p>
 
-Led student outreach and educational resource efforts across universities and taught in underserved communities.
+<p>Led student outreach and educational resource efforts across universities and taught in underserved communities.</p>
 
 </div>
