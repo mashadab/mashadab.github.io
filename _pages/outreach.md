@@ -6,26 +6,49 @@ permalink: /outreach/
 
 ## Outreach
 
-I enjoy making Earth, climate, and planetary science accessible to broader communities through teaching, mentoring, public engagement, and hands-on educational activities.
+I enjoy making Earth and planetary science as well as natural sciences accessible to broader communities through teaching, mentoring, public engagement, and hands-on educational activities.
 
-### Science Outreach Educator
+### Science Outreach Educator, Integrated Groundwater Modeling Center
 
-![Science outreach activity](/assets/outreach/photo1.jpg)
+<p align="center">
+  <img src="/assets/outreach/photo1.jpg" width="500">
+Spring Into Science 2026 (>1000 participants)
+</p>
 
-Integrated GroundWater Modeling Center, Princeton University. Hydrologic modeling activities for K–12 and high school students.
+<p align="center">
+  <img src="/assets/outreach/photo1.jpg" width="500">
+World water day 2026 outreach (>100 participants)
+</p>
+
+<p align="center">
+Earth Day 2026
+</p>
+
+<p align="center">
+  <img src="/assets/outreach/photo1.jpg" width="500">
+Instructed hydrologic modeling to 20 high school students at watershed academy
+</p>
+
+
+<p align="center">
+  <img src="/assets/outreach/photo1.jpg" width="500">
+World water day 2026 outreach (>200 participants)
+</p>
+
+Hydrologic modeling activities for K–12 and high school students.
 
 ---
 
-### Geoscience Ambassador
+### Geoscience Ambassador, The University of Texas at Austin
 
-![Geoscience outreach event](/assets/outreach/photo2.jpg)
+<p align="center">
+  <img src="/assets/outreach/photo2.jpg" width="500">
+</p>
 
-Jackson School of Geosciences, UT Austin. Promoting accessible and interdisciplinary geoscience education.
+Promoting accessible and interdisciplinary geoscience education and the idea that anyone can be a geoscientist.
 
 ---
 
-### Smilyo Educational Charitable Society
+### Smilyo Educational Charitable Society (non-profit), Delhi, India
 
-![Educational outreach event](/assets/outreach/photo3.jpg)
-
-Led student outreach and educational resource efforts across universities.
+Led student outreach and educational resource efforts across universities and conducted teaching in not-so-privileged communities in Delhi, India.
