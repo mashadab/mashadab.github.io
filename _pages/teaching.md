@@ -15,7 +15,11 @@ permalink: /teaching/
     * MECH-3690 Aerospace Engineering Laboratory (Junior and Senior Level)--2017
 
 ## Pedagogical Training
+* Princeton University, United States
+    * Teaching Transcript Program--Fall 2024 - Spring 2026
+
 * The University of Texas at Austin, United States
+    * Inclusive Course Design Institute--Summer 2023
     * Inclusive Classrooms Leadership Certificate Seminar Series--Spring 2023
     * Advanced Teaching Preparation Series Certificate Spring – Fall 2022
 
