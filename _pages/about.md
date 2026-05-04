@@ -102,7 +102,7 @@ permalink: /about/
 <div class="jumbotron">
 ### Mentorship
 <ul>
-{% for comm_engage in site.data.community_engagement %}
+{% for comm_engage in site.data.mentorship %}
  <li> {{ comm_engage.name }} </li>
 {% endfor %}
 </ul>
@@ -114,7 +114,7 @@ permalink: /about/
 <div class="jumbotron">
 ### Outreach
 <ul>
-{% for comm_engage in site.data.community_engagement %}
+{% for comm_engage in site.data.outreach %}
  <li> {{ comm_engage.name }} </li>
 {% endfor %}
 </ul>
