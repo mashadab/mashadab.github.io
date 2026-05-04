@@ -334,6 +334,8 @@ Developing analytical and numerical models for multicomponent reactive transport
 <li>Validated predictions against PHREEQC geochemical simulations</li>
 </ul>
 
+<div class="col-md-4 col-sm-12 project-media">
+  <img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}" alt="Infiltration on Early Mars">
 </div>
 </div>
 </div>
