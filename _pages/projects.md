@@ -43,13 +43,14 @@ permalink: /projects/
 .project-media video {
   width: 100%;
   max-width: 460px;
-  height: 260px;
+  height: auto;            /* ✅ let height adjust naturally */
+  aspect-ratio: 16 / 9;    /* ✅ keeps proper proportions */
   border: 0;
   border-radius: 8px;
 }
 
 .project-media video {
-  object-fit: cover;
+  object-fit: contain;     /* ✅ NO cropping */
 }
 </style>
 
