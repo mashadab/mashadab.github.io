@@ -76,14 +76,14 @@ iframe {
 <h4>Firn Densification and Meltwater Percolation</h4>
 
 <b>Collaborators:</b>
-<i>NASA JPL, Princeton University, UT Austin</i>
+<i>Surendra Adhikari (NASA JPL), C. Max Stevens (NASA Goddard), Asa Rennermalm (Rutgers), Jing Xiao (Rutgers) Marc Hesse (UT Austin), Reed Maxwell (Princeton University)</I>
 
 Developing multi-scale model for meltwater infiltration, refreezing, and ice-layer formation in polar firn.
 
 <ul>
 <li>Built three-phase models (snow–water–air) from first principles in multidimensions at large scales</li>
-<li>Validated the hydrologic model against </li>
-<li>Simulated ice-layer formation under repeated melt events in multidimensional</li>
+<li>Validated the hydrologic model against field measurements and analytic solutions</li>
+<li>Simulated multidimensional ice-layer formation under repeated melt events at DYE-2 site in Greenland</li>
 </ul>
 
 
@@ -104,7 +104,7 @@ style="border-style:solid;border-radius:5px;">
 <h4>Firn aquifers</h4>
 
 <b>Collaborators:</b>
-<i>Prof. Howard Stone, Prof. Reed Maxwell (Princeton University) </I>
+<i>Howard Stone, Reed Maxwell (Princeton University) </I>
 
 Developing multi-scale models for meltwater infiltration, refreezing, and ice-layer formation in polar firn.
 
@@ -163,7 +163,7 @@ Investigating the terms of ParFlow and Community Land Model across spatial scale
 <h4>Physics-Informed Neural Networks for Groundwater Flow</h4>
 
 <b>Collaborators:</b>
-<i>D. Luo, Y. Shen, E. Hiatt, Prof. Marc Hesse (UT Austin)</i>
+<i>Dingcheng Luo, Yiran Shen, Eric Hiatt, Marc Hesse (UT Austin)</i>
 
 Developed data-driven frameworks to infer governing equations and parameters in groundwater systems.
 
