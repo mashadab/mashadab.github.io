@@ -147,13 +147,14 @@ I enjoy making Earth and planetary science accessible to broader communities thr
 ---
 
 ## Geoscience Ambassador  
-*The University of Texas at Austin (2023–2024)*
+<p><em>The University of Texas at Austin (2023–2024)</em></p>
 
 Promoting accessible and interdisciplinary geoscience education.
 
 ---
 
-## Smilyo Educational Charitable Society  
-*Delhi, India (2014–2015)*
+## Zonal Head Ambassador
+<p><em>Smilyo Educational Charitable Society  
+*Delhi, India (2014–2015)</em></p>
 
 Led student outreach and educational resource efforts across universities and taught in underserved communities.
