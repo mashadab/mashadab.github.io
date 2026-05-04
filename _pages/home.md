@@ -62,4 +62,4 @@ I earned my M.S. and Ph.D. in Computational Science, Engineering, and Mathematic
 
 Before Princeton, I collaborated closely with researchers at UT Austin and NASA JPL, and contributed to interdisciplinary efforts spanning hydrology, cryosphere science, and planetary environments.
 
-Beyond research, I am actively involved in community-building and mentorship. I serve as Co-chair and DEI Lead of the <a href="https://usapecs.wixsite.com/usapecs" target="_blank">US Association of Polar Early Career Scientists</a>, and contribute to the AGU Cryosphere and Hydrology communities. My work focuses on fostering inclusive, collaborative, and interdisciplinary research environments in Earth and planetary sciences.
+Beyond research, I am actively involved in community-building and mentorship. I serve as Co-chair and DEI Lead of the <a href="https://usapecs.wixsite.com/usapecs" target="_blank">US Association of Polar Early Career Scientists</a>, and contribute on the boards of AGU Cryosphere Science Section and Hydrology (H3S) communities. My work focuses on fostering inclusive, collaborative, and interdisciplinary research environments in Earth and planetary sciences.
