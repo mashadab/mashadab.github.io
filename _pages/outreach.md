@@ -8,24 +8,24 @@ permalink: /outreach/
 
 I enjoy making Earth, climate, and planetary science accessible to broader communities through teaching, mentoring, public engagement, and hands-on educational activities.
 
-<div class="outreach-grid">
+### Science Outreach Educator
 
-  <div class="outreach-card">
-    <img src="/assets/outreach/photo1.jpg" alt="Science outreach activity">
-    <h3>Science Outreach Educator</h3>
-    <p>Integrated GroundWater Modeling Center, Princeton University. Hydrologic modeling activities for K–12 and high school students.</p>
-  </div>
+![Science outreach activity](/assets/outreach/photo1.jpg)
 
-  <div class="outreach-card">
-    <img src="/assets/outreach/photo2.jpg" alt="Geoscience outreach event">
-    <h3>Geoscience Ambassador</h3>
-    <p>Jackson School of Geosciences, UT Austin. Promoting accessible and interdisciplinary geoscience education.</p>
-  </div>
+Integrated GroundWater Modeling Center, Princeton University. Hydrologic modeling activities for K–12 and high school students.
 
-  <div class="outreach-card">
-    <img src="/assets/outreach/photo3.jpg" alt="Educational outreach event">
-    <h3>Smilyo Educational Charitable Society</h3>
-    <p>Led student outreach and educational resource efforts across universities.</p>
-  </div>
+---
 
-</div>
+### Geoscience Ambassador
+
+![Geoscience outreach event](/assets/outreach/photo2.jpg)
+
+Jackson School of Geosciences, UT Austin. Promoting accessible and interdisciplinary geoscience education.
+
+---
+
+### Smilyo Educational Charitable Society
+
+![Educational outreach event](/assets/outreach/photo3.jpg)
+
+Led student outreach and educational resource efforts across universities.
