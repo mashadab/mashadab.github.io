@@ -50,7 +50,7 @@ permalink: /projects/
 .project-media iframe,
 .project-media video {
   width: 100%;
-  max-width: 460px;
+  max-width: 600px;
   height: auto;            /* ✅ let height adjust naturally */
   aspect-ratio: 16 / 9;    /* ✅ keeps proper proportions */
   border: 0;
