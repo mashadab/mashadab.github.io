@@ -6,9 +6,11 @@ permalink: /teaching/
 ---
 
 ## Teaching
+* Instructor, Princeton University
+    * Wintersession 2025 Analyzing Remote Sensing Data with QGIS (Graduate/Undergraduate Level)--2025
 * Teaching Assistant, The University of Texas at Austin
     * <a href='https://mhesse.github.io/numerical_modeling/' target='_blank'>GEO 325M/398M Numerical Modeling in the Geosciences</a> (Graduate Level)--2023
-    * <a href='https://mhesse.github.io/continuum_mechanics/' target='_blank'>GEO325C/398C Continuum Mechanics</a> (Graduate Level)--2022
+    * <a href='https://mhesse.github.io/continuum_mechanics/' target='_blank'>GEO325C/398C Continuum Mechanics</a> (Graduate Level)--Fall 2022, 2023
 
 * Teaching Assistant, The Hong Kong University of Science and Technology
     * MECH-1907 Introduction to Aerospace Engineering (Freshman and Sophomore Level)--2018
