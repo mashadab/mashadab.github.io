@@ -89,7 +89,7 @@ transport, and environmental change across Earth and planetary systems.
 
 <b>Collaborators:</b>
 Surendra Adhikari (NASA JPL), C. Max Stevens (NASA Goddard), Asa Rennermalm (Rutgers),
-Jing Xiao (Rutgers), Marc Hesse (UT Austin), Reed Maxwell (Princeton)
+Jing Xiao (Rutgers), Marc Hesse (UT Austin), Reed Maxwell (Princeton), Cyril Grima (UT Austin), Anja Rutishauser (GEUS)
 
 <p>
 Developing multidimensional models for meltwater infiltration, refreezing, and ice-layer formation
@@ -255,7 +255,7 @@ Developed theoretical and numerical models to quantify unsaturated and saturated
 
 <p class="project-meta">
 <b>Collaborators:</b>
-Eric Hiatt (UT Austin), Rickbir Bahia (ESA), Eleni Bohacek (ESA), and Marc Hesse (UT Austin)
+Eric Hiatt (UT Austin), Rickbir Bahia (ESA), Eleni Bohacek (ESA), Vilmos Steinmann (Eotovos Lorand U) and Marc Hesse (UT Austin)
 </p>
 
 <p>
@@ -321,7 +321,7 @@ Developed models for melt transport, hydrothermal circulation, and organic migra
 
 <p class="project-meta">
 <b>Collaborators:</b>
-Jacob Jordan (Mati Carbon), Valentina Prigobbe (University of Padova), Noah 
+Jacob Jordan (Mati Carbon), Valentina Prigobbe (University of Padova), Yoshiki Kanzaki (Georgia Tech), Noah Planavsky (Yale), Christopher T. Reinhard (Georgia Tech)
 </p>
 
 <p>
