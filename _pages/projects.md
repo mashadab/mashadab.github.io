@@ -19,7 +19,7 @@ permalink: /projects/
 
 .project-media img {
   width: 100%;
-  max-width: 460px;
+  max-width: 600px;
   aspect-ratio: 16 / 9;   /* ✅ match video ratio */
   object-fit: contain;    /* ✅ no cropping */
   border-radius: 8px;
@@ -27,7 +27,7 @@ permalink: /projects/
 
 .project-media video {
   width: 100%;
-  max-width: 700px;   /* bigger and nicer */
+  max-width: 600px;   /* bigger and nicer */
   height: auto;
   aspect-ratio: 16 / 9;
   object-fit: contain;
@@ -153,7 +153,7 @@ Developing reduced-order models for the expansion of aquifers in cold firn.
 <div class="row align-items-center">
 <div class="col-md-8 col-sm-12">
 
-<h4>Integrated Hydrologic Modeling with ParFlow and CLM</h4>
+<h4>Integrated Hydrologic Modeling with ParFlow and Community Land Model</h4>
 
 <p class="project-meta">
 <b>Collaborators:</b>
