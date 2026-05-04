@@ -88,7 +88,7 @@ Developing multi-scale model for meltwater infiltration, refreezing, and ice-lay
 
 </div>
 <div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
+<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
 </div>
 </div>
 </div>
@@ -113,7 +113,7 @@ Developing multi-scale models for meltwater infiltration, refreezing, and ice-la
 
 </div>
 <div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
+<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
 </div>
 </div>
 </div>
@@ -143,7 +143,7 @@ Investigating the terms of ParFlow and Community Land Model across spatial scale
 
 </div>
 <div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
+<iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
 </div>
 </div>
 </div>
@@ -168,7 +168,7 @@ Developed data-driven frameworks to infer governing equations and parameters in 
 
 </div>
 <div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
+<iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
 </div>
 </div>
 </div>
@@ -219,7 +219,7 @@ Developed models for groundwater flow, recharge, and residence times in early Ma
 
 </div>
 <div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
+<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
 </div>
 </div>
 </div>
@@ -316,7 +316,7 @@ Developed high-order numerical schemes for solving PDEs in complex geometries.
 
 </div>
 <div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524120989?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
+<iframe src="https://player.vimeo.com/video/524120989?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
 </div>
 </div>
 </div>
@@ -366,7 +366,7 @@ Studied breakup and stability of drops in viscoelastic fluids.
 
 </div>
 <div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&muted=1&background=1" height="182px"></iframe>
+<iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
 </div>
 </div>
 </div>
@@ -388,7 +388,7 @@ Developed models for reacting flows and multiphysics coupling in high-speed syst
 
 </div>
 <div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="182px" frameborder="0"></iframe>
+  <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="400px" frameborder="0"></iframe>
 </div>
 
 </div>
