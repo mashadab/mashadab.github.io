@@ -33,7 +33,7 @@ nav_pages:
   - name: talks
   - name: projects
   - name: teaching
-#  - name: outreach
+  - name: outreach
 
 # Do you want to group your publications by year? {true/false}
 group_pub_by_year: true
