@@ -96,3 +96,27 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+
+
+{% if site.data.mentorship %}
+<div class="jumbotron">
+### Mentorship
+<ul>
+{% for comm_engage in site.data.community_engagement %}
+ <li> {{ comm_engage.name }} </li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
+
+
+{% if site.data.outreach %}
+<div class="jumbotron">
+### Outreach
+<ul>
+{% for comm_engage in site.data.community_engagement %}
+ <li> {{ comm_engage.name }} </li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
