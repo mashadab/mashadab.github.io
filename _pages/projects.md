@@ -298,6 +298,11 @@ Developed models for melt transport, hydrothermal circulation, and organic migra
 <li>Derived scaling laws for melt migration and hydrothermal circulation timescales</li>
 </ul>
 
+<div class="project-media">
+<video autoplay loop muted playsinline>
+  <source src="{{ '/assets/impact_melt_video.mp4' | relative_url }}" type="video/mp4">
+</video>
+
 </div>
 </div>
 </div>
