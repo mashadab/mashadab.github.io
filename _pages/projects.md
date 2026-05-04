@@ -335,7 +335,7 @@ Developing analytical and numerical models for multicomponent reactive transport
 </ul>
 
 <div class="col-md-4 col-sm-12 project-media">
-  <img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}" alt="Infiltration on Early Mars">
+  <img src="{{ '/assets/richards_eqns_poster.png' | relative_url }}" alt="Soil as a chromatographic column">
 </div>
 </div>
 </div>
