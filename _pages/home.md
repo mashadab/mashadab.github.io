@@ -19,11 +19,30 @@ In **planetary science**, I work on infiltration and groundwater processes on ea
 
 <video width="500" autoplay loop muted playsinline
 style="border-style:solid;border-radius:5px;">
-  <source src="/assets/S2_videofinal_HydroFirn_5panel_static_top_evolving_bottom.mp4" type="video/mp4">
+  <source src="/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <br>HydroFirn simulation: multi-scale meltwater infiltration and firn evolution.<br/>
+Shadab et al. (2026)
+
+</center>
+</div>
+</div>
+<br/>
+
+
+<div class="container">
+<div class="row">
+<center>
+
+<video width="500" autoplay loop muted playsinline
+style="border-style:solid;border-radius:5px;">
+  <source src="/assets/big_plus_3sidepanels_dynamic_conduction.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br>Expansion of aquifers in cold vs temperate firn.<br/>
 Shadab et al. (2026)
 
 </center>
