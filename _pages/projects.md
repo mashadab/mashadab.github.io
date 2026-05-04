@@ -17,6 +17,14 @@ permalink: /projects/
   margin: 24px 0;
 }
 
+.project-media video {
+  width: 100%;
+  max-width: 700px;   /* bigger and nicer */
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+}
+
 .project-card h4 {
   margin-top: 0;
 }
@@ -66,7 +74,7 @@ transport, and environmental change across Earth and planetary systems.
 <div class="project-category">
 <h3>Cryosphere Hydrology</h3>
 
-<div class="project-card">
+<p class="project-meta">
 <div class="row align-items-center">
 <div class="col-md-8 col-sm-12">
 
@@ -91,7 +99,7 @@ in polar firn.
 
 </div>
 
-<div class="col-md-4 col-sm-12 project-media">
+<div class="project-media">
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4' | relative_url }}" type="video/mp4">
 </video>
@@ -122,7 +130,7 @@ Developing reduced-order models for the expansion of aquifers in cold firn.
 
 </div>
 
-<div class="col-md-4 col-sm-12 project-media">
+<div class="project-media">
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/VideoS2_ColdFirnAquifer3D.mp4' | relative_url }}" type="video/mp4">
 </video>
