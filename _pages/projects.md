@@ -82,7 +82,6 @@ transport, and environmental change across Earth and planetary systems.
 <b>Collaborators:</b>
 Surendra Adhikari (NASA JPL), C. Max Stevens (NASA Goddard), Asa Rennermalm (Rutgers),
 Jing Xiao (Rutgers), Marc Hesse (UT Austin), Reed Maxwell (Princeton)
-</p>
 
 <p>
 Developing multidimensional models for meltwater infiltration, refreezing, and ice-layer formation
@@ -226,9 +225,10 @@ Developed theoretical and numerical models to quantify drainage dynamics in unco
 
 </div>
 
-<div class="col-md-4 col-sm-12 project-media">
+<div class="project-media">
 <video autoplay loop muted playsinline>
-  <source src="{{ '/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4' | relative_url }}" type="video/mp4">
+  <source src="{{ '/assets/terrestrial_hydrology.mp4' | relative_url }}" type="video/mp4">
+</video>
 </video>
 </div>
 </div>
