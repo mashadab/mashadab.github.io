@@ -16,9 +16,16 @@ In **planetary science**, I work on infiltration and groundwater processes on ea
 <div class="container">
 <div class="row">
 <center>
-<iframe src="https://player.vimeo.com/video/523324084?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="400" height="400" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
-<br>Filling of an impact-formed crater lake on Mars.<br/>
-Hiatt, Shadab et al., <i>AGU Fall Meeting</i> (2020)
+
+<video width="500" autoplay loop muted playsinline
+style="border-style:solid;border-radius:5px;">
+  <source src="/assets/S2_videofinal_HydroFirn_5panel_static_top_evolving_bottom.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br>HydroFirn simulation: multi-scale meltwater infiltration and firn evolution.<br/>
+Shadab et al. (2026)
+
 </center>
 </div>
 </div>
