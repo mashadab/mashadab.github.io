@@ -149,7 +149,7 @@ Developing reduced-order models for the expansion of aquifers in cold firn.
 
 <p class="project-meta">
 <b>Collaborators:</b>
-N. Jadallah and Reed Maxwell (Princeton University)
+Nicholas Jadallah and Reed Maxwell (Princeton University)
 </p>
 
 <p>
@@ -229,7 +229,6 @@ Developed theoretical and numerical models to quantify unsaturated and saturated
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/terrestrial_hydrology.mp4' | relative_url }}" type="video/mp4">
 </video>
-</video>
 </div>
 </div>
 </div>
@@ -244,11 +243,11 @@ Developed theoretical and numerical models to quantify unsaturated and saturated
 <div class="row align-items-center">
 <div class="col-md-8 col-sm-12">
 
-<h4>Groundwater Systems and Climate Constraints on Early Mars</h4>
+<h4>Vadose Zone and Groundwater Systems on Early Mars</h4>
 
 <p class="project-meta">
 <b>Collaborators:</b>
-Eric Hiatt, Rickbir Bahia, Eleni Bohacek, Marc Hesse, and ESA collaborators
+Eric Hiatt (UT Austin), Rickbir Bahia (ESA), Eleni Bohacek (ESA), and Marc Hesse (UT Austin)
 </p>
 
 <p>
@@ -257,42 +256,18 @@ Developed models for groundwater flow, recharge, and residence times in early Ma
 
 <ul>
 <li>Developed spherical aquifer models incorporating vertical heterogeneity</li>
-<li>Estimated groundwater residence times under transient climate forcing</li>
+<li>Quantified vadose-zone residence times and infiltration depths</li>
 <li>Linked subsurface hydrology to constraints on early Martian climate evolution</li>
 </ul>
 
 </div>
 
 <div class="col-md-4 col-sm-12 project-media">
-<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
+  <img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}" alt="Infiltration on Early Mars">
 </div>
 </div>
 </div>
 
-<div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
-<h4>Vadose Zone Infiltration on Mars</h4>
-
-<p class="project-meta">
-<b>Collaborators:</b>
-ESA Mars Aeolian-Fluvial Interaction team and UT Austin
-</p>
-
-<p>
-Investigated infiltration processes in Martian regolith and their role in surface evolution and water storage.
-</p>
-
-<ul>
-<li>Applied kinematic wave theory to infiltration in Martian porous media</li>
-<li>Quantified vadose-zone residence times and infiltration depths</li>
-<li>Integrated subsurface flow physics with aeolian-fluvial surface evolution models</li>
-</ul>
-
-</div>
-</div>
-</div>
 
 <div class="project-card">
 <div class="row align-items-center">
