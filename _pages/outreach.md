@@ -4,7 +4,7 @@ layout: default
 permalink: /outreach/
 ---
 
-## Outreach
+# Outreach
 
 I enjoy making Earth and planetary science accessible to broader communities through teaching, mentoring, public engagement, and hands-on educational activities.
 
@@ -67,10 +67,11 @@ I enjoy making Earth and planetary science accessible to broader communities thr
 
 ---
 
-## Open Science & Policy Engagement  
-*UT Austin HELIOS Initiative (2023–2024)*
+## Open Science & Policy Engagement Team, *UT Austin HELIOS Initiative (2023–2024)*
 
-### HELIOS Open Science Initiative
+<p align="center">
+  Advancing open scholarship and science policy.
+</p>
 
 <p align="center">
   <img src="/assets/outreach/photo12.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
@@ -78,7 +79,7 @@ I enjoy making Earth and planetary science accessible to broader communities thr
   <img src="/assets/outreach/photo14.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
 </p>
 
-<p align="center">
+<p>
   Presented at <b>U.S. White House Open Science Listening Sessions</b>  
   (<a href="https://sites.utexas.edu/openaccess/2023/06/13/importance-of-affordable-open-science/" target="_blank">News</a>,  
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7069759865090424832/" target="_blank">Post</a>,  
@@ -90,9 +91,6 @@ I enjoy making Earth and planetary science accessible to broader communities thr
   <a href="https://www.ifla.org/events/ifla-arl-webinar-open-science-policies-and-best-practices-11-october-2023/" target="_blank">IFLA Open Science Webinar</a>
 </p>
 
-<p align="center">
-  Advancing open scholarship and science policy.
-</p>
 
 ---
 
