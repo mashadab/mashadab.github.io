@@ -5,409 +5,467 @@ sitemap: false
 permalink: /projects/
 ---
 
-<!-- <style> -->
-<!-- iframe { -->
-<!--   height: 100%; -->
-<!--   width: 175px !important; -->
-<!--   display: inline; -->
-<!--   vertical-align:middle; -->
-<!--   margin:0px !important; -->
-<!--   padding:0px !important; -->
-<!--   width: 175px; -->
-<!--   display: inline; -->
-<!--   vertical-align:middle; -->
-<!--   border: 1px solid red; -->
-<!-- } -->
-<!-- .col-md-3 { -->
-<!--   margin:0px !important; -->
-<!--   padding:0px !important; -->
-<!--   overflow:hidden; -->
-<!--   display: table-cell; -->
-<!--   text-align:center; -->
-<!--   background: white; -->
-<!--   width: 175px; -->
-<!--   border: 0px solid transparent; -->
-<!--   border-radius:20px; -->
-<!-- } -->
-<!-- </style> -->
-
 <style>
-img{
-  border-radius: 10px;
+.project-category {
+  margin: 45px 0 20px 0;
 }
-.col-md-3 {
-  margin-top:10px;
-  margin-bottom:10px;
-  padding:0px;
-  display:block;
-  overflow:hidden;
-  text-align:center;
-  display: table-cell;
-  background: white;
-  border-radius: 20px;
-  height: auto;
-  <!-- border: 1px solid black; -->
+
+.project-card {
+  background: #f8f9fa;
+  border-radius: 12px;
+  padding: 24px;
+  margin: 24px 0;
 }
-iframe {
-  margin:0;
-  padding:0;
-  width: 175px;
-  display: inline;
-  vertical-align: middle;
+
+.project-card h4 {
+  margin-top: 0;
+}
+
+.project-meta {
+  color: #555;
+  margin-bottom: 12px;
+}
+
+.project-card ul {
+  margin-top: 12px;
+}
+
+.project-card li {
+  margin-bottom: 6px;
+}
+
+.project-media {
+  text-align: center;
+  margin-top: 12px;
+}
+
+.project-media iframe,
+.project-media video {
+  width: 100%;
+  max-width: 460px;
+  height: 260px;
+  border: 0;
+  border-radius: 8px;
+}
+
+.project-media video {
+  object-fit: cover;
 }
 </style>
 
-  <!-- border: 5px solid red; -->
-  <!-- margin-bottom:5px; -->
-  <!-- margin-left:5px; -->
-  <!-- float: none; -->
+<h2>Academic Research</h2>
 
-## Academic Research
+<p>
+My research develops physics-based, computational, and data-driven models to understand fluid flow,
+transport, and environmental change across Earth and planetary systems.
+</p>
 
----
+<hr>
 
+<div class="project-category">
+<h3>Cryosphere Hydrology</h3>
 
-### Cryosphere Hydrology
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
 <h4>Firn Densification and Meltwater Percolation</h4>
 
+<p class="project-meta">
 <b>Collaborators:</b>
-<i>Surendra Adhikari (NASA JPL), C. Max Stevens (NASA Goddard), Asa Rennermalm (Rutgers), Jing Xiao (Rutgers), Marc Hesse (UT Austin), Reed Maxwell (Princeton University)</I>
+Surendra Adhikari (NASA JPL), C. Max Stevens (NASA Goddard), Asa Rennermalm (Rutgers),
+Jing Xiao (Rutgers), Marc Hesse (UT Austin), Reed Maxwell (Princeton)
+</p>
 
-Developing multi-scale model for meltwater infiltration, refreezing, and ice-layer formation in polar firn.
+<p>
+Developing multidimensional models for meltwater infiltration, refreezing, and ice-layer formation
+in polar firn.
+</p>
 
 <ul>
-<li>Built three-phase models (snow–water–air) from first principles in multidimensions at large scales</li>
-<li>Validated the hydrologic model against field measurements and analytic solutions</li>
-<li>Simulated multidimensional ice-layer formation under repeated melt events at DYE-2 site in Greenland</li>
+<li>Developed a multidimensional three-phase snow-water-air flow model for polar firn</li>
+<li>Validated model predictions against field observations and analytical benchmarks</li>
+<li>Simulated ice-layer formation under repeated melt events at the DYE-2 site in Greenland</li>
 </ul>
 
+</div>
 
-<video width="450" autoplay loop muted playsinline
-style="border-style:solid;border-radius:5px;">
-  <source src="/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<div class="col-md-4 col-sm-12 project-media">
+<video autoplay loop muted playsinline>
+  <source src="{{ '/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4' | relative_url }}" type="video/mp4">
 </video>
 </div>
 </div>
 </div>
 
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<h4>Firn Aquifers</h4>
 
-<h4>Firn aquifers</h4>
-
+<p class="project-meta">
 <b>Collaborators:</b>
-<i>Howard Stone, Reed Maxwell (Princeton University) </I>
+Howard Stone and Reed Maxwell (Princeton University)
+</p>
 
-Developing multi-scale models for meltwater infiltration, refreezing, and ice-layer formation in polar firn.
+<p>
+Developing reduced-order models for the expansion of aquifers in cold firn.
+</p>
 
 <ul>
-<li>Developed a new vertically integrated model for aquifers expanding in cold firn</li>
-<li>Validated the model and shown 20 times speedup</li>
-<li>Shown that aquifer slows in colder firn</li>
+<li>Formulated a vertically integrated model for aquifer growth in cold firn</li>
+<li>Reduced computational cost by approximately 20 times relative to fully resolved simulations</li>
+<li>Quantified the impact of firn temperature on aquifer expansion dynamics</li>
 </ul>
 
-<video width="450" autoplay loop muted playsinline
-style="border-style:solid;border-radius:5px;">
-  <source src="/assets/VideoS2_ColdFirnAquifer3D.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+</div>
+
+<div class="col-md-4 col-sm-12 project-media">
+<video autoplay loop muted playsinline>
+  <source src="{{ '/assets/VideoS2_ColdFirnAquifer3D.mp4' | relative_url }}" type="video/mp4">
 </video>
-
-
 </div>
 </div>
 </div>
+</div>
 
+<hr>
 
----
+<div class="project-category">
+<h3>Terrestrial Hydrology</h3>
 
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
-### Terrestrial Hydrology
+<h4>Integrated Hydrologic Modeling with ParFlow and CLM</h4>
 
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
-
-<h4>Large-scale integrated hydrologic modeling using ParFlow and Community Land Model</h4>
-
+<p class="project-meta">
 <b>Collaborators:</b>
-<i>N. Jadallah, Prof. Reed Maxwell (Princeton University)</I>
+N. Jadallah and Reed Maxwell (Princeton University)
+</p>
 
-Investigating the terms of ParFlow and Community Land Model across spatial scales.
+<p>
+Investigating how physical process representations affect large-scale integrated hydrologic simulations.
+</p>
 
 <ul>
-<li>Studied the effect of capillary forcing across scales</li>
-<li>Improved the formulation of snow hydrology from bucket to Darcy's law</li>
-<li>Compared against remote sensing and field observations</li>
+<li>Quantified the role of capillary forcing across spatial scales in coupled hydrologic models</li>
+<li>Reformulated snow hydrology from a bucket-based representation toward a Darcy-based framework</li>
+<li>Evaluated model behavior against remote sensing products and field observations</li>
 </ul>
 
 </div>
-<div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
+
+<div class="col-md-4 col-sm-12 project-media">
+<iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
 </div>
 
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
 <h4>Physics-Informed Neural Networks for Groundwater Flow</h4>
 
+<p class="project-meta">
 <b>Collaborators:</b>
-<i>Dingcheng Luo, Yiran Shen, Eric Hiatt, Marc Hesse (UT Austin)</i>
+Dingcheng Luo, Yiran Shen, Eric Hiatt, and Marc Hesse (UT Austin)
+</p>
 
+<p>
 Developed data-driven frameworks to infer governing equations and parameters in groundwater systems.
+</p>
 
 <ul>
-<li>Identified Dupuit–Boussinesq equations from sparse observations</li>
-<li>Estimated hydraulic conductivity and boundary conditions in transient systems</li>
-<li>Evaluated robustness of PINNs under model–data mismatch</li>
+<li>Inferred groundwater flow equations directly from sparse observational data</li>
+<li>Estimated hydraulic conductivity and boundary conditions in transient seepage problems</li>
+<li>Assessed PINN robustness under model-data mismatch and scaling limitations</li>
 </ul>
 
 </div>
-<div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
+
+<div class="col-md-4 col-sm-12 project-media">
+<iframe src="https://player.vimeo.com/video/524097521?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
 </div>
 
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
 <h4>Analytical and Numerical Models of Groundwater Drainage</h4>
 
+<p class="project-meta">
 <b>Advisor:</b>
-<i>Prof. Marc Hesse (UT Austin)</i>
+Marc Hesse (UT Austin)
+</p>
 
-Developed theoretical models to quantify drainage dynamics in unconfined aquifers.
+<p>
+Developed theoretical and numerical models to quantify drainage dynamics in unconfined aquifers.
+</p>
 
 <ul>
-<li>Derived scaling laws for drainage time scales and hydraulic gradients</li>
-<li>Implemented finite-difference solvers for nonlinear diffusion equations</li>
-<li>Validated against laboratory experiments and field-relevant scenarios</li>
+<li>Derived analytical scaling laws for drainage dynamics in unconfined groundwater systems</li>
+<li>Developed finite-difference solvers for nonlinear diffusion equations</li>
+<li>Validated theoretical predictions using laboratory-inspired and synthetic datasets</li>
 </ul>
 
 </div>
-<div class="container">
-<div class="row">
-<center>
 
-<video width="450" autoplay loop muted playsinline
-style="border-style:solid;border-radius:5px;">
-  <source src="/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<div class="col-md-4 col-sm-12 project-media">
+<video autoplay loop muted playsinline>
+  <source src="{{ '/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4' | relative_url }}" type="video/mp4">
 </video>
-
 </div>
 </div>
 </div>
+</div>
 
----
+<hr>
 
+<div class="project-category">
+<h3>Planetary Hydrology</h3>
 
-### Planetary Hydrology
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
 <h4>Groundwater Systems and Climate Constraints on Early Mars</h4>
 
+<p class="project-meta">
 <b>Collaborators:</b>
-<i>ESA, UT Austin, Princeton University</i>
+Eric Hiatt, Rickbir Bahia, Eleni Bohacek, Marc Hesse, and ESA collaborators
+</p>
 
+<p>
 Developed models for groundwater flow, recharge, and residence times in early Martian crust.
+</p>
 
 <ul>
-<li>Constructed spherical aquifer models with vertical heterogeneity</li>
+<li>Developed spherical aquifer models incorporating vertical heterogeneity</li>
 <li>Estimated groundwater residence times under transient climate forcing</li>
-<li>Linked groundwater dynamics to paleoclimate constraints</li>
+<li>Linked subsurface hydrology to constraints on early Martian climate evolution</li>
 </ul>
 
 </div>
-<div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
+
+<div class="col-md-4 col-sm-12 project-media">
+<iframe src="https://player.vimeo.com/video/524095933?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
 </div>
 
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
 <h4>Vadose Zone Infiltration on Mars</h4>
 
+<p class="project-meta">
 <b>Collaborators:</b>
-<i>ESA (MAFI model), UT Austin</i>
+ESA Mars Aeolian-Fluvial Interaction team and UT Austin
+</p>
 
-Investigated infiltration processes in Martian regolith and their role in surface evolution.
+<p>
+Investigated infiltration processes in Martian regolith and their role in surface evolution and water storage.
+</p>
 
 <ul>
-<li>Applied kinematic wave theory to infiltration in porous media</li>
-<li>Estimated vadose zone residence times</li>
-<li>Integrated with aeolian–fluvial interaction models</li>
+<li>Applied kinematic wave theory to infiltration in Martian porous media</li>
+<li>Quantified vadose-zone residence times and infiltration depths</li>
+<li>Integrated subsurface flow physics with aeolian-fluvial surface evolution models</li>
 </ul>
 
 </div>
 </div>
 </div>
 
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
 <h4>Melt Migration in Icy Ocean Worlds</h4>
 
+<p class="project-meta">
 <b>Advisor:</b>
-<i>Dr. Steven Vance (NASA JPL)</i>
+Steven Vance (NASA JPL)
+</p>
 
-Developed models for melt transport and hydrothermal circulation within ice shells.
+<p>
+Developed models for melt transport, hydrothermal circulation, and organic migration through icy ocean-world shells.
+</p>
 
 <ul>
-<li>Simulated melt percolation in viscously compacting ice matrices</li>
-<li>Tracked organic transport using tracer methods</li>
-<li>Derived scaling laws for melt migration time scales</li>
+<li>Modeled melt transport in viscously compacting ice shells</li>
+<li>Tracked organic and thermal transport using tracer-based methods</li>
+<li>Derived scaling laws for melt migration and hydrothermal circulation timescales</li>
 </ul>
 
 </div>
 </div>
 </div>
+</div>
 
----
+<hr>
 
-### Hydrogeochemistry
+<div class="project-category">
+<h3>Hydrogeochemistry</h3>
 
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
-<h4>Reactive Transport for CO₂ Sequestration via Enhanced Weathering</h4>
+<h4>Reactive Transport for CO₂ Removal via Enhanced Weathering</h4>
 
+<p class="project-meta">
 <b>Collaborator:</b>
-<i>Dr. Jacob Jordan (Mati Carbon)</i>
+Jacob Jordan (Mati Carbon)
+</p>
 
-Developed analytical and numerical models for multicomponent reactive transport in soils.
+<p>
+Developing analytical and numerical models for multicomponent reactive transport in soils for carbon dioxide removal.
+</p>
 
 <ul>
-<li>Formulated chromatographic transport theory for cation exchange</li>
-<li>Derived analytical solutions for nonlinear wave propagation</li>
-<li>Validated against PHREEQC geochemical simulations</li>
+<li>Formulated analytical models for multicomponent reactive transport in soil columns</li>
+<li>Derived nonlinear wave solutions for cation exchange processes</li>
+<li>Validated predictions against PHREEQC geochemical simulations</li>
 </ul>
 
 </div>
 </div>
 </div>
+</div>
 
----
+<hr>
 
-### Numerical Methods
+<div class="project-category">
+<h3>Numerical Methods</h3>
 
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
 <h4>High-Order Finite-Volume Methods in Curvilinear Coordinates</h4>
 
+<p class="project-meta">
 <b>Advisor:</b>
-<i>Prof. Kun Xu (HKUST)</i>
+Kun Xu (HKUST)
+</p>
 
-Developed high-order numerical schemes for solving PDEs in complex geometries.
+<p>
+Developed high-order numerical schemes for solving hyperbolic partial differential equations in complex geometries.
+</p>
 
 <ul>
-<li>Proposed fifth-order WENO reconstruction in curvilinear systems</li>
-<li>Derived analytical weights and convergence properties</li>
-<li>Implemented open-source solver framework</li>
+<li>Developed fifth-order WENO reconstruction schemes in curvilinear coordinates</li>
+<li>Derived analytical weights and verified convergence properties</li>
+<li>Implemented and released an open-source numerical solver framework</li>
 </ul>
 
+<p>
+<a href="{{ '/papers/shadab_fifthWENO_CnF_2019.pdf' | relative_url }}" target="_blank">Paper</a> |
+<a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Code</a>
+</p>
+
 </div>
-<div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524120989?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
+
+<div class="col-md-4 col-sm-12 project-media">
+<iframe src="https://player.vimeo.com/video/524120989?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
 </div>
 
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
 <h4>High-Performance Scientific Computing for Large-Scale PDEs</h4>
 
+<p class="project-meta">
 <b>Platform:</b>
-<i>Stampede2 (TACC)</i>
+Stampede2, Texas Advanced Computing Center
+</p>
 
-Developed scalable computational tools for solving large nonlinear systems.
+<p>
+Built and tested scientific computing workflows for solving large-scale partial differential equations.
+</p>
 
 <ul>
-<li>Parallelized solvers for large-scale hydrologic simulations</li>
-<li>Optimized memory and computational efficiency</li>
-<li>Applied to multiphase and groundwater flow problems</li>
+<li>Implemented C++ solvers and automated testing workflows for elliptic PDE problems</li>
+<li>Integrated scientific libraries including PETSc, HDF5, MASA, and GRVY</li>
+<li>Used SLURM, Docker, Travis CI, and code-coverage tools for reproducible computation</li>
 </ul>
 
 </div>
 </div>
 </div>
+</div>
 
----
+<hr>
 
-### Fluid Mechanics
+<div class="project-category">
+<h3>Fluid Mechanics</h3>
 
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
 <h4>Drop Dynamics in Viscoelastic Media</h4>
 
+<p class="project-meta">
 <b>Advisor:</b>
-<i>Prof. Irmgard Bischofberger (MIT)</i>
+Irmgard Bischofberger (MIT)
+</p>
 
-Studied breakup and stability of drops in viscoelastic fluids.
+<p>
+Studied the breakup and stability of falling drops in viscoelastic fluids using experiments and image analysis.
+</p>
 
 <ul>
-<li>Characterized Deborah number scaling and rheology</li>
-<li>Designed high-speed imaging experiments</li>
-<li>Developed MATLAB tools for image-based flow analysis</li>
+<li>Characterized drop breakup and stability in viscoelastic fluids</li>
+<li>Quantified Deborah number scaling using controlled experiments</li>
+<li>Developed MATLAB tools for high-speed image-based flow analysis</li>
 </ul>
 
+<p>
+<a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">APS DFD Abstract</a> |
+<a href="https://github.com/mashadab/drop-dynamics" target="_blank">Code</a>
+</p>
+
 </div>
-<div class="col-md-3 col-sm-12">
-<iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&muted=1&background=1" height="400px"></iframe>
+
+<div class="col-md-4 col-sm-12 project-media">
+<iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
 </div>
 
-
-<div class="jumbotron">
-<div class="row align-items-end">
-<div class="col-md-9 col-sm-12">
+<div class="project-card">
+<div class="row align-items-center">
+<div class="col-md-8 col-sm-12">
 
 <h4>Combustion and Multiphysics Flow Modeling</h4>
 
-Developed models for reacting flows and multiphysics coupling in high-speed systems.
+<p>
+Developed models and experiments for reacting flows, high-speed propulsion, and multicomponent combustion.
+</p>
 
 <ul>
-<li>Analyzed effects of Lewis number on flame stability</li>
-<li>Simulated combustion in high-speed (scramjet-like) flows</li>
-<li>Coupled thermal, fluid, and chemical processes</li>
+<li>Analyzed flame stability under varying Lewis number conditions</li>
+<li>Simulated reacting flows in high-speed scramjet-like regimes</li>
+<li>Coupled thermal, fluid, and chemical transport processes in combustion systems</li>
 </ul>
 
 </div>
-<div class="col-md-3 col-sm-12" style="background-color:transparent;">
-  <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&autopause=0&muted=1&quality=1080p&background=1" height="400px" frameborder="0"></iframe>
-</div>
 
+<div class="col-md-4 col-sm-12 project-media">
+<iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
+</div>
+</div>
 </div>
 </div>
