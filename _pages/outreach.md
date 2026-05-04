@@ -13,43 +13,52 @@ I enjoy making Earth and planetary science accessible to broader communities thr
 ## Science Outreach Educator  
 *Integrated Groundwater Modeling Center, Princeton University (2024–Present)*
 
+### Spring Into Science 2026  
+(&gt;1000 participants)
+
 <p align="center">
   <img src="/assets/outreach/photo9.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
   <img src="/assets/outreach/photo10.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
-  <img src="/assets/outreach/photo11.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;"><br><br>
-
-  <b>Spring Into Science 2026</b><br>
-  (&gt;1000 participants)
+  <img src="/assets/outreach/photo11.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
 </p>
 
-<p align="center">
-  <b>Earth Day 2026</b><br>
-  (&gt;200 participants)
-</p>
+---
+
+### Earth Day 2026  
+(&gt;200 participants)
+
+---
+
+### World Water Day 2026 Outreach  
+(&gt;100 participants)
 
 <p align="center">
   <img src="/assets/outreach/photo1.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
-  <img src="/assets/outreach/photo2.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;"><br><br>
-
-  <b>World Water Day 2026 Outreach</b><br>
-  (&gt;100 participants)
+  <img src="/assets/outreach/photo2.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
 </p>
+
+---
+
+### Watershed Academy Outreach  
 
 <p align="center">
   <img src="/assets/outreach/photo4.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
   <img src="/assets/outreach/photo6.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
   <img src="/assets/outreach/photo8.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
-  <img src="/assets/outreach/photo7.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;"><br><br>
-
-  <b>Watershed Academy Outreach</b><br>
-  Instructed hydrologic modeling to 20 high school students
+  <img src="/assets/outreach/photo7.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
 </p>
 
 <p align="center">
-  <img src="/assets/outreach/photo3.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;"><br><br>
+  Instructed hydrologic modeling to 20 high school students
+</p>
 
-  <b>World Water Day 2025 Outreach</b><br>
-  (&gt;200 participants)
+---
+
+### World Water Day 2025 Outreach  
+(&gt;200 participants)
+
+<p align="center">
+  <img src="/assets/outreach/photo3.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
 </p>
 
 <p align="center">
@@ -61,15 +70,15 @@ I enjoy making Earth and planetary science accessible to broader communities thr
 ## Open Science & Policy Engagement  
 *UT Austin HELIOS Initiative (2023–2024)*
 
+### HELIOS Open Science Initiative
+
 <p align="center">
   <img src="/assets/outreach/photo12.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
   <img src="/assets/outreach/photo13.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
-  <img src="/assets/outreach/photo14.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;"><br><br>
+  <img src="/assets/outreach/photo14.jpg" style="width:250px; height:180px; object-fit:cover; border-radius:8px;">
+</p>
 
-  <b>Open Science & Policy Engagement</b><br>
-
-  Team Member, <a href="https://www.heliosopen.org/" target="_blank">UT Austin HELIOS Initiative</a><br><br>
-
+<p align="center">
   Presented at <b>U.S. White House Open Science Listening Sessions</b>  
   (<a href="https://sites.utexas.edu/openaccess/2023/06/13/importance-of-affordable-open-science/" target="_blank">News</a>,  
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7069759865090424832/" target="_blank">Post</a>,  
@@ -90,16 +99,9 @@ I enjoy making Earth and planetary science accessible to broader communities thr
 ## Geoscience Ambassador  
 *The University of Texas at Austin (2023–2024)*
 
-<p align="center">
-  <img src="/assets/outreach/photo2.jpg"
-       style="width:250px; height:180px; object-fit:cover; border-radius:8px;"><br><br>
-
-  Promoting accessible and interdisciplinary geoscience education.
-</p>
-
 ---
 
 ## Smilyo Educational Charitable Society  
-*Delhi, India (2012–2013)*
+*Delhi, India (2014–2015)*
 
 Led student outreach and educational resource efforts across universities and taught in underserved communities.
