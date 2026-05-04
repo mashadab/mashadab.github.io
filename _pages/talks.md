@@ -21,7 +21,7 @@ permalink: /talks/
 
 {% if site.data.conference_talks %}
 <div class="jumbotron">
-### Conference Abstracts
+### Selected Conference Talks
 {% for publi in site.data.conference_talks %}
 - <strong>{{ publi.title }}</strong> <br/> 
  {{ publi.authors | replace_first: 'M.A. Shadab', '<b>M.A. Shadab</b>'}} <br/>

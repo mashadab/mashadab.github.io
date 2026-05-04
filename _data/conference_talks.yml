@@ -1,128 +1,189 @@
+- authors: M.A. Shadab, S. Adhikari, C.M. Stevens, A. Rennermalm, J. Xiao and M.A. Hesse
+  title: Modeling large-scale multi-dimensional infiltration and ice layer formation in Greenland firn.
+  conf: AGU Fall Meeting (invited)
+  year: 2025
 
-- authors: S.D. Vance, E. Carnahan, M.A. Shadab and team
-  title: Impact foundering and material transport through ice shells of various compositions. 
-  conf: Impact Processes for Planetary Habitability Workshop, Brazil
-  year: 2023
+- authors: M.A. Shadab, H.A. Stone and R.M. Maxwell
+  title: A theoretical and numerical model for unconfined aquifers in cold snow and firn.
+  conf: AGU Fall Meeting 
+  year: 2025
 
-- authors: M.A. Shadab, E. Hiatt and M.A. Hesse
-  title:  A Deep Crustal Aquifer Model for Southern Highlands of Noachian Mars Shows Groundwater Age and Near-Surface Dynamics.
-  conf: Brines Across the Solar System - Ancient and Future Brines Conference 2023, Abstract \#2025.
-  year: 2023
+- authors: M.A. Shadab, N. Jadallah and R.M. Maxwell
+  title: Effects of soil capillarity on multidimensional, integrated surface-subsurface hydrology at different spatial scales.
+  conf: AGU Fall Meeting 
+  year: 2025
 
-- authors: M.A. Shadab, E. Hiatt and M.A. Hesse
-  title:  A Deep Crustal Aquifer Model for Southern Highlands of Noachian Mars Shows Groundwater Age and Near-Surface Dynamics.
-  conf: NASA Exploration Science Forum 2023
-  year: 2023
+- authors: F. Ishraque, M.A. Shadab, O. Lauter, E. Adasheva and Z. Labe
+  title: Empowering polar science community: A decade of USAPECS in supporting early career researchers globally.
+  conf: AGU Fall Meeting 
+  year: 2025
 
-- authors: E. Hiatt, M.A. Shadab, T. Goudge, S.P.S. Gulick and M.A. Hesse
-  title: Limited Recharge of the Southern Highlands Aquifer on Early Mars. 
-  conf:  Texas Area Planetary Science Meeting (TAPS)
-  year: 2023
+- authors: M.A. Shadab, S. Adhikari, C.M. Stevens, M.A. Hesse and R.M. Maxwell
+  title: Multi-scale multi-dimensional infiltration in glacial firn and mechanism of ice layer and chunk formation.
+  conf: North-East Glaciology Meeting, Cornell University
+  year: 2025
 
+- authors: M.A. Shadab, S. Adhikari, C.M. Stevens, M.A. Hesse and R.M. Maxwell
+  title: Multi-scale multi-dimensional infiltration in glacial firn and mechanism of ice layer and chunk formation.
+  conf: Rutgers Climate Symposium
+  year: 2024
+
+- authors: M.A. Shadab, S. Adhikari, A. Rutishauser, C. Grima, C.M. Stevens and M.A. Hesse
+  title: Multi-scale multi-dimensional infiltration in glacial firn and mechanism of ice layer and chunk formation.
+  conf: AGU Fall Meeting
+  year: 2024
+
+- authors: M.A. Shadab, S.D. Vance, E.A. Silber, A.P. Crósta, E. Carnahan, J.S. Jordan and M.A. Hesse
+  title: Evolution of impact generated melt at Selk crater.
+  conf: AGU Fall Meeting
+  year: 2024
+
+- authors: M.N. Helmberger, Z. Labe, M.A. Shadab, O. Lauter, S. Vanek, E. Adasheva and L. Ashokkumar
+  title: Empowering polar science community: A decade of USAPECS in supporting early career researchers globally.
+  conf: AGU Fall Meeting
+  year: 2024
+
+- authors: M.A. Shadab, E. Hiatt, R.S. Bahia, E.V. Bohacek, V. Steinmann and M.A. Hesse
+  title: Dynamics of infiltration on early Mars.
+  conf: AGU Fall Meeting
+  year: 2024
+
+- authors: E. Hiatt, M.A. Shadab, S.P.S. Gulick, T. Goudge and M.A. Hesse
+  title: Transient groundwater models suggest short lived recharge events on early Mars.
+  conf: AGU Fall Meeting
+  year: 2024
+
+- authors: E. Hiatt, M.A. Shadab, S.P.S. Gulick, T. Goudge and M.A. Hesse
+  title: Constraining early Mars paleoclimate forcing via groundwater modeling as limited by observed geomorphology.
+  conf: Texas Area Planetary Science Meeting
+  year: 2024
 
 - authors: R. Barnes, ..., M.A. Shadab and team
-  title: History and Habitability of the LP 890-9 Planetary System.
-  conf: Biennial European Astrobiology Conference (BEACON)
+  title: The History and Habitability of the LP 890-9 Planetary System.
+  conf: Astrobiology Science Conference, Abstract \#1498545
+  year: 2024
+
+- authors: E. Adasheva, L. Ashokkumar, M.N. Helmberger, Z. Labe, O. Lauter, M.A. Shadab and S. Vanek
+  title: Exploring the past, present and future of USAPECS: Lessons from a decade of supporting early career research across national and international polar networks.
+  conf: Arctic Congress, Abstract \#1310
+  year: 2024
+
+- authors: M.A. Shadab, S. Adhikari, A. Rutishauser, C. Grima and M.A. Hesse
+  title: Mechanism of ice layer formation in glacial firn and factors controlling its depth.
+  conf: Gordon Research Conference
+  year: 2024
+
+- authors: M.A. Shadab, S. Adhikari, A. Rutishauser, C. Grima and M.A. Hesse
+  title: Mechanism of ice layer formation in glacial firn and factors controlling its depth.
+  conf: Flow and Transport in Permeable Media Gordon Research Seminar
+  year: 2024
+
+- authors: M.A. Shadab, S. Adhikari, A. Rutishauser, C. Grima and M.A. Hesse
+  title: Mechanism and factors controlling ice layer formation in glacial firn.
+  conf: AGU Fall Meeting
   year: 2023
 
-- authors: M.A. Shadab, E. Hiatt and M.A. Hesse
-  title:  Investigating groundwater dynamics and residence times on early Mars using unconfined aquifer model with vertical heterogeneity. 
-  conf: 54th Lunar and Planetary Science Conference 2023, Abstract \#1736.
+- authors: M.A. Shadab, A. Rutishauser, C. Grima and M.A. Hesse
+  title: A unified kinematic wave theory for melt infiltration into firn.
+  conf: AGU Fall Meeting
   year: 2023
 
-- authors: E. Hiatt, M.A. Shadab and M.A. Hesse
-  title: Planetary Scale Groundwater and Surface Water Interaction on Early Mars. 
-  conf: 54th Lunar and Planetary Science Conference 2023, Abstract \#2415.
+- authors: L. Ashokkumar, Z. Labe, M.A. Shadab, O. Lauter, E. Schreiber and E. Weinberg
+  title: Advancing inclusion, diversity, equity and accessibility in the polar sciences by USAPECS.
+  conf: AGU Fall Meeting
   year: 2023
 
-- authors: M.A. Hesse, M.A. Shadab and E. Hiatt
-  title: Time scales for Terminal Groundwater Drainage from the Southern Highlands on Mars. 
-  conf: 54th Lunar and Planetary Science Conference 2023, Abstract \#1637.
+- authors: M.A. Shadab, E. Hiatt, R.S. Bahia, E.V. Bohacek, V. Steinmann and M.A. Hesse
+  title: Infiltration on early Mars and its implications toward aeolian-fluvial interactions.
+  conf: Fluvial-Aeolian Interactions on Planetary Surfaces Workshop, European Space Agency
   year: 2023
 
-- authors: R. Barnes, ..., M.A. Shadab and team
-  title: History and Habitability of the LP 890-9 Planetary System.
-  conf: 241st Meeting of American Astronomical Society
+- authors: E. Hiatt, M.A. Shadab and team
+  title: Limited recharge of the southern highlands aquifer on early Mars.
+  conf: Texas Area Planetary Science Meeting, Abstract \#TAPS2023-55
   year: 2023
+
+- authors: S.D. Vance, E. Carnahan, M.A. Shadab, M.A. Hesse, E.A. Silber and A.P. Crósta
+  title: Impact foundering and material transport through ice shells of various compositions.
+  conf: Impact Processes as a Path to Habitability of Planetary Habitability Workshop, Brazil
+  year: 2023
+
+- authors: R. Barnes, M.A. Shadab and team
+  title: The history and habitability of the LP 890-9 planetary system.
+  conf: Biennial European Astrobiology Conference
+  year: 2023
+
+- authors: R. Barnes, M.A. Shadab and team
+  title: History and habitability of the LP 890-9 planetary system.
+  conf: 241st American Astronomical Society Meeting
+  year: 2023
+
+- authors: M.A. Shadab and M.A. Hesse
+  title: An extended kinematic-wave theory for infiltration in soils with declining porosity causing delayed perching.
+  conf: AGU Fall Meeting
+  year: 2022
 
 - authors: M.A. Shadab and M.A. Hesse
   title: Extending Richards equation to simulate variably saturated flows.
   conf: AGU Fall Meeting
   year: 2022
 
-- authors: M.A. Shadab and M.A. Hesse
-  title: An extended kinematic-wave theory for infiltration in soils with declining porosity causing delayed perching
+- authors: E. Hiatt, M.A. Shadab, M.A. Hesse, S.P.S. Gulick and T. Goudge
+  title: Limited recharge on early Martian aquifers: Numeric and analytic recharge rate estimates as constrained by geomorphic and geochemical observations.
   conf: AGU Fall Meeting
   year: 2022
 
-- authors: E. Hiatt, M.A. Shadab, M.A. Hesse, S.P.S. Guilick and T. Goudge
-  title: LIMITED RECHARGE ON EARLY MARTIAN AQUIFERS Numeric Analytic Recharge Rate Estimates As Constrained By Geomorphic and Geochemical Observations.
-  conf: AGU Fall Meeting
-  year: 2022
-
-- authors: M.A. Shadab, E. Hiatt and M.A. Hesse
-  title: Estimates of Martian mean recharge rates from analytic groundwater models. 
-  conf: 53rd Lunar and Planetary Science Conference 2022, Abstract \#1775.
-  year: 2022
-
-- authors: E. Hiatt, M.A. Shadab, S.P.S. Guilick, T. Goudge and M.A. Hesse
-  title: Estimates of groundwater divides and basins on Noachian Mars. 
-  conf: 53rd Lunar and Planetary Science Conference 2022, Abstract \#2618.
-  year: 2022
-
-- authors: M.A. Shadab, C. Grima, A. Rutishauser, and M.A. Hesse
-  title: Analytical Solutions for Melt Percolation in Ice Masses and a Pathway to Ice Lens Formation
+- authors: M.A. Shadab, C. Grima, A. Rutishauser and M.A. Hesse
+  title: Analytical solutions for melt percolation in ice masses and a pathway to ice lens formation.
   conf: AGU Fall Meeting
   year: 2021
 
 - authors: M.A. Shadab and M.A. Hesse
-  title: Fluid Infiltration in Unsaturated Porous Medium with The Development of a Saturated Region
+  title: Fluid infiltration in unsaturated porous medium with the development of a saturated region.
   conf: AGU Fall Meeting
   year: 2021
 
 - authors: M.A. Hesse, M.A. Shadab, D. Luo, Y. Shen and E. Hiatt
-  title: Investigating Groundwater Flow Dynamics using Physics Informed Neural Networks (PINNs)
+  title: Investigating groundwater flow dynamics using physics informed neural networks.
   conf: AGU Fall Meeting
   year: 2021
 
-- authors: E. Hiatt, M.A. Shadab, S.P.S. Guilick and M.A. Hesse
-  title: Experimental and Numerical Investigation of Seepage Face Dynamics
-  conf: AGU Fall Meeting 
+- authors: E. Hiatt, M.A. Shadab and team
+  title: Experimental and numerical investigation of seepage face dynamics.
+  conf: AGU Fall Meeting
   year: 2021
 
 - authors: M.A. Hesse, M.A. Shadab, E. Hiatt and J. Liebeck
-  title: Groundwater-ocean interaction on Mars
+  title: Groundwater-ocean interaction on Mars.
   conf: AGU Fall Meeting
   year: 2021
 
-- authors: E. Hiatt, M.A. Shadab, S.P.S. Guilick, T. Goudge and M.A. Hesse
-  title: Numerical Modeling of the Formation of Hellas Planitia with Focus on Spatio-Temporal Scales Required for Hydrologic Equilibration.
-  conf: AGU Fall Meeting 
+- authors: E. Hiatt, M.A. Shadab and team
+  title: Numerical modeling of the formation of Hellas Planitia with focus on spatio-temporal scales required for hydrologic equilibration.
+  conf: AGU Fall Meeting
   year: 2021
 
 - authors: M.A. Shadab, D. Luo, Y. Shen, E. Hiatt and M.A. Hesse
-  title: Investigating fluid drainage from the edge of a porous reservoir using Physics Informed Neural Networks
-  conf: Society for Industrial and Applied Mathematics, Annual Meeting
+  title: Investigating fluid drainage from the edge of a porous reservoir using physics informed neural networks.
+  conf: Society for Industrial and Applied Mathematics Annual Meeting
   year: 2021
 
 - authors: M.A. Shadab, T. Divoux and I. Bischofberger
-  title: Suppression of drop breakup in a viscoelastic bath
-  conf: American Physical Society, Division of Fluid Dynamics Annual Meeting
+  title: Suppression of drop breakup in a viscoelastic bath.
+  conf: American Physical Society Division of Fluid Dynamics Annual Meeting
   year: 2020
 
-- authors: E. Hiatt, M.A. Shadab, S.P.S. Guilick, T. Goudge and M.A. Hesse
-  title: Groundwater filling times for large impact basins on early Mars and implications for the onset of post impact hydrothermal systems
-  conf: American Geophysical Union, Fall Meeting
+- authors: E. Hiatt, M.A. Shadab, S.P.S. Gulick, T. Goudge and M.A. Hesse
+  title: Groundwater filling times for large impact basins on early Mars and implications for the onset of post impact hydrothermal systems.
+  conf: AGU Fall Meeting
   year: 2020
 
 - authors: M.A. Shadab, X. Ji and K. Xu
-  title: Fifth-order finite-volume WENO on Cylindrical Grids
-  conf: International Conference on Spectral And High Order Methods (ICOSAHOM), London
+  title: Fifth-order finite-volume WENO on cylindrical grids.
+  conf: International Conference on Spectral and High Order Methods, London
   year: 2018
 
 - authors: M.A. Shadab and M.F. Baig
-  title: Investigation and Control of Unstart Phenomenon in Scramjets
+  title: Investigation and control of unstart phenomenon in scramjets.
   conf: 21st AIAA International Space Planes and Hypersonics Technologies Conference
   year: 2017
-
-
