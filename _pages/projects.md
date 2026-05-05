@@ -110,7 +110,7 @@ Developing multidimensional models for meltwater infiltration, refreezing, and i
 </video>
 
 <p class="project-links">
-<a href="https://arxiv.org/pdf/2604.11488" target="_blank">Preprint (2026)</a>, <a href="https://doi.org/10.1017/jog.2025.10055" target="_blank">Paper (2025)</a>, <a href="https://doi.org/10.1029/2024GL109893" target="_blank">Paper (2024)</a> ...
+<a href="https://arxiv.org/pdf/2604.11488" target="_blank">Preprint (2026)</a>, <a href="https://doi.org/10.1017/jog.2025.10055" target="_blank">Paper (2025)</a>, <a href="https://doi.org/10.1029/2024GL109893" target="_blank">Paper (2024)</a>, ...
 </p>
 
 </div>
@@ -141,7 +141,7 @@ Developing reduced-order models for the expansion of aquifers in cold firn.
 </video>
 
 <p class="project-links">
-<a href="https://arxiv.org/pdf/2510.14268" target="_blank">Preprint (2025)</a>, <a href="https://github.com/mashadab/ColdFirnAquifer3D" target="_blank">Code</a> ...
+<a href="https://arxiv.org/pdf/2510.14268" target="_blank">Preprint (2025)</a>, <a href="https://github.com/mashadab/ColdFirnAquifer3D" target="_blank">Code</a>, ...
 </p>
 
 </div>
@@ -177,7 +177,7 @@ Investigating how physical process representations affect large-scale integrated
 </video>
 
 <p class="project-links">
-<a  Paper in preparation
+Paper in preparation
 </p>
 
 </div>
@@ -210,7 +210,7 @@ Developed data-driven frameworks to infer governing equations and parameters in 
   <source src="{{ '/assets/Dupuit-NN-noise.mp4' | relative_url }}" type="video/mp4">
 </video>
 <p class="project-links">
-<a href="https://doi.org/10.1016/j.advwatres.2023.104445" target="_blank">Paper (2023)</a>...
+<a href="https://doi.org/10.1016/j.advwatres.2023.104445" target="_blank">Paper (2023)</a>, ...
 </p>
 
 </div>
@@ -240,7 +240,7 @@ Developed theoretical and numerical models to quantify unsaturated and saturated
 </video>
 
 <p class="project-links">
-<a href="https://doi.org/10.1016/j.advwatres.2024.104736" target="_blank">Preprint (2024)</a>, <a href="https://doi.org/10.1016/j.softx.2023.101573" target="_blank">Paper (2023)</a>, <a href="https://doi.org/10.1029/2022WR032963" target="_blank">Paper (2022)</a> ...
+<a href="https://doi.org/10.1016/j.advwatres.2024.104736" target="_blank">Preprint (2024)</a>, <a href="https://doi.org/10.1016/j.softx.2023.101573" target="_blank">Paper (2023)</a>, <a href="https://doi.org/10.1029/2022WR032963" target="_blank">Paper (2022)</a>, ...
 
 </div>
 </div>
@@ -273,7 +273,7 @@ Developed models for groundwater flow, recharge, and residence times in early Ma
 <img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}" alt="Infiltration on early Mars">
 
 <p class="project-links">
-<a href="https://doi.org/10.1029/2024GL111939" target="_blank">Paper (2025)</a>, <a href="https://doi.org/10.1016/j.icarus.2023.115774" target="_blank">Paper (2023)</a> and a bunch of extended abstracts for LPSC such as <a href="https://www.hou.usra.edu/meetings/lpsc2026/pdf/1914.pdf" target="_blank">(2026)</a>, <a href="https://www.hou.usra.edu/meetings/lpsc2023/pdf/1736.pdf" target="_blank">(2023)</a>, <a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1775.pdf" target="_blank">(2022)</a> ...
+<a href="https://doi.org/10.1029/2024GL111939" target="_blank">Paper (2025)</a>, <a href="https://doi.org/10.1016/j.icarus.2023.115774" target="_blank">Paper (2023)</a> and a bunch of extended abstracts for LPSC such as <a href="https://www.hou.usra.edu/meetings/lpsc2026/pdf/1914.pdf" target="_blank">(2026)</a>, <a href="https://www.hou.usra.edu/meetings/lpsc2023/pdf/1736.pdf" target="_blank">(2023)</a>, <a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1775.pdf" target="_blank">(2022)</a>, ...
 
 </div>
 </div>
@@ -302,7 +302,7 @@ Developed models for melt transport, hydrothermal circulation, and organic migra
 </video>
 
 <p class="project-links">
-Paper in preparation, <a href="https://www.hou.usra.edu/meetings/lpsc2024/pdf/1317.pdf" target="_blank">LPSC (2024)</a> ...
+Paper in preparation, <a href="https://www.hou.usra.edu/meetings/lpsc2024/pdf/1317.pdf" target="_blank">LPSC (2024)</a>, ...
 
 </div>
 </div>
@@ -334,7 +334,7 @@ Developing analytical and numerical models for multicomponent reactive transport
 <div class="project-media-wide">
 <img src="{{ '/assets/richards_eqns_poster.png' | relative_url }}" alt="Soil as a chromatographic column">
 <p class="project-links">
-<a href="https://cdrxiv.org/preprint/489" target="_blank">Preprint (2026)</a> ...
+<a href="https://cdrxiv.org/preprint/489" target="_blank">Preprint (2026)</a>, ...
 </div>
 </div>
 </div>
@@ -430,7 +430,7 @@ Studied the breakup and stability of falling drops in viscoelastic fluids using 
 </div>
 
 <p class="project-links">
-<a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">APS DFD Abstract</a> |
+<a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">APS DFD Abstract</a>, 
 <a href="https://github.com/mashadab/drop-dynamics" target="_blank">Code</a>
 </p>
 </div>
