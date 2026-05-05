@@ -451,7 +451,7 @@ Developed models and experiments for reacting flows, high-speed propulsion, and 
 </div>
 
 <p class="project-links">
-<a href="https://doi.org/10.2514/6.2017-2298" target="_blank">Peer-reviewed Conference Paper (2017)</a>
+<a href="https://doi.org/10.2514/6.2017-2298" target="_blank">Paper (2017)</a>
 </p>
 </div>
 </div>
