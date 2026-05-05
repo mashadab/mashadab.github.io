@@ -268,7 +268,7 @@ Developed models for groundwater flow, recharge, and residence times in early Ma
 </p>
 
 <ul>
-<li>Developed spherical aquifer models incorporating vertical heterogeneity</li>
+<li>Developed aquifer models on spherical-shell incorporating vertical heterogeneity</li>
 <li>Quantified vadose-zone residence times and infiltration depths</li>
 <li>Linked subsurface hydrology to constraints on early Martian climate evolution</li>
 </ul>
