@@ -11,3 +11,13 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 // @import "bootstrap_customization";
 @import "bootstrap";
 @import "SHB_css";
+
+/* Wider content area for project pages */
+.container {
+  max-width: 1200px;
+}
+
+/* Make project cards use the full available width */
+.project-card {
+  width: 100%;
+}
