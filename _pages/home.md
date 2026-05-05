@@ -23,7 +23,7 @@ In **planetary science**, I work on infiltration and groundwater processes on ea
 <div class="row">
 <center>
 
-<video width="450" autoplay loop muted playsinline
+<video width="400" autoplay loop muted playsinline
 style="border-style:solid;border-radius:5px;">
   <source src="/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -41,7 +41,7 @@ style="border-style:solid;border-radius:5px;">
 <div class="row">
 <center>
 
-<video width="450" autoplay loop muted playsinline
+<video width="400" autoplay loop muted playsinline
 style="border-style:solid;border-radius:5px;">
   <source src="/assets/VideoS2_ColdFirnAquifer3D.mp4" type="video/mp4">
   Your browser does not support the video tag.
@@ -59,7 +59,7 @@ style="border-style:solid;border-radius:5px;">
 <div class="row">
 <center>
 
-<video width="450" autoplay loop muted playsinline
+<video width="400" autoplay loop muted playsinline
 style="border-style:solid;border-radius:5px;">
   <source src="/assets/lilwashita_SWE_mobile.mp4" type="video/mp4">
   Your browser does not support the video tag.
