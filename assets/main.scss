@@ -34,11 +34,11 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
   margin-bottom: 24px;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 769px) {
   .project-card {
-    width: calc(100vw - 32px);
-    margin-left: calc(50% - 50vw + 16px);
-    margin-right: calc(50% - 50vw + 16px);
-    padding: 22px 16px;
+    position: relative;
+    left: -80px;   /* 🔥 adjust this */
+    margin-left: 0;
+    margin-right: 0;
   }
 }
