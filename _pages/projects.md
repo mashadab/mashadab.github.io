@@ -278,7 +278,7 @@ Developed models for groundwater flow, recharge, and residence times in early Ma
 <div class="col-md-12 project-media">
   <img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}"
        alt="Infiltration on early Mars"
-       style="width:100%; max-width:900px;">
+       style="width:100%; max-width:700px;">
 </div>
 </div>
 </div>
