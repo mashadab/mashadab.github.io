@@ -472,16 +472,17 @@ Studied the breakup and stability of falling drops in viscoelastic fluids using 
 <li>Developed MATLAB tools for high-speed image-based flow analysis</li>
 </ul>
 
-<p>
-<a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">APS DFD Abstract</a> |
-<a href="https://github.com/mashadab/drop-dynamics" target="_blank">Code</a>
-</p>
 
 </div>
 
 <div class="col-md-12 project-media-newer">
 <iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
+<p>
+<a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">APS DFD Abstract</a> |
+<a href="https://github.com/mashadab/drop-dynamics" target="_blank">Code</a>
+</p>
+
 </div>
 </div>
 
