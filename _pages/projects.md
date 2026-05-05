@@ -110,7 +110,7 @@ Developing multidimensional models for meltwater infiltration, refreezing, and i
 </video>
 
 <p class="project-links">
-<a href="https://arxiv.org/pdf/2604.11488" target="_blank">Preprint (2025)</a>,
+<a href="https://arxiv.org/pdf/2604.11488" target="_blank">Preprint (2026)</a>,
 <a href="https://doi.org/10.1017/jog.2025.10055" target="_blank">Paper (2025)</a>,
 <a href="https://doi.org/10.1029/2024GL109893" target="_blank">Preprint (2024)</a>...
 </p>
@@ -141,6 +141,11 @@ Developing reduced-order models for the expansion of aquifers in cold firn.
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/VideoS2_ColdFirnAquifer3D.mp4' | relative_url }}" type="video/mp4">
 </video>
+
+<p class="project-links">
+<a href="https://arxiv.org/pdf/2510.14268" target="_blank">Preprint (2025)</a>, <a href="https://github.com/mashadab/ColdFirnAquifer3D" target="_blank">Code</a>
+</p>
+
 </div>
 </div>
 </div>
@@ -172,6 +177,11 @@ Investigating how physical process representations affect large-scale integrated
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/lilwashita_SWE_mobile.mp4' | relative_url }}" type="video/mp4">
 </video>
+
+<p class="project-links">
+<a href="https://doi.org/10.1016/j.advwatres.2024.104736" target="_blank">Paper (2024)</a>, <a href="https://doi.org/10.1016/j.softx.2023.101573" target="_blank">Paper (2023)</a>, <a href="https://doi.org/10.1029/2022WR032963" target="_blank">Paper (2022)</a>
+</p>
+
 </div>
 </div>
 
