@@ -110,9 +110,9 @@ Developing multidimensional models for meltwater infiltration, refreezing, and i
 </video>
 
 <p class="project-links">
-<a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Paper (2024)</a>,
-<a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Paper (2025)</a>,
-<a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Preprint (2025)</a>
+<a href="https://arxiv.org/pdf/2604.11488" target="_blank">Preprint (2025)</a>,
+<a href="https://doi.org/10.1017/jog.2025.10055" target="_blank">Paper (2025)</a>,
+<a href="https://doi.org/10.1029/2024GL109893" target="_blank">Preprint (2024)</a>...
 </p>
 
 </div>
