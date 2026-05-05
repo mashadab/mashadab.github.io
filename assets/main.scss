@@ -22,17 +22,20 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 
 .project-card {
   background: #f8f9fa;
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  padding: 28px 60px;
-  border-radius: 0;
+  width: calc(100vw - 160px);
+  margin-left: calc(50% - 50vw + 80px);
+  margin-right: calc(50% - 50vw + 80px);
+  padding: 28px 40px;
+  border-radius: 12px;
   margin-top: 24px;
   margin-bottom: 24px;
 }
 
 @media (max-width: 768px) {
   .project-card {
-    padding: 22px 18px;
+    width: calc(100vw - 32px);
+    margin-left: calc(50% - 50vw + 16px);
+    margin-right: calc(50% - 50vw + 16px);
+    padding: 22px 16px;
   }
 }
