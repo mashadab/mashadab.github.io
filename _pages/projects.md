@@ -230,7 +230,7 @@ Developed theoretical and numerical models to quantify unsaturated and saturated
 </div>
 
 <p class="project-links">
-<a href="https://doi.org/10.1016/j.advwatres.2024.104736" target="_blank">Preprint (2024)</a>,
+<a href="https://doi.org/10.1016/j.advwatres.2024.104736" target="_blank">Paper (2024)</a>,
 <a href="https://doi.org/10.1016/j.softx.2023.101573" target="_blank">Paper (2023)</a>,
 <a href="https://doi.org/10.1029/2022WR032963" target="_blank">Paper (2022)</a>
 </p>
