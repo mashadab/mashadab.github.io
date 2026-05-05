@@ -275,8 +275,10 @@ Developed models for groundwater flow, recharge, and residence times in early Ma
 
 </div>
 
-<div class="col-md-4 col-sm-12 project-media">
-  <img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}" alt="Infiltration on Early Mars">
+<div class="col-md-12 project-media">
+  <img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}"
+       alt="Infiltration on early Mars"
+       style="width:100%; max-width:900px;">
 </div>
 </div>
 </div>
@@ -374,10 +376,10 @@ Developed high-order numerical schemes for solving hyperbolic partial differenti
 <li>Implemented and released an open-source numerical solver framework</li>
 </ul>
 
-<p>
+<div class="col-md-4 col-sm-12 project-media">
 <a href="{{ '/papers/shadab_fifthWENO_CnF_2019.pdf' | relative_url }}" target="_blank">Paper</a> |
 <a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Code</a>
-</p>
+</div>
 
 
 </div>
