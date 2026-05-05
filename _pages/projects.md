@@ -271,6 +271,10 @@ Developed models for groundwater flow, recharge, and residence times in early Ma
 
 <div class="project-media">
 <img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}" alt="Infiltration on early Mars">
+
+<p class="project-links">
+<a href="https://doi.org/10.1029/2024GL111939" target="_blank">Paper (2025)</a>, <a href="https://doi.org/10.1016/j.icarus.2023.115774" target="_blank">Paper (2023)</a> and a bunch of extended abstracts for LPSC such as <a href="https://www.hou.usra.edu/meetings/lpsc2026/pdf/1914.pdf" target="_blank">(2026)</a>, <a href="https://www.hou.usra.edu/meetings/lpsc2023/pdf/1736.pdf" target="_blank">(2023)</a>, <a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1775.pdf" target="_blank">(2022)</a> ...
+
 </div>
 </div>
 
@@ -296,6 +300,10 @@ Developed models for melt transport, hydrothermal circulation, and organic migra
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/impact_melt_video.mp4' | relative_url }}" type="video/mp4">
 </video>
+
+<p class="project-links">
+Paper in preparation, <a href="https://www.hou.usra.edu/meetings/lpsc2024/pdf/1317.pdf" target="_blank">LPSC (2024)</a> ...
+
 </div>
 </div>
 </div>
@@ -325,6 +333,8 @@ Developing analytical and numerical models for multicomponent reactive transport
 
 <div class="project-media-wide">
 <img src="{{ '/assets/richards_eqns_poster.png' | relative_url }}" alt="Soil as a chromatographic column">
+<p class="project-links">
+<a href="https://cdrxiv.org/preprint/489" target="_blank">Preprint (2026)</a> ...
 </div>
 </div>
 </div>
@@ -359,6 +369,8 @@ Developed high-order numerical schemes for solving hyperbolic partial differenti
 
 <div class="project-media-wide">
 <iframe src="https://player.vimeo.com/video/524120989?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
+<p class="project-links">
+<a href="https://doi.org/10.1007/978-3-030-39647-3" target="_blank">Paper (2020)</a>, <a href="https://doi.org/10.1016/j.compfluid.2019.06.031" target="_blank">Paper (2019)</a>
 </div>
 </div>
 
@@ -438,6 +450,8 @@ Developed models and experiments for reacting flows, high-speed propulsion, and 
 
 <div class="project-media">
 <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
+<p class="project-links">
+<a href="https://doi.org/10.2514/6.2017-2298" target="_blank">Peer-reviewed Conference Paper (2017)</a>
 </div>
 </div>
 </div>
