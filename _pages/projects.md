@@ -111,7 +111,7 @@ transport, and environmental change across Earth and planetary systems.
 
 <b>Collaborators:</b>
 Surendra Adhikari (NASA JPL), C. Max Stevens (NASA Goddard), Asa Rennermalm (Rutgers),
-Jing Xiao (Rutgers), Marc Hesse (UT Austin), Reed Maxwell (Princeton), Cyril Grima (UT Austin), Anja Rutishauser (GEUS)
+Jing Xiao (Rutgers), Cyril Grima (UT Austin), Anja Rutishauser (GEUS), Marc Hesse (UT Austin), Reed Maxwell (Princeton)
 
 <p>
 Developing multidimensional models for meltwater infiltration, refreezing, and ice-layer formation
