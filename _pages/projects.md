@@ -37,7 +37,7 @@ permalink: /projects/
 
 .project-media-newer video {
   width: 100%;
-  max-width: 900px;      /* 🔥 increase this to control size */
+  max-width: 1000px;      /* 🔥 increase this to control size */
   height: auto;
   aspect-ratio: 16 / 9;
   display: block;
