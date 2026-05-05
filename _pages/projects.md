@@ -361,10 +361,6 @@ Developed high-order numerical schemes for solving hyperbolic partial differenti
 <li>Implemented and released an open-source numerical solver framework</li>
 </ul>
 
-<p class="project-links">
-<a href="{{ '/papers/shadab_fifthWENO_CnF_2019.pdf' | relative_url }}" target="_blank">Paper</a> |
-<a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Code</a>
-</p>
 
 <div class="project-media-wide">
 <iframe src="https://player.vimeo.com/video/524120989?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
@@ -372,7 +368,7 @@ Developed high-order numerical schemes for solving hyperbolic partial differenti
 
 <p class="project-links">
 <a href="https://doi.org/10.1007/978-3-030-39647-3" target="_blank">Paper (2020)</a>,
-<a href="https://doi.org/10.1016/j.compfluid.2019.06.031" target="_blank">Paper (2019)</a>
+<a href="https://doi.org/10.1016/j.compfluid.2019.06.031" target="_blank">Paper (2019)</a>, <a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Code</a>
 </p>
 </div>
 
@@ -447,7 +443,7 @@ Developed models and experiments for reacting flows, high-speed propulsion, and 
 <ul>
 <li>Analyzed flame stability under varying Lewis number conditions</li>
 <li>Simulated reacting flows in high-speed scramjet-like regimes</li>
-<li>Coupled thermal, fluid, and chemical transport processes in combustion systems</li>
+<li>Coupled thermal and fluid transport processes in combustion systems</li>
 </ul>
 
 <div class="project-media">
