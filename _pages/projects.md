@@ -108,8 +108,16 @@ Developing multidimensional models for meltwater infiltration, refreezing, and i
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4' | relative_url }}" type="video/mp4">
 </video>
+
+<p class="project-links">
+<a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Paper (2024)</a>,
+<a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Paper (2025)</a>,
+<a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Preprint (2025)</a>
+</p>
+
 </div>
 </div>
+
 
 <div class="project-card">
 <h4>Firn Aquifers</h4>
