@@ -193,7 +193,7 @@ Investigating how physical process representations affect large-scale integrated
 </div>
 
 
-<div class="project-media-new">
+<div class="project-media-newer">
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/lilwashita_SWE_mobile.mp4' | relative_url }}" type="video/mp4">
 </video>
