@@ -386,7 +386,7 @@ Developed high-order numerical schemes for solving hyperbolic partial differenti
 <li>Implemented and released an open-source numerical solver framework</li>
 </ul>
 
-<div class="col-md-4 col-sm-12 project-media-new">
+<div class="col-md-12  project-media-new">
 <a href="{{ '/papers/shadab_fifthWENO_CnF_2019.pdf' | relative_url }}" target="_blank">Paper</a> |
 <a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Code</a>
 </div>
@@ -394,7 +394,7 @@ Developed high-order numerical schemes for solving hyperbolic partial differenti
 
 </div>
 
-<div class="col-md-4 col-sm-12 project-media-new">
+<div class="col-md-12 project-media-new">
 <iframe src="https://player.vimeo.com/video/524120989?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
@@ -469,7 +469,7 @@ Studied the breakup and stability of falling drops in viscoelastic fluids using 
 
 </div>
 
-<div class="col-md-4 col-sm-12 project-media-new">
+<div class="col-md-12 project-media-new">
 <iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
@@ -493,7 +493,7 @@ Developed models and experiments for reacting flows, high-speed propulsion, and 
 
 </div>
 
-<div class="col-md-4 col-sm-12 project-media-new">
+<div class="col-md-12 project-media-new">
 <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
