@@ -23,8 +23,11 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 .project-card {
   background: #f8f9fa;
   width: calc(100vw - 160px);
-  margin-left: calc(50% - 50vw + 80px);
-  margin-right: calc(50% - 50vw + 80px);
+
+  /* ✅ Perfect centering */
+  margin-left: auto;
+  margin-right: auto;
+
   padding: 28px 40px;
   border-radius: 12px;
   margin-top: 24px;
