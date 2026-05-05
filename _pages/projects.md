@@ -35,6 +35,18 @@ permalink: /projects/
   border-radius: 8px;
 }
 
+.project-media-newer video {
+  width: 100%;
+  max-width: 900px;      /* 🔥 increase this to control size */
+  height: auto;
+  aspect-ratio: 16 / 9;
+  display: block;
+  margin: 20px auto;     /* center it */
+  border-radius: 8px;
+}
+
+
+
 .project-media video {
   width: 100%;
   max-width: 600px;   /* bigger and nicer */
@@ -469,7 +481,7 @@ Studied the breakup and stability of falling drops in viscoelastic fluids using 
 
 </div>
 
-<div class="col-md-12 project-media-new">
+<div class="col-md-12 project-media-newer">
 <iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
