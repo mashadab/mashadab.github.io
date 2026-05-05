@@ -110,9 +110,7 @@ Developing multidimensional models for meltwater infiltration, refreezing, and i
 </video>
 
 <p class="project-links">
-<a href="https://arxiv.org/pdf/2604.11488" target="_blank">Preprint (2026)</a>,
-<a href="https://doi.org/10.1017/jog.2025.10055" target="_blank">Paper (2025)</a>,
-<a href="https://doi.org/10.1029/2024GL109893" target="_blank">Preprint (2024)</a>...
+<a href="https://arxiv.org/pdf/2604.11488" target="_blank">Preprint (2026)</a>, <a href="https://doi.org/10.1017/jog.2025.10055" target="_blank">Paper (2025)</a>, <a href="https://doi.org/10.1029/2024GL109893" target="_blank">Paper (2024)</a> ...
 </p>
 
 </div>
@@ -143,7 +141,7 @@ Developing reduced-order models for the expansion of aquifers in cold firn.
 </video>
 
 <p class="project-links">
-<a href="https://arxiv.org/pdf/2510.14268" target="_blank">Preprint (2025)</a>, <a href="https://github.com/mashadab/ColdFirnAquifer3D" target="_blank">Code</a>
+<a href="https://arxiv.org/pdf/2510.14268" target="_blank">Preprint (2025)</a>, <a href="https://github.com/mashadab/ColdFirnAquifer3D" target="_blank">Code</a> ...
 </p>
 
 </div>
@@ -179,7 +177,7 @@ Investigating how physical process representations affect large-scale integrated
 </video>
 
 <p class="project-links">
-<a href="https://doi.org/10.1016/j.advwatres.2024.104736" target="_blank">Paper (2024)</a>, <a href="https://doi.org/10.1016/j.softx.2023.101573" target="_blank">Paper (2023)</a>, <a href="https://doi.org/10.1029/2022WR032963" target="_blank">Paper (2022)</a>
+<a  Paper in preparation
 </p>
 
 </div>
@@ -211,6 +209,10 @@ Developed data-driven frameworks to infer governing equations and parameters in 
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/Dupuit-NN-noise.mp4' | relative_url }}" type="video/mp4">
 </video>
+<p class="project-links">
+<a href="https://doi.org/10.1016/j.advwatres.2023.104445" target="_blank">Paper (2023)</a>...
+</p>
+
 </div>
 </div>
 
@@ -236,6 +238,10 @@ Developed theoretical and numerical models to quantify unsaturated and saturated
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/terrestrial_hydrology.mp4' | relative_url }}" type="video/mp4">
 </video>
+
+<p class="project-links">
+<a href="https://doi.org/10.1016/j.advwatres.2024.104736" target="_blank">Preprint (2024)</a>, <a href="https://doi.org/10.1016/j.softx.2023.101573" target="_blank">Paper (2023)</a>, <a href="https://doi.org/10.1029/2022WR032963" target="_blank">Paper (2022)</a> ...
+
 </div>
 </div>
 </div>
