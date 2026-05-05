@@ -421,6 +421,12 @@ Built and tested scientific computing workflows for solving large-scale partial 
 <li>Used SLURM, Docker, Travis CI, and code-coverage tools for reproducible computation</li>
 </ul>
 
+<div class="col-md-12 project-media">
+  <img src="{{ '/assets/Stampede2.png' | relative_url }}"
+       alt="Solving equations on Stampede2 supercomputer"
+       style="width:100%; max-width:900px;">
+</div>
+
 <p>
 <a href="https://www.youtube.com/watch?v=I4WwXOMeBo4" target="_blank">Video</a>
 </p>
