@@ -35,16 +35,14 @@ permalink: /projects/
   border-radius: 8px;
 }
 
-.project-media-newer video {
+.project-media-newer iframe {
   width: 100%;
-  max-width: 1000px;      /* 🔥 increase this to control size */
-  height: auto;
+  max-width: 1100px;   /* 🔥 increase this value */
   aspect-ratio: 16 / 9;
   display: block;
-  margin: 20px auto;     /* center it */
+  margin: 25px auto;   /* center it */
   border-radius: 8px;
 }
-
 
 
 .project-media video {
