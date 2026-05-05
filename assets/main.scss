@@ -14,31 +14,10 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 
 /* Wider content area for project pages */
 .container {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding-left: 40px;
-  padding-right: 40px;
+  max-width: 1200px;
 }
 
+/* Make project cards use the full available width */
 .project-card {
-  background: #f8f9fa;
-  width: calc(100vw - 160px);
-
-  /* ✅ Perfect centering */
-  margin-left: auto;
-  margin-right: auto;
-
-  padding: 28px 40px;
-  border-radius: 12px;
-  margin-top: 24px;
-  margin-bottom: 24px;
-}
-
-@media (min-width: 769px) {
-  .project-card {
-    position: relative;
-    left: -80px;   /* 🔥 adjust this */
-    margin-left: 0;
-    margin-right: 0;
-  }
+  width: 100%;
 }
