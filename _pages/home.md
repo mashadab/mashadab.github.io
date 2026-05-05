@@ -29,7 +29,7 @@ style="border-style:solid;border-radius:5px;">
   Your browser does not support the video tag.
 </video>
 
-<br>HydroFirn simulation: multi-scale meltwater infiltration and firn evolution (Shadab et al., 2026)<br/>
+<br>HydroFirn simulation: Multidimensional meltwater infiltration and firn evolution at Dye-2 site in Greenland showing top - saturation, temperature, mid - porosity and bottom - classification (black - grid, red - fully saturated regions, blue - impermeable ice layers) (Shadab et al., 2026)<br/>
 
 </center>
 </div>
