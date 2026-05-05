@@ -404,7 +404,7 @@ Developed high-order numerical schemes for solving hyperbolic partial differenti
 
 </div>
 
-<div class="col-md-12 project-media-newewr">
+<div class="col-md-12 project-media-newer">
 <iframe src="https://player.vimeo.com/video/524120989?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
