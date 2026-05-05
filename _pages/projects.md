@@ -493,7 +493,7 @@ Developed models and experiments for reacting flows, high-speed propulsion, and 
 
 </div>
 
-<div class="col-md-12 project-media-new">
+<div class="col-md-4 col-sm-12 project-media">
 <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
 </div>
