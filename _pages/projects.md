@@ -6,9 +6,7 @@ permalink: /projects/
 ---
 
 <style>
-.project-category {
-  margin: 45px 0 20px 0;
-}
+.project-category { margin: 45px 0 20px 0; }
 
 .project-card {
   background: #f8f9fa;
@@ -17,24 +15,18 @@ permalink: /projects/
   margin: 26px 0;
 }
 
-.project-card h4 {
-  margin-top: 0;
-}
+.project-card h4 { margin-top: 0; }
 
 .project-meta {
   color: #555;
   margin-bottom: 12px;
 }
 
-.project-card ul {
-  margin-top: 12px;
-}
+.project-card ul { margin-top: 12px; }
+.project-card li { margin-bottom: 6px; }
 
-.project-card li {
-  margin-bottom: 6px;
-}
-
-.project-media {
+.project-media,
+.project-media-wide {
   text-align: center;
   margin-top: 22px;
 }
@@ -108,14 +100,14 @@ Developing multidimensional models for meltwater infiltration, refreezing, and i
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4' | relative_url }}" type="video/mp4">
 </video>
+</div>
 
 <p class="project-links">
-<a href="https://arxiv.org/pdf/2604.11488" target="_blank">Preprint (2026)</a>, <a href="https://doi.org/10.1017/jog.2025.10055" target="_blank">Paper (2025)</a>, <a href="https://doi.org/10.1029/2024GL109893" target="_blank">Paper (2024)</a>, ...
+<a href="https://arxiv.org/pdf/2604.11488" target="_blank">Preprint (2026)</a>,
+<a href="https://doi.org/10.1017/jog.2025.10055" target="_blank">Paper (2025)</a>,
+<a href="https://doi.org/10.1029/2024GL109893" target="_blank">Paper (2024)</a>
 </p>
-
 </div>
-</div>
-
 
 <div class="project-card">
 <h4>Firn Aquifers</h4>
@@ -139,12 +131,12 @@ Developing reduced-order models for the expansion of aquifers in cold firn.
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/VideoS2_ColdFirnAquifer3D.mp4' | relative_url }}" type="video/mp4">
 </video>
+</div>
 
 <p class="project-links">
-<a href="https://arxiv.org/pdf/2510.14268" target="_blank">Preprint (2025)</a>, <a href="https://github.com/mashadab/ColdFirnAquifer3D" target="_blank">Code</a>, ...
+<a href="https://arxiv.org/pdf/2510.14268" target="_blank">Preprint (2025)</a>,
+<a href="https://github.com/mashadab/ColdFirnAquifer3D" target="_blank">Code</a>
 </p>
-
-</div>
 </div>
 </div>
 
@@ -175,12 +167,9 @@ Investigating how physical process representations affect large-scale integrated
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/lilwashita_SWE_mobile.mp4' | relative_url }}" type="video/mp4">
 </video>
-
-<p class="project-links">
-Paper in preparation
-</p>
-
 </div>
+
+<p class="project-links">Paper in preparation</p>
 </div>
 
 <div class="project-card">
@@ -209,11 +198,11 @@ Developed data-driven frameworks to infer governing equations and parameters in 
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/Dupuit-NN-noise.mp4' | relative_url }}" type="video/mp4">
 </video>
-<p class="project-links">
-<a href="https://doi.org/10.1016/j.advwatres.2023.104445" target="_blank">Paper (2023)</a>, ...
-</p>
-
 </div>
+
+<p class="project-links">
+<a href="https://doi.org/10.1016/j.advwatres.2023.104445" target="_blank">Paper (2023)</a>
+</p>
 </div>
 
 <div class="project-card">
@@ -238,11 +227,13 @@ Developed theoretical and numerical models to quantify unsaturated and saturated
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/terrestrial_hydrology.mp4' | relative_url }}" type="video/mp4">
 </video>
+</div>
 
 <p class="project-links">
-<a href="https://doi.org/10.1016/j.advwatres.2024.104736" target="_blank">Preprint (2024)</a>, <a href="https://doi.org/10.1016/j.softx.2023.101573" target="_blank">Paper (2023)</a>, <a href="https://doi.org/10.1029/2022WR032963" target="_blank">Paper (2022)</a>, ...
-
-</div>
+<a href="https://doi.org/10.1016/j.advwatres.2024.104736" target="_blank">Preprint (2024)</a>,
+<a href="https://doi.org/10.1016/j.softx.2023.101573" target="_blank">Paper (2023)</a>,
+<a href="https://doi.org/10.1029/2022WR032963" target="_blank">Paper (2022)</a>
+</p>
 </div>
 </div>
 
@@ -271,11 +262,16 @@ Developed models for groundwater flow, recharge, and residence times in early Ma
 
 <div class="project-media">
 <img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}" alt="Infiltration on early Mars">
+</div>
 
 <p class="project-links">
-<a href="https://doi.org/10.1029/2024GL111939" target="_blank">Paper (2025)</a>, <a href="https://doi.org/10.1016/j.icarus.2023.115774" target="_blank">Paper (2023)</a> and a bunch of extended abstracts for LPSC such as <a href="https://www.hou.usra.edu/meetings/lpsc2026/pdf/1914.pdf" target="_blank">(2026)</a>, <a href="https://www.hou.usra.edu/meetings/lpsc2023/pdf/1736.pdf" target="_blank">(2023)</a>, <a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1775.pdf" target="_blank">(2022)</a>, ...
-
-</div>
+<a href="https://doi.org/10.1029/2024GL111939" target="_blank">Paper (2025)</a>,
+<a href="https://doi.org/10.1016/j.icarus.2023.115774" target="_blank">Paper (2023)</a>,
+LPSC abstracts:
+<a href="https://www.hou.usra.edu/meetings/lpsc2026/pdf/1914.pdf" target="_blank">2026</a>,
+<a href="https://www.hou.usra.edu/meetings/lpsc2023/pdf/1736.pdf" target="_blank">2023</a>,
+<a href="https://www.hou.usra.edu/meetings/lpsc2022/pdf/1775.pdf" target="_blank">2022</a>
+</p>
 </div>
 
 <div class="project-card">
@@ -300,11 +296,12 @@ Developed models for melt transport, hydrothermal circulation, and organic migra
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/impact_melt_video.mp4' | relative_url }}" type="video/mp4">
 </video>
+</div>
 
 <p class="project-links">
-Paper in preparation, <a href="https://www.hou.usra.edu/meetings/lpsc2024/pdf/1317.pdf" target="_blank">LPSC (2024)</a>, ...
-
-</div>
+Paper in preparation,
+<a href="https://www.hou.usra.edu/meetings/lpsc2024/pdf/1317.pdf" target="_blank">LPSC (2024)</a>
+</p>
 </div>
 </div>
 
@@ -333,9 +330,11 @@ Developing analytical and numerical models for multicomponent reactive transport
 
 <div class="project-media-wide">
 <img src="{{ '/assets/richards_eqns_poster.png' | relative_url }}" alt="Soil as a chromatographic column">
-<p class="project-links">
-<a href="https://cdrxiv.org/preprint/489" target="_blank">Preprint (2026)</a>, ...
 </div>
+
+<p class="project-links">
+<a href="https://cdrxiv.org/preprint/489" target="_blank">Preprint (2026)</a>
+</p>
 </div>
 </div>
 
@@ -369,9 +368,12 @@ Developed high-order numerical schemes for solving hyperbolic partial differenti
 
 <div class="project-media-wide">
 <iframe src="https://player.vimeo.com/video/524120989?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
-<p class="project-links">
-<a href="https://doi.org/10.1007/978-3-030-39647-3" target="_blank">Paper (2020)</a>, <a href="https://doi.org/10.1016/j.compfluid.2019.06.031" target="_blank">Paper (2019)</a>
 </div>
+
+<p class="project-links">
+<a href="https://doi.org/10.1007/978-3-030-39647-3" target="_blank">Paper (2020)</a>,
+<a href="https://doi.org/10.1016/j.compfluid.2019.06.031" target="_blank">Paper (2019)</a>
+</p>
 </div>
 
 <div class="project-card">
@@ -430,7 +432,7 @@ Studied the breakup and stability of falling drops in viscoelastic fluids using 
 </div>
 
 <p class="project-links">
-<a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">APS DFD Abstract</a>, 
+<a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">APS DFD Abstract</a>,
 <a href="https://github.com/mashadab/drop-dynamics" target="_blank">Code</a>
 </p>
 </div>
@@ -450,8 +452,10 @@ Developed models and experiments for reacting flows, high-speed propulsion, and 
 
 <div class="project-media">
 <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
+</div>
+
 <p class="project-links">
 <a href="https://doi.org/10.2514/6.2017-2298" target="_blank">Peer-reviewed Conference Paper (2017)</a>
-</div>
+</p>
 </div>
 </div>
