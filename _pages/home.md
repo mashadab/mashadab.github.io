@@ -47,7 +47,7 @@ style="border-style:solid;border-radius:5px;">
   Your browser does not support the video tag.
 </video>
 
-<br>Expansion of aquifers in temperate vs cold firn (Shadab et al., 2026)<br/>
+<br>Expansion of aquifers in temperate vs cold firn (Shadab et al., 2025)<br/>
 
 </center>
 </div>
