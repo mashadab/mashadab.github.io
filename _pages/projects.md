@@ -13,44 +13,8 @@ permalink: /projects/
 .project-card {
   background: #f8f9fa;
   border-radius: 12px;
-  padding: 24px;
-  margin: 24px 0;
-}
-
-.project-media img {
-  width: 100%;
-  max-width: 800px;
-  aspect-ratio: 16 / 9;   /* ✅ match video ratio */
-  object-fit: contain;    /* ✅ no cropping */
-  border-radius: 8px;
-}
-
-.project-media-new video {
-  width: 100%;
-  max-width: 800px;      /* 🔥 increase this to control size */
-  height: auto;
-  aspect-ratio: 16 / 9;
-  display: block;
-  margin: 20px auto;     /* center it */
-  border-radius: 8px;
-}
-
-.project-media-newer iframe {
-  width: 100%;
-  max-width: 1100px;   /* 🔥 increase this value */
-  aspect-ratio: 16 / 9;
-  display: block;
-  margin: 25px auto;   /* center it */
-  border-radius: 8px;
-}
-
-
-.project-media video {
-  width: 100%;
-  max-width: 600px;   /* bigger and nicer */
-  height: auto;
-  aspect-ratio: 16 / 9;
-  object-fit: contain;
+  padding: 26px;
+  margin: 26px 0;
 }
 
 .project-card h4 {
@@ -72,21 +36,40 @@ permalink: /projects/
 
 .project-media {
   text-align: center;
-  margin-top: 12px;
+  margin-top: 22px;
 }
 
-.project-media iframe,
-.project-media video {
+.project-media img,
+.project-media video,
+.project-media iframe {
+  display: block;
+  margin: 20px auto;
   width: 100%;
-  max-width: 600px;
-  height: auto;            /* ✅ let height adjust naturally */
-  aspect-ratio: 16 / 9;    /* ✅ keeps proper proportions */
+  max-width: 850px;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
   border: 0;
   border-radius: 8px;
 }
 
-.project-media video {
-  object-fit: contain;     /* ✅ NO cropping */
+.project-media-wide img,
+.project-media-wide video,
+.project-media-wide iframe {
+  display: block;
+  margin: 24px auto;
+  width: 100%;
+  max-width: 1100px;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: contain;
+  border: 0;
+  border-radius: 8px;
+}
+
+.project-links {
+  text-align: center;
+  margin-top: 10px;
 }
 </style>
 
@@ -103,17 +86,16 @@ transport, and environmental change across Earth and planetary systems.
 <h3>Cryosphere Hydrology</h3>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
 <h4>Firn Densification and Meltwater Percolation</h4>
 
+<p class="project-meta">
 <b>Collaborators:</b>
 Surendra Adhikari (NASA JPL), C. Max Stevens (NASA Goddard), Asa Rennermalm (Rutgers),
 Jing Xiao (Rutgers), Cyril Grima (UT Austin), Anja Rutishauser (GEUS), Marc Hesse (UT Austin), Reed Maxwell (Princeton)
+</p>
 
 <p>
-Developing multidimensional models for meltwater infiltration, refreezing, and ice-layer formation
-in polar firn.
+Developing multidimensional models for meltwater infiltration, refreezing, and ice-layer formation in polar firn.
 </p>
 
 <ul>
@@ -122,20 +104,14 @@ in polar firn.
 <li>Simulated ice-layer formation under repeated melt events at the DYE-2 site in Greenland</li>
 </ul>
 
-</div>
-
 <div class="project-media">
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4' | relative_url }}" type="video/mp4">
 </video>
 </div>
 </div>
-</div>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>Firn Aquifers</h4>
 
 <p class="project-meta">
@@ -153,13 +129,10 @@ Developing reduced-order models for the expansion of aquifers in cold firn.
 <li>Quantified the impact of firn temperature on aquifer expansion dynamics</li>
 </ul>
 
-</div>
-
 <div class="project-media">
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/VideoS2_ColdFirnAquifer3D.mp4' | relative_url }}" type="video/mp4">
 </video>
-</div>
 </div>
 </div>
 </div>
@@ -170,9 +143,6 @@ Developing reduced-order models for the expansion of aquifers in cold firn.
 <h3>Terrestrial Hydrology</h3>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>Integrated Hydrologic Modeling with ParFlow and Community Land Model</h4>
 
 <p class="project-meta">
@@ -190,21 +160,14 @@ Investigating how physical process representations affect large-scale integrated
 <li>Evaluated model behavior against remote sensing products and field observations</li>
 </ul>
 
-</div>
-
-
-<div class="project-media-new">
+<div class="project-media-wide">
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/lilwashita_SWE_mobile.mp4' | relative_url }}" type="video/mp4">
 </video>
 </div>
 </div>
-</div>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>Physics-Informed Neural Networks for Groundwater Flow</h4>
 
 <p class="project-meta">
@@ -222,23 +185,18 @@ Developed data-driven frameworks to infer governing equations and parameters in 
 <li>Assessed PINN robustness under model-data mismatch and scaling limitations</li>
 </ul>
 
-</div>
-
 <div class="project-media">
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/GW_flow_trimmed.mp4' | relative_url }}" type="video/mp4">
 </video>
+
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/Dupuit-NN-noise.mp4' | relative_url }}" type="video/mp4">
 </video>
 </div>
 </div>
-</div>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>Analytical and Numerical Models of Terrestrial Hydrology</h4>
 
 <p class="project-meta">
@@ -247,7 +205,7 @@ Marc Hesse (UT Austin)
 </p>
 
 <p>
-Developed theoretical and numerical models to quantify unsaturated and saturated flow
+Developed theoretical and numerical models to quantify unsaturated and saturated flow.
 </p>
 
 <ul>
@@ -256,13 +214,10 @@ Developed theoretical and numerical models to quantify unsaturated and saturated
 <li>Validated theoretical predictions using analytic solutions and real data</li>
 </ul>
 
-</div>
-
 <div class="project-media">
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/terrestrial_hydrology.mp4' | relative_url }}" type="video/mp4">
 </video>
-</div>
 </div>
 </div>
 </div>
@@ -273,14 +228,11 @@ Developed theoretical and numerical models to quantify unsaturated and saturated
 <h3>Planetary Hydrology</h3>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>Vadose Zone and Groundwater Systems on Early Mars</h4>
 
 <p class="project-meta">
 <b>Collaborators:</b>
-Eric Hiatt (UT Austin), Rickbir Bahia (ESA), Eleni Bohacek (ESA), Vilmos Steinmann (Eotovos Lorand U) and Marc Hesse (UT Austin)
+Eric Hiatt (UT Austin), Rickbir Bahia (ESA), Eleni Bohacek (ESA), Vilmos Steinmann (Eötvös Loránd University), and Marc Hesse (UT Austin)
 </p>
 
 <p>
@@ -288,26 +240,17 @@ Developed models for groundwater flow, recharge, and residence times in early Ma
 </p>
 
 <ul>
-<li>Developed aquifer models on spherical-shell incorporating vertical heterogeneity</li>
+<li>Developed aquifer models on spherical shells incorporating vertical heterogeneity</li>
 <li>Quantified vadose-zone residence times and infiltration depths</li>
 <li>Linked subsurface hydrology to constraints on early Martian climate evolution</li>
 </ul>
 
-</div>
-
-<div class="col-md-12 project-media">
-  <img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}"
-       alt="Infiltration on early Mars"
-       style="width:80%; max-width:600px;">
+<div class="project-media">
+<img src="{{ '/assets/MarsInfiltration2025.png' | relative_url }}" alt="Infiltration on early Mars">
 </div>
 </div>
-</div>
-
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>Melt Migration in Icy Ocean Worlds</h4>
 
 <p class="project-meta">
@@ -329,8 +272,6 @@ Developed models for melt transport, hydrothermal circulation, and organic migra
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/impact_melt_video.mp4' | relative_url }}" type="video/mp4">
 </video>
-
-</div>
 </div>
 </div>
 </div>
@@ -341,9 +282,6 @@ Developed models for melt transport, hydrothermal circulation, and organic migra
 <h3>Hydrogeochemistry</h3>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>Reactive Transport for CO₂ Removal via Enhanced Weathering</h4>
 
 <p class="project-meta">
@@ -361,11 +299,8 @@ Developing analytical and numerical models for multicomponent reactive transport
 <li>Validated predictions against PHREEQC geochemical simulations</li>
 </ul>
 
-<div class="col-md-12 project-media-new">
-  <img src="{{ '/assets/richards_eqns_poster.png' | relative_url }}"
-       alt="Soil as a chromatographic column"
-       style="width:100%; max-width:900px;">
-</div>
+<div class="project-media-wide">
+<img src="{{ '/assets/richards_eqns_poster.png' | relative_url }}" alt="Soil as a chromatographic column">
 </div>
 </div>
 </div>
@@ -376,9 +311,6 @@ Developing analytical and numerical models for multicomponent reactive transport
 <h3>Numerical Methods</h3>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>High-Order Finite-Volume Methods in Curvilinear Coordinates</h4>
 
 <p class="project-meta">
@@ -396,24 +328,17 @@ Developed high-order numerical schemes for solving hyperbolic partial differenti
 <li>Implemented and released an open-source numerical solver framework</li>
 </ul>
 
-<div class="col-md-12  project-media-newer">
+<p class="project-links">
 <a href="{{ '/papers/shadab_fifthWENO_CnF_2019.pdf' | relative_url }}" target="_blank">Paper</a> |
 <a href="https://github.com/mashadab/WENO-curvilinear" target="_blank">Code</a>
-</div>
+</p>
 
-
-</div>
-
-<div class="col-md-12 project-media-newer">
+<div class="project-media-wide">
 <iframe src="https://player.vimeo.com/video/524120989?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
-</div>
 </div>
 </div>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>High-Performance Scientific Computing for Large-Scale PDEs</h4>
 
 <p class="project-meta">
@@ -431,18 +356,13 @@ Built and tested scientific computing workflows for solving large-scale partial 
 <li>Used SLURM, Docker, Travis CI, and code-coverage tools for reproducible computation</li>
 </ul>
 
-<div class="col-md-12 project-media">
-  <img src="{{ '/assets/Stampede2.png' | relative_url }}"
-       alt="Solving equations on Stampede2 supercomputer"
-       style="width:100%; max-width:900px;">
+<div class="project-media-wide">
+<img src="{{ '/assets/Stampede2.png' | relative_url }}" alt="Solving equations on Stampede2 supercomputer">
 </div>
 
-<p>
+<p class="project-links">
 <a href="https://www.youtube.com/watch?v=I4WwXOMeBo4" target="_blank">Video</a>
 </p>
-
-</div>
-</div>
 </div>
 </div>
 
@@ -452,9 +372,6 @@ Built and tested scientific computing workflows for solving large-scale partial 
 <h3>Fluid Mechanics</h3>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>Drop Dynamics in Viscoelastic Media</h4>
 
 <p class="project-meta">
@@ -472,24 +389,17 @@ Studied the breakup and stability of falling drops in viscoelastic fluids using 
 <li>Developed MATLAB tools for high-speed image-based flow analysis</li>
 </ul>
 
-
-</div>
-
-<div class="col-md-12 project-media-newer">
+<div class="project-media-wide">
 <iframe src="https://player.vimeo.com/video/524103920?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
 </div>
-<p>
+
+<p class="project-links">
 <a href="https://meetings.aps.org/Meeting/DFD20/Session/S03.3" target="_blank">APS DFD Abstract</a> |
 <a href="https://github.com/mashadab/drop-dynamics" target="_blank">Code</a>
 </p>
-
-</div>
 </div>
 
 <div class="project-card">
-<div class="row align-items-center">
-<div class="col-md-8 col-sm-12">
-
 <h4>Combustion and Multiphysics Flow Modeling</h4>
 
 <p>
@@ -502,11 +412,8 @@ Developed models and experiments for reacting flows, high-speed propulsion, and 
 <li>Coupled thermal, fluid, and chemical transport processes in combustion systems</li>
 </ul>
 
-</div>
-
-<div class="col-md-4 col-sm-12 project-media">
+<div class="project-media">
 <iframe src="https://player.vimeo.com/video/524147082?autoplay=1&loop=1&muted=1&background=1" allow="autoplay; fullscreen"></iframe>
-</div>
 </div>
 </div>
 </div>
