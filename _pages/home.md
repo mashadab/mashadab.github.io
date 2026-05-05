@@ -59,6 +59,18 @@ style="border-style:solid;border-radius:5px;">
 <center>
 
 
+<div class="container">
+<div class="row">
+<center>
+
+<video width="450" autoplay loop muted playsinline
+style="border-style:solid;border-radius:5px;">
+  <source src="/assets/lilwashita_SWE.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+<br>ParFlow-Community Land Model simulation outputs at a ~30km (SMAP grid) scale showing soil moisture, ET, ground temperature and snow water equivalent (Shadab, Jadallah and Maxwell, in prep.)<br/>
 
 </center>
 </div>
