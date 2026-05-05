@@ -70,7 +70,7 @@ style="border-style:solid;border-radius:5px;">
 </video>
 
 
-<br>ParFlow-Community Land Model simulation outputs at a ~30km (SMAP grid) scale showing soil moisture, ET, ground temperature and snow water equivalent (Shadab, Jadallah and Maxwell, in prep.)<br/>
+<br>ParFlow-Community Land Model simulation outputs at Little Washita Watershed a ~30km (SMAP grid) scale (Shadab, Jadallah and Maxwell, in prep.)<br/>
 
 </center>
 </div>
