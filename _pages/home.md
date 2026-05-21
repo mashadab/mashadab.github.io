@@ -21,23 +21,6 @@ In **terrestrial hydrology**, I study variably saturated flow in heterogeneous s
 
 My work also extends hydrologic theory to **planetary environments** as water is crucial for search for life. I study groundwater recharge, infiltration, and hydrothermal systems on early Mars, as well as melt migration through the ice shells of ocean worlds, through active collaborations with the [European Space Agency (ESA)](https://www.esa.int/), [NASA](https://www.nasa.gov/), and the [University of Texas at Austin](https://www.utexas.edu/). More broadly, I am interested in developing **observation-guided hydrologic theories and computational tools** that integrate **reduced-order modeling, high-performance computing, and scientific machine learning** and inform current/future astrobiology missions.
 
-<div class="container">
-<div class="row">
-<center>
-
-<video width="400" autoplay loop muted playsinline
-style="border-style:solid;border-radius:5px;">
-  <source src="/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-<br>HydroFirn simulation: Multidimensional meltwater infiltration and firn evolution at Dye-2 site in Greenland showing top - saturation, temperature, mid - porosity and bottom - classification (black - grid, red - fully saturated regions, blue - impermeable ice layers) (Shadab et al., 2026)<br/>
-
-</center>
-</div>
-</div>
-<br/>
-
 
 <div class="container">
 <div class="row">
@@ -55,6 +38,24 @@ style="border-style:solid;border-radius:5px;">
 </div>
 </div>
 <br/>
+
+<div class="container">
+<div class="row">
+<center>
+
+<video width="400" autoplay loop muted playsinline
+style="border-style:solid;border-radius:5px;">
+  <source src="/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<br>HydroFirn simulation: Multidimensional meltwater infiltration and firn evolution at Dye-2 site in Greenland showing top - saturation, temperature, mid - porosity and bottom - classification (black - grid, red - fully saturated regions, blue - impermeable ice layers) (Shadab et al., 2026)<br/>
+
+</center>
+</div>
+</div>
+<br/>
+
 
 <div class="container">
 <div class="row">
