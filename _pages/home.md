@@ -11,7 +11,9 @@ permalink: /
 
 </center>
 
-### Welcome
+## Welcome
+
+### Research Oberview
 
 Climate change is intensifying pressures on freshwater systems through flooding, drought, groundwater depletion, cryosphere change, and sea-level rise. Addressing these challenges requires predictive understanding of how water moves through heterogeneous natural systems across scales. My research seeks to improve our ability to understand, predict, and model **hydrologic processes in complex porous environments**, with implications for water security, climate resilience, and planetary habitability.
 
@@ -19,9 +21,9 @@ I develop **physics-based, computational, and data-driven models** to investigat
 
 In **terrestrial hydrology**, I develop models for **variably saturated flow in heterogeneous soils**, integrated groundwater–surface water systems, and watershed-scale hydrologic processes. My work examines how heterogeneity, capillary forces, and physical parameterizations influence hydrologic predictions, with applications ranging from groundwater movement in complex subsurface systems to large-scale integrated hydrologic modeling.
 
-In the **cryosphere**, I investigate **firn evolution, densification, and meltwater percolation** in snow and ice systems. I develop multidimensional models to understand meltwater infiltration, refreezing, and ice-layer formation in firn, with implications for ice-sheet hydrology, freshwater storage, climate feedbacks, and sea-level rise. This work has been supported through fellowships and collaborations with the **University of Texas Institute for Geophysics (UTIG)**, the **NASA Jet Propulsion Laboratory (JPL)**, **NASA Goddard Space Flight Center**,  **European Space Agency** and international cryosphere science communities.
+In the **cryosphere**, I investigate **firn evolution, densification, and meltwater percolation** in snow and ice systems. I develop multidimensional models to understand meltwater infiltration, refreezing, and ice-layer formation in firn, with implications for ice-sheet hydrology, freshwater storage, climate feedbacks, and sea-level rise. This work has been supported through fellowships and collaborations with the [University of Texas Institute for Geophysics (UTIG)](https://www.ig.utexas.edu/), the [NASA Jet Propulsion Laboratory (JPL)](https://www.jpl.nasa.gov/), [NASA Goddard Space Flight Center](https://www.nasa.gov/goddard/), the [European Space Agency (ESA)](https://www.esa.int/), and international cryosphere science communities.
 
-My work also extends hydrologic theory to **planetary environments**, where I study **groundwater recharge, infiltration, and hydrothermal systems on early Mars** through collaborations with researchers at the **European Space Agency (ESA)** and the **University of Texas at Austin**. More recently, I have investigated **melt migration through the ice shells of ocean worlds**, combining porous media theory and numerical modeling to better understand subsurface transport and planetary habitability. These efforts have been supported through **NASA fellowships and interdisciplinary research collaborations**.
+My work also extends hydrologic theory to **planetary environments**, where I study **groundwater recharge, infiltration, and hydrothermal systems on early Mars** through collaborations with researchers at the [European Space Agency (ESA)](https://www.esa.int/) and the [University of Texas at Austin](https://www.utexas.edu/). More recently, I have investigated **melt migration through the ice shells of ocean worlds**, combining porous media theory and numerical modeling to better understand subsurface transport and planetary habitability. These efforts have been supported through **NASA fellowships and interdisciplinary research collaborations**.
 
 More broadly, I am interested in developing **observation-guided**, **generalizable hydrologic theories and computational tools for flow and transport in natural porous systems**, integrating **reduced-order modeling, high-performance computing, and scientific machine learning** to improve predictive understanding across Earth and planetary environments.
 
