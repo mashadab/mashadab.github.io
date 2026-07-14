@@ -1,0 +1,18 @@
+- title: "HydroFirn: A numerical model for large-scale multidimensional firn hydrology"
+  authors: "Mohammad Afzal Shadab et al."
+  venue: "Preprint"
+  year: 2026
+  url: https://arxiv.org/pdf/2604.11488
+
+- title: "A vertically integrated model with phase change for aquifers in cold firn"
+  authors: "Mohammad Afzal Shadab et al."
+  venue: "Preprint"
+  year: 2025
+  url: https://arxiv.org/pdf/2510.14268
+  code: https://github.com/mashadab/ColdFirnAquifer3D
+
+- title: "Modeling enhanced rock weathering for CO2 removal using method of characteristics"
+  authors: "Mohammad Afzal Shadab et al."
+  venue: "Preprint"
+  year: 2026
+  url: https://cdrxiv.org/preprint/489
