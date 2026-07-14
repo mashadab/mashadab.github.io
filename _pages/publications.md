@@ -18,13 +18,14 @@ permalink: /publications/
 </style>
 
 {% if site.data.preprints %}
-## Preprints
+## Under Review
 
 {% for preprint in site.data.preprints %}
 <div class="jumbotron">
 <strong>{{ preprint.title }}</strong><br/>
 {{ preprint.authors }}<br/>
 <i>{{ preprint.venue }}</i>{% if preprint.year %} ({{ preprint.year }}){% endif %}<br/>
+{% if preprint.note %}<small>{{ preprint.note }}</small><br/>{% endif %}
 {% if preprint.url %}<a href="{{ preprint.url }}" target="_blank"><button type="button" class="btn btn-sm btn-primary">PREPRINT</button></a>{% endif %}
 {% if preprint.code %}<a href="{{ preprint.code }}" target="_blank"><button type="button" class="btn btn-sm btn-secondary">CODE</button></a>{% endif %}
 </div>
