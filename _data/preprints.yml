@@ -1,18 +1,18 @@
 - title: "HydroFirn: A numerical model for large-scale multidimensional firn hydrology"
   authors: "Mohammad Afzal Shadab, Surendra Adhikari, C. Max Stevens, Asa K. Rennermalm, Jing Xiao, Marc A. Hesse, and Reed M. Maxwell"
-  venue: "Preprint"
+  venue: "Under minor revision in Journal of Glaciology"
   year: 2026
   url: https://arxiv.org/pdf/2604.11488
 
 - title: "A vertically integrated model with phase change for aquifers in cold firn"
   authors: "Mohammad Afzal Shadab, Howard A. Stone, and Reed M. Maxwell"
-  venue: "Preprint"
+  venue: "Under revision in Journal of Glaciology"
   year: 2025
   url: https://arxiv.org/pdf/2510.14268
   code: https://github.com/mashadab/ColdFirnAquifer3D
 
 - title: "On the pH-dependent export of anthropogenic alkalinity in pore water through soil: Implications for enhanced rock weathering"
   authors: "Jacob S Jordan, Mohammad Afzal Shadab, Valentina Prigiobbe, Yoshiki Kanzaki, Noah Planavsky, and Chris Reinhard"
-  venue: "Preprint"
+  venue: "Under review in American Journal of Science"
   year: 2026
   url: https://cdrxiv.org/preprint/489
