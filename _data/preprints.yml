@@ -11,20 +11,9 @@
   url: https://arxiv.org/pdf/2510.14268
   code: https://github.com/mashadab/ColdFirnAquifer3D
 
-- title: "On the pH-dependent export of anthropogenic alkalinity in pore water through soil: Implications for enhanced rock weathering"
-  authors: "Jacob S Jordan, Mohammad Afzal Shadab, Valentina Prigiobbe, Yoshiki Kanzaki, Noah Planavsky, and Chris Reinhard"
-  venue: "Under review in American Journal of Science"
-  year: "202X"
-  url: https://cdrxiv.org/preprint/489
-
 - title: "Effects of soil capillarity on multidimensional, integrated surface-subsurface hydrology at different spatial scales"
   authors: "Mohammad Afzal Shadab, Nicholas S. Jadallah, and Reed Maxwell"
   venue: "Under review in Journal of Hydrology"
-  year: "202X"
-
-- title: "Connections and considerations for application of Earth science models to other planetary bodies: Mars as a case study"
-  authors: "Kiara Garduno, Kyra Adams, Laura M. Barge, Eloi Campubi, Mohammad Afzal Shadab, Bronwyn L. Teece, Mohit Melwani Daswani, Abigail Fraeman, and Jessica M. Weber"
-  venue: "Under review in The Planetary Science Journal"
   year: "202X"
 
 - title: "Assessing challenges for U.S.-based polar early career scientists during science policy upheaval"
@@ -32,3 +21,19 @@
   venue: "Under review in Journal of Glaciology"
   year: "202X"
   note: "<sup>*</sup>Equal first authors."
+
+- title: "Early Mars valley networks require decoupled surface water and groundwater"
+  authors: "Eric Hiatt, Mohammad Afzal Shadab, Sean P. S. Gulick, Timothy A. Goudge, and Marc A. Hesse"
+  venue: "Under review in Nature Geosciences"
+  year: "202X"
+
+- title: "On the pH-dependent export of anthropogenic alkalinity in pore water through soil: Implications for enhanced rock weathering"
+  authors: "Jacob S Jordan, Mohammad Afzal Shadab, Valentina Prigiobbe, Yoshiki Kanzaki, Noah Planavsky, and Chris Reinhard"
+  venue: "Under review in American Journal of Science"
+  year: "202X"
+  url: https://cdrxiv.org/preprint/489
+
+- title: "Connections and considerations for application of Earth science models to other planetary bodies: Mars as a case study"
+  authors: "Kiara Garduno, Kyra Adams, Laura M. Barge, Eloi Campubi, Mohammad Afzal Shadab, Bronwyn L. Teece, Mohit Melwani Daswani, Abigail Fraeman, and Jessica M. Weber"
+  venue: "Under review in The Planetary Science Journal"
+  year: "202X"
