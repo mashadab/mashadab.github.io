@@ -9,7 +9,7 @@
   abstract: "Motivated by the ponding and refreezing of meltwater in firn, we analyze the interaction of liquid water and non-reactive gas with porous ice by developing a unified kinematic wave theory. The wave theory is based on the conservation of composition and enthalpy, coupling advective heat and mass transport in firn, and encompasses cases of meltwater perching where the conventional kinematic wave approximation fails. For simple initial conditions (Riemann problems), this model allows for self-similar solutions that reveal the structure of melting/refreezing fronts, with analytical solutions provided for 12 basic cases of physical relevance encountered in the literature. These solutions offer insights into processes such as the formation of frozen fringes, the perching of meltwater on low-porosity layers, and conditions for impermeable ice layer formation. This theoretical framework can enhance our understanding of the partitioning between meltwater infiltration and surface runoff, which influences surface mass loss from ice sheets and contributes to sea level rise. Furthermore, these analytic solutions serve as benchmarks for numerical models and can aid in the improvement and comparison of firn hydrology, ice-sheet, and Earth system models."
 
 - title: "Infiltration Dynamics on Early Mars: Geomorphic, Climatic, and Water Storage Implications"
-  authors: "Mohammad Afzal Shadab et al."
+  authors: "Mohammad Afzal Shadab, Eric Hiatt, Rickbir Singh Bahia, Eleni V. Bohacek, Vilmos Steinmann, and Marc Andre Hesse"
   url: Shadab2025_GRL_InfiltrationonMars
   image: 
   journal: "Geophysical Research Letters"
