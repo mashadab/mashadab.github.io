@@ -34,6 +34,7 @@ public engagement, and hands-on educational activities.
 
 <div class="event">
 <h3>Watershed Academy Outreach 2026</h3>
+<div class="meta">Instructed hydrologic modeling to 20 high school students</div>
 
 <div class="gallery">
 <img src="{{ '/assets/outreach/watershed-academy-2026-field.jpg' | relative_url }}" alt="Watershed Academy students learning about field hydrology beside a stream">
