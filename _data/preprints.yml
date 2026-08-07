@@ -3,6 +3,7 @@
   venue: "Under minor revision in Journal of Glaciology"
   year: "202X"
   url: https://arxiv.org/pdf/2604.11488
+  code: https://github.com/mashadab/HydroFirn
 
 - title: "A vertically integrated model with phase change for aquifers in cold firn"
   authors: "Mohammad Afzal Shadab, Howard A. Stone, and Reed M. Maxwell"
