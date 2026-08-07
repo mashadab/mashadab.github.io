@@ -6,6 +6,7 @@
   info:
   year: 2025
   doi: https://doi.org/10.1017/jog.2025.10055
+  code: https://github.com/mashadab/unified-kinematic-wave-theory
   abstract: "Motivated by the ponding and refreezing of meltwater in firn, we analyze the interaction of liquid water and non-reactive gas with porous ice by developing a unified kinematic wave theory. The wave theory is based on the conservation of composition and enthalpy, coupling advective heat and mass transport in firn, and encompasses cases of meltwater perching where the conventional kinematic wave approximation fails. For simple initial conditions (Riemann problems), this model allows for self-similar solutions that reveal the structure of melting/refreezing fronts, with analytical solutions provided for 12 basic cases of physical relevance encountered in the literature. These solutions offer insights into processes such as the formation of frozen fringes, the perching of meltwater on low-porosity layers, and conditions for impermeable ice layer formation. This theoretical framework can enhance our understanding of the partitioning between meltwater infiltration and surface runoff, which influences surface mass loss from ice sheets and contributes to sea level rise. Furthermore, these analytic solutions serve as benchmarks for numerical models and can aid in the improvement and comparison of firn hydrology, ice-sheet, and Earth system models."
 
 - title: "Infiltration Dynamics on Early Mars: Geomorphic, Climatic, and Water Storage Implications"
@@ -16,6 +17,7 @@
   info:
   year: 2025
   doi: https://doi.org/10.1029/2024GL111939
+  code: https://github.com/mashadab/Infiltration-on-early-Mars
   abstract: "On early Mars, the integration of surface, groundwater, and climate systems into an integrated hydrological system remains poorly understood. The partitioning of precipitation, between surface and groundwater via infiltration, controls the Martian aquifer recharge rates and, subsequently, surface erosion processes. We investigate infiltration at two scales, near-surface and deep crustal. We estimate infiltration timescales, revealing that near-surface water loss enhances aeolian erosion over short periods (hours to days). Deep crustal recharge, which requires decades to centuries, affects the deep aquifer response and the water budget. Martian crustal heterogeneity influences infiltration dynamics and runoff production making them dependent on the duration of precipitation. This interaction suggests that the responses of the aquifers to recharge events and groundwater upwelling likely lag behind climate optimum conditions. The accommodation space between topography and aquifer influences Mars' water budget by transiently sequestering water, thus limiting the available water for surface evaporation and inclusion in climate dynamics."
 
 - title: "History and Habitability of the LP 890-9 Planetary System"
@@ -48,6 +50,7 @@
   info:
   year: 2024
   doi: https://doi.org/10.1029/2024GL109893
+  code: https://github.com/mashadab/ice-layer-formation
   abstract: "There is ample evidence for ice layers and lenses within glacial firn. The standard model for ice layer formation localizes the refreezing by perching of meltwater on pre-existing discontinuities. Here we argue that even extreme melting events provide insufficient flux for this mechanism. Using a thermomechanical model we demonstrate a different mechanism of ice layer formation. After a melting event when the drying front catches up with the wetting front and arrests melt percolation, conductive heat loss freezes the remaining melt in place to form an ice layer. This model reproduces the depth of a new ice layer at the Dye-2 site in Greenland. It provides a deeper insight into the interpretation of firn stratigraphy and past climate variability. It also improves the simulation of firn densification processes, a key source of uncertainty in assessing and attributing ice sheet mass balance based on satellite altimetry and gravimetry data."
 
 - title: "A hyperbolic–elliptic PDE model and conservative numerical method for gravity-dominated variably-saturated groundwater flow"
@@ -58,6 +61,7 @@
   info:
   year: 2024
   doi: https://doi.org/10.1016/j.advwatres.2024.104736
+  code: https://github.com/mashadab/VarSatFlow
   abstract: "Richards equation is often used to represent two-phase fluid flow in an unsaturated porous medium when one phase is much heavier and more viscous than the other. However, it cannot describe the fully saturated flow for some capillary functions without specialized treatment due to degeneracy in the capillary pressure term. Mathematically, gravity-dominated variably saturated flows are interesting because their governing partial differential equation switches from hyperbolic in the unsaturated region to elliptic in the saturated region. Moreover, the presence of wetting fronts introduces strong spatial gradients often leading to numerical instability. In this work, we develop a robust, multidimensional mathematical model and implement a well-known efficient and conservative numerical method for such variably saturated flow in the limit of negligible capillary forces. The elliptic problem in saturated regions is integrated efficiently into our framework by solving a reduced system corresponding only to the saturated cells using fixed head boundary conditions in the unsaturated cells. In summary, this coupled hyperbolic–elliptic PDE framework provides an efficient, physics-based extension of the hyperbolic Richards equation to simulate fully saturated regions. Finally, we provide a suite of easy-to-implement yet challenging benchmark test problems involving saturated flows in one and two dimensions. These simple problems, accompanied by their corresponding analytical solutions, can prove to be pivotal for the code verification, model validation (V&V) and performance comparison of simulators for variably saturated flow. Our numerical solutions show an excellent comparison with the analytical results for the proposed problems. The last test problem on two-dimensional infiltration in a stratified, heterogeneous soil shows the formation and evolution of multiple disconnected saturated regions."
 
 
@@ -69,6 +73,7 @@
   info: 
   year: 2023
   doi: https://doi.org/10.1016/j.softx.2023.101573
+  code: https://github.com/mashadab/PKgui
   abstract: "A Python program and standalone executables with a graphical user interface (PKgui) have been developed to solve the classical semi-analytic solutions derived by Polubarinova-Kochina for a steady unconfined aquifer across a rectangular dam/aquifer. Although considered very useful in geotechnical and groundwater communities, these solutions have not been widely used in the literature due to their mathematical and computational complexities. Using nonlinear least squares optimization toolbox, this program solves a set of coupled nonlinear integral equations directly, efficiently, and accurately. Lastly, a theoretical limit to applicability of Polubarinova-Kochina’s results and therefore the software outputs are also discussed."
 
 - title: "Limited recharge of the southern highlands aquifer on early Mars"
@@ -90,6 +95,7 @@
   info: 
   year: 2023
   doi: https://doi.org/10.1016/j.advwatres.2023.104445
+  code: https://github.com/dc-luo/seepagePINN
   abstract: "A deep learning technique called Physics Informed Neural Networks (PINNs) is adapted to study steady groundwater flow in unconfined aquifers. This technique utilizes information from underlying physics represented in the form of partial differential equations (PDEs) alongside data obtained from physical observations. In this work, we consider the Dupuit-Boussinesq equation, which is based on the Dupuit-Forchheimer approximation, as well as a recent, more complete model derived by Di Nucci (2018) as underlying models. We then train PINNs on data obtained from steady-state analytical solutions and laboratory based experiments. Using PINNs, we predict phreatic surface profiles given different input flow conditions and recover estimates for the hydraulic conductivity from the experimental observations. We show that PINNs can eliminate the inherent inability of the Dupuit-Boussinesq equation to predict flows with seepage faces. Moreover, the inclusion of physics information from the Di Nucci and Dupuit-Boussinesq models constrains the solution space and produces better predictions than training on data alone. PINNs based predictions are robust and show a little effect from added noise in the training data. Furthermore, we compare the PINNs solutions obtained via the Di Nucci and Dupuit-Boussinesq flow models to examine the effects of higher order flow terms that are included in the Di Nucci formulation but are neglected by the Dupuit-Boussinesq approximation. Lastly, we discuss the effectiveness of using PINNs for examining groundwater flow."
 
 
@@ -101,6 +107,7 @@
   info: 
   year: 2022
   doi: https://doi.org/10.1029/2022WR032963
+  code: https://github.com/mashadab/hyperbolic-infiltration-theory
   abstract: "Understanding the controls on the infiltration of precipitation into soil is an important problem in hydrology and its representation in heterogeneous media is still challenging. Here we investigate the reduction of gravity-driven infiltration by the development of a saturated region due to the downward decrease in porosity and/or hydraulic conductivity. The formation of a saturated region chokes the flow and leads to a rising perched water table that causes ponding even when rainfall intensity is lower than the surface infiltration capacity. Mathematically this problem is interesting, because its governing partial differential equation switches from hyperbolic in the unsaturated region to elliptic in the saturated region. To analyze this coupled unsaturated-saturated flow we develop an extended kinematic wave analysis in the limit of no capillary forces. This theory provides a general framework to solve gravity-dominated infiltration problems for arbitrary downward decrease in porosity and/or conductivity. We apply the framework to three soil profiles (two-layer, exponential and power-law decay with depth) and develop (semi-) analytic solutions for evolution of the water saturation. For the case of a two-layer soil the saturated flux, and therefore the front speeds, are constant which allows explicit analytic solutions that agree well with Hydrus-1D. All solutions show excellent agreement with our numerical solutions of the governing equations in the limit of no capillary forces. Similarly, our solutions compare well with experimental data for infiltration into a multi-layer soil with declining hydraulic conductivity."
 
 - title: "Fifth-order finite-volume WENO on cylindrical grids"
@@ -111,6 +118,7 @@
   info: 
   year: 2020
   doi: https://doi.org/10.1007/978-3-030-39647-3
+  code: https://github.com/mashadab/WENO-curvilinear
   abstract: The fifth-order finite-volume WENO-C reconstruction scheme is proposed for structured grids in cylindrical coordinates to achieve high order spatial accuracy along with ENO transition. A grid independent smoothness indicator is derived for this scheme. For uniform grids, the analytical values in cylindrical-radial coordinates for the limiting case (R → ∞) conform to WENO-JS. Linear stability analysis of the present scheme is performed using a scalar advection equation in radial coordinates. Several tests involving smooth and discontinuous flows are performed, which testify for the fifth-order accuracy and ENO property of the scheme."
 
 - title: "Fifth order finite volume WENO in general orthogonally-curvilinear coordinates"
@@ -121,6 +129,7 @@
   info: 
   year: 2019
   doi: https://doi.org/10.1016/j.compfluid.2019.06.031
+  code: https://github.com/mashadab/WENO-curvilinear
   abstract: "High order reconstruction in the finite volume (FV) approach is achieved by a more fundamental form of the fifth order WENO reconstruction in the framework of orthogonally-curvilinear coordinates, for solving the hyperbolic conservation equations. The derivation employs a piecewise parabolic polynomial approximation to the zone averaged values to reconstruct the right, middle, and left interface values. The grid dependent linear weights of the WENO are recovered by inverting a Vandermode-like linear system of equations with spatially varying coefficients. A scheme for calculating the linear weights, optimal weights, and smoothness indicator on a regularly- and irregularly-spaced grid in orthogonally-curvilinear coordinates is proposed. A grid independent relation for evaluating the smoothness indicator is derived from the basic definition. Finally, the procedures for the source term integration and extension to multi-dimensions are proposed. Analytical values of the linear and optimal weights, and also the weights required for the source term integration and flux averaging, are provided for a regularly-spaced grid in Cartesian, cylindrical, and spherical coordinates. Conventional fifth order WENO reconstruction for the regularly-spaced grids in the Cartesian coordinates can be fully recovered in the case of limiting curvature. The fifth order finite volume WENO-C (orthogonally-curvilinear version of WENO) reconstruction scheme is tested for several 1D and 2D benchmark test cases involving smooth and discontinuous flows in cylindrical and spherical coordinates."
 
 - title: "Fifth-order finite volume WENO in general orthogonally-curvilinear coordinates"

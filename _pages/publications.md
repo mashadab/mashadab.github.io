@@ -71,8 +71,9 @@ permalink: /publications/
  {% if publi.journal %}Under review at <i>{{ publi.journal }}</i>,{% endif %} {% if publi.doi %} doi {{ publi.doi }}{% endif %}<br/>
  {% if publi.url %}<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ publi.url }}.pdf" target="_blank"><button type="button" class="btn btn-success btn-sm">PDF</button></a>{% endif %}
  {% if publi.arxiv %}<a href="https://arxiv.org/abs/{{ publi.arxiv }}" target="_blank"><button class="btn btn-sm btn-primary">ARXIV</button></a> {% endif %}
- {% if bibtest == true %} <a data-toggle="collapse" href="#{{publi.url}}2" class="btn btn-sm btn-warning" role="button" aria-expanded="false" aria-controls="{{publi.url}}2">BIB</a> {% endif %}
  {% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.url}}" class="btn btn-sm btn-danger" role="button" aria-expanded="false" aria-controls="{{publi.url}}">ABSTRACT</a>{% endif %}
+ {% if publi.code %} <a href="{{ publi.code }}" target="_blank"><button type="button" class="btn btn-sm btn-secondary">CODE</button></a>{% endif %}
+ {% if bibtest == true %} <a data-toggle="collapse" href="#{{publi.url}}2" class="btn btn-sm btn-warning" role="button" aria-expanded="false" aria-controls="{{publi.url}}2">BIB</a> {% endif %}
 
 {% if publi.abstract %}
 <div class="collapse" id="{{publi.url}}"><div class="well-collapse">
@@ -135,7 +136,7 @@ permalink: /publications/
   <b>{{ publi.title }}</b><br/>
   {{ publi.authors | replace_first: 'S. H. Bryngelson', '<b>S. H. Bryngelson</b>'}}<br/>
   <i>{{ publi.journal }}</i> {% if publi.info %}{{publi.info}}{% endif %} {% if publi.year %}({{publi.year}}){% endif %}<br/>
-  {% if publi.url %}<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ publi.url }}.pdf" target="_blank"><button type="button" class="btn btn-sm btn-success">PDF</button></a>{% endif %} {% if publi.doi %}<a href="http://dx.doi.org/{{ publi.doi }}" target="_blank"><button type="button" class="btn btn-sm btn-primary">DOI</button></a> {% endif %}{% if bibtest == true %} <a data-toggle="collapse" href="#{{publi.url}}2" class="btn btn-sm btn-warning" role="button" aria-expanded="false" aria-controls="{{publi.url}}2">BIB</a> {% endif %}{% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.url}}" class="btn btn-sm btn-danger" role="button" aria-expanded="false" aria-controls="{{publi.url}}">ABSTRACT</a>{% endif %}
+  {% if publi.url %}<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ publi.url }}.pdf" target="_blank"><button type="button" class="btn btn-sm btn-success">PDF</button></a>{% endif %} {% if publi.doi %}<a href="{{ publi.doi }}" target="_blank"><button type="button" class="btn btn-sm btn-primary">DOI</button></a> {% endif %}{% if publi.abstract %} <a data-toggle="collapse" href="#{{publi.url}}" class="btn btn-sm btn-danger" role="button" aria-expanded="false" aria-controls="{{publi.url}}">ABSTRACT</a>{% endif %}{% if publi.code %} <a href="{{ publi.code }}" target="_blank"><button type="button" class="btn btn-sm btn-secondary">CODE</button></a>{% endif %}{% if bibtest == true %} <a data-toggle="collapse" href="#{{publi.url}}2" class="btn btn-sm btn-warning" role="button" aria-expanded="false" aria-controls="{{publi.url}}2">BIB</a> {% endif %}
 
 {% if publi.abstract %}
 <div class="collapse" id="{{publi.url}}"><div class="well-collapse">
