@@ -21,6 +21,17 @@ In **terrestrial hydrology**, I study variably saturated flow in heterogeneous s
 
 My work also extends hydrologic theory to **planetary environments** as water is crucial for search for life. I study groundwater recharge, infiltration, and hydrothermal systems on early Mars, as well as melt migration through the ice shells of ocean worlds, through active collaborations with the [European Space Agency (ESA)](https://www.esa.int/), [NASA](https://www.nasa.gov/), and the [University of Texas at Austin](https://www.utexas.edu/). More broadly, I am interested in developing **observation-guided hydrologic theories and computational tools** that integrate **reduced-order modeling, high-performance computing, and scientific machine learning** and inform current/future astrobiology missions.
 
+<div style="position:relative; width:100%; max-width:640px; padding-top:56.25%; margin:1.5rem auto;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/k0-7Jp9p06g"
+    title="Science communication interview with PhyPsyFilm"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen
+    style="position:absolute; inset:0; width:100%; height:100%; border:0; border-radius:5px;">
+  </iframe>
+</div>
 
 <div class="container">
 <div class="row">
