@@ -44,7 +44,7 @@ style="border-style:solid;border-radius:5px;">
   Your browser does not support the video tag.
 </video>
 
-<br>ParFlow-Community Land Model simulation outputs at Little Washita Watershed, ~30 km SMAP-grid scale (Shadab, Jadallah and Maxwell, in prep.)<br/>
+<br>ParFlow-Community Land Model simulation outputs at Little Washita Watershed, ~30 km SMAP-grid scale (Shadab, Jadallah and Maxwell, under review)<br/>
 
 </center>
 </div>
