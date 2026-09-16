@@ -12,7 +12,7 @@ permalink: /talks/
 ### Invited Talks and Seminars
 <ul>
 {% for publi in site.data.invited_talks %}
-<li> {{ publi.name | replace: "-","&#8211;" }} </li>
+<li> {{ publi.name | replace: " - "," &#8211; " }} </li>
 {% endfor %}
 </ul>
 </div>
