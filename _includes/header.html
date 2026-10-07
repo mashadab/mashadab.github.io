@@ -16,8 +16,8 @@
           </li> 
           {% for page in site.nav_pages %}
            <li class="nav-item">
-            <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/{{page.name}}">{{page.name | capitalize }}</a>
-           </li> 
+            <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/{{ page.path | default: page.name }}">{% if page.label %}{{ page.label }}{% else %}{{ page.name | capitalize }}{% endif %}</a>
+           </li>
           {% endfor %}
         </ul>
   </div>

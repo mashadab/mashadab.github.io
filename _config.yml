@@ -32,8 +32,12 @@ nav_pages:
   - name: publications
   - name: talks
   - name: projects
+    label: Research
   - name: teaching
   - name: outreach
+  - name: cv
+    label: CV
+    path: cv_afzal.pdf
 
 # Do you want to group your publications by year? {true/false}
 group_pub_by_year: true
