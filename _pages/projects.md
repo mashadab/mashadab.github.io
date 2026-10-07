@@ -174,21 +174,21 @@ Investigating how physical process representations affect large-scale integrated
 </div>
 
 <div class="project-card">
-<h4>Physics-Informed Neural Networks for Groundwater Flow</h4>
+<h4>Physics-Informed Machine Learning for Groundwater Flow</h4>
 
 <p class="project-meta">
 <b>Collaborators:</b>
-Dingcheng Luo, Yiran Shen, Eric Hiatt, and Marc Hesse (UT Austin)
+Eric Hiatt (UT Austin), Marc Hesse (UT Austin), Reed Maxwell (Princeton), Laura Condon (UArizona), Julian Koch (GEUS)
 </p>
 
 <p>
-Developed data-driven frameworks to infer governing equations and parameters in groundwater systems.
+Developed data-driven frameworks to infer governing equations, hydrologic states and parameters in groundwater systems.
 </p>
 
 <ul>
-<li>Inferred groundwater flow equations directly from sparse observational data</li>
-<li>Estimated hydraulic conductivity and boundary conditions in transient seepage problems</li>
-<li>Assessed PINN robustness under model-data mismatch and scaling limitations</li>
+<li>Inferred groundwater flow equations, boundary conditions and parameters directly from sparse observational data using Physics informed neural networks</li>
+<li>Utilized random forest models for high resolution water table depth estimates across India</li>
+<li>Studying the dominant controls on hydrogeology</li>
 </ul>
 
 <div class="project-media">
@@ -199,10 +199,13 @@ Developed data-driven frameworks to infer governing equations and parameters in 
 <video autoplay loop muted playsinline>
   <source src="{{ '/assets/Dupuit-NN-noise.mp4' | relative_url }}" type="video/mp4">
 </video>
+
+<img src="{{ '/assets/high_res_WTD_India.png' | relative_url }}" alt="High-resolution map of water-table depth across India using a random forest model">
 </div>
 
 <p class="project-links">
-<a href="https://doi.org/10.1016/j.advwatres.2023.104445" target="_blank">Paper (2023)</a>
+<a href="https://doi.org/10.1016/j.advwatres.2023.104445" target="_blank">Paper (2023)</a>,
+Manuscript in preparation
 </p>
 </div>
 
