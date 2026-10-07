@@ -55,6 +55,21 @@ style="border-style:solid;border-radius:5px;">
 <div class="row">
 <center>
 
+<img src="{{ '/assets/high_res_WTD_India.png' | relative_url }}"
+     style="width:100%; max-width:700px; height:auto; border-style:solid; border-radius:5px;"
+     alt="High-resolution map of water-table depth across India using a random forest model">
+
+<br>High-resolution mapping of water-table depth across India using a random forest model (Shadab et al., manuscript in preparation)<br/>
+
+</center>
+</div>
+</div>
+<br/>
+
+<div class="container">
+<div class="row">
+<center>
+
 <video width="400" autoplay loop muted playsinline
 style="border-style:solid;border-radius:5px;">
   <source src="/assets/S2_firn_video_4000m_with_classification_pcolormesh.mp4" type="video/mp4">
