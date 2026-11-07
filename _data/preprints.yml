@@ -1,7 +1,7 @@
 - title: "HydroFirn: A numerical model for large-scale multidimensional firn hydrology"
   authors: "Mohammad Afzal Shadab, Surendra Adhikari, C. Max Stevens, Asa K. Rennermalm, Jing Xiao, Marc A. Hesse, and Reed M. Maxwell"
-  venue: "Under minor revision in Journal of Glaciology"
-  year: "202X"
+  venue: "Journal of Glaciology"
+  status: "Accepted Manuscript"
   url: https://arxiv.org/pdf/2604.11488
   code: https://github.com/mashadab/HydroFirn
 

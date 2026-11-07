@@ -17,20 +17,28 @@ permalink: /publications/
 }
 </style>
 
-{% if site.data.preprints %}
-## Under Review
+{% assign manuscript_sections = "Accepted Manuscripts|Under Review" | split: "|" %}
+{% for section in manuscript_sections %}
+{% if section == "Accepted Manuscripts" %}
+{% assign manuscripts = site.data.preprints | where: "status", "Accepted Manuscript" %}
+{% else %}
+{% assign manuscripts = site.data.preprints | where_exp: "item", "item.status != 'Accepted Manuscript'" %}
+{% endif %}
+{% if manuscripts.size > 0 %}
+## {{ section }}
 
-{% for preprint in site.data.preprints %}
+{% for preprint in manuscripts %}
 <div class="jumbotron">
 <strong>{{ preprint.title }}</strong><br/>
 {{ preprint.authors }}<br/>
-<i>{{ preprint.venue }}</i>{% if preprint.year %} ({{ preprint.year }}){% endif %}<br/>
+<i>{{ preprint.venue }}</i>{% if preprint.status %} · {{ preprint.status }}{% endif %}{% if preprint.year %} ({{ preprint.year }}){% endif %}<br/>
 {% if preprint.note %}<small>{{ preprint.note }}</small><br/>{% endif %}
 {% if preprint.url %}<a href="{{ preprint.url }}" target="_blank"><button type="button" class="btn btn-sm btn-primary">PREPRINT</button></a>{% endif %}
 {% if preprint.code %}<a href="{{ preprint.code }}" target="_blank"><button type="button" class="btn btn-sm btn-secondary">CODE</button></a>{% endif %}
 </div>
 {% endfor %}
 {% endif %}
+{% endfor %}
 
 ## Articles
 
